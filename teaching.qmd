@@ -2,16 +2,28 @@
 title: "Teaching"
 ---
 
-This page will highlight my teaching in GIS, cartography, uncrewed aerial systems, geospatial analysis, and professional development.
+My teaching focuses on helping students use geospatial tools to solve real problems, communicate clearly, and build professional confidence. I teach GIS, cartography, uncrewed aerial systems, remote sensing, spatial analysis, and professional-development topics through applied projects and realistic workflows.
 
-## Teaching focus
+Rather than treating GIS as a collection of disconnected tools, I try to help students understand the full problem-solving process: defining the question, identifying useful data, evaluating limitations, choosing appropriate methods, producing clear deliverables, and explaining results to an audience.
 
-- Applied GIS and geospatial problem solving
-- Cartography and geovisualization
-- Uncrewed aerial systems and remote sensing
-- Community-engaged geospatial projects
-- Professional preparation for students
+## Teaching Areas
 
-## Selected courses
+- **Geographic Information Systems:** Applied GIS workflows, spatial analysis, data management, and problem solving.
+- **Cartography and Geovisualization:** Map design, visual communication, audience awareness, and effective geospatial storytelling.
+- **Uncrewed Aerial Systems:** FAA Part 107 concepts, flight planning, data collection, photogrammetry, safety, and applied UAV workflows.
+- **Remote Sensing:** Image interpretation, sensor characteristics, data products, and applications.
+- **Professional Preparation:** Portfolio development, conference preparation, project communication, career pathways, and professional expectations.
+
+## Teaching Approach
+
+I design courses and labs around realistic scenarios. Students are often asked to work through problems similar to those they might encounter in professional practice: identifying what data are needed, determining whether the data are appropriate, choosing tools and methods, producing deliverables, and communicating results clearly.
+
+This approach helps students see GIS as a process rather than a button-clicking exercise. The goal is not simply to complete a tutorial, but to understand how geospatial analysis supports decision-making.
+
+## Selected Courses and Learning Experiences
+
+Content coming soon.
+
+## Example Teaching Materials
 
 Content coming soon.

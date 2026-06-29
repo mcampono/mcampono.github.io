@@ -4,21 +4,35 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "This page will highlight my teaching in GIS, cartography, uncrewed aerial systems, geospatial analysis, and professional development."
+    "text": "My teaching focuses on helping students use geospatial tools to solve real problems, communicate clearly, and build professional confidence. I teach GIS, cartography, uncrewed aerial systems, remote sensing, spatial analysis, and professional-development topics through applied projects and realistic workflows.\nRather than treating GIS as a collection of disconnected tools, I try to help students understand the full problem-solving process: defining the question, identifying useful data, evaluating limitations, choosing appropriate methods, producing clear deliverables, and explaining results to an audience."
   },
   {
-    "objectID": "teaching.html#teaching-focus",
-    "href": "teaching.html#teaching-focus",
+    "objectID": "teaching.html#teaching-areas",
+    "href": "teaching.html#teaching-areas",
     "title": "Teaching",
-    "section": "Teaching focus",
-    "text": "Teaching focus\n\nApplied GIS and geospatial problem solving\nCartography and geovisualization\nUncrewed aerial systems and remote sensing\nCommunity-engaged geospatial projects\nProfessional preparation for students"
+    "section": "Teaching Areas",
+    "text": "Teaching Areas\n\nGeographic Information Systems: Applied GIS workflows, spatial analysis, data management, and problem solving.\nCartography and Geovisualization: Map design, visual communication, audience awareness, and effective geospatial storytelling.\nUncrewed Aerial Systems: FAA Part 107 concepts, flight planning, data collection, photogrammetry, safety, and applied UAV workflows.\nRemote Sensing: Image interpretation, sensor characteristics, data products, and applications.\nProfessional Preparation: Portfolio development, conference preparation, project communication, career pathways, and professional expectations."
   },
   {
-    "objectID": "teaching.html#selected-courses",
-    "href": "teaching.html#selected-courses",
+    "objectID": "teaching.html#teaching-approach",
+    "href": "teaching.html#teaching-approach",
     "title": "Teaching",
-    "section": "Selected courses",
-    "text": "Selected courses\nContent coming soon."
+    "section": "Teaching Approach",
+    "text": "Teaching Approach\nI design courses and labs around realistic scenarios. Students are often asked to work through problems similar to those they might encounter in professional practice: identifying what data are needed, determining whether the data are appropriate, choosing tools and methods, producing deliverables, and communicating results clearly.\nThis approach helps students see GIS as a process rather than a button-clicking exercise. The goal is not simply to complete a tutorial, but to understand how geospatial analysis supports decision-making."
+  },
+  {
+    "objectID": "teaching.html#selected-courses-and-learning-experiences",
+    "href": "teaching.html#selected-courses-and-learning-experiences",
+    "title": "Teaching",
+    "section": "Selected Courses and Learning Experiences",
+    "text": "Selected Courses and Learning Experiences\nContent coming soon."
+  },
+  {
+    "objectID": "teaching.html#example-teaching-materials",
+    "href": "teaching.html#example-teaching-materials",
+    "title": "Teaching",
+    "section": "Example Teaching Materials",
+    "text": "Example Teaching Materials\nContent coming soon."
   },
   {
     "objectID": "recognition.html",
@@ -123,7 +137,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This page will include a short professional biography, areas of work, and contact information."
+    "text": "I am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner at the University of Tennessee, Knoxville. My work focuses on helping students, educators, professionals, and community partners use geospatial tools to understand problems, communicate clearly, and make better decisions.\nMy professional work sits at the intersection of teaching, outreach, applied GIS, uncrewed aerial systems, cartography, and student mentoring. I develop applied learning experiences that connect technical skills with real-world questions, including GIS analysis, web mapping, UAV data collection, remote sensing, cartographic communication, and professional development."
+  },
+  {
+    "objectID": "about.html#professional-focus",
+    "href": "about.html#professional-focus",
+    "title": "About",
+    "section": "Professional Focus",
+    "text": "Professional Focus\nMy work includes:\n\nTeaching undergraduate and professional-development courses in GIS, cartography, UAVs, remote sensing, and geospatial problem solving.\nDeveloping workshops and outreach programs for students, educators, public agencies, and professional audiences.\nSupporting community-engaged GIS and UAV projects with students, colleagues, and partner organizations.\nMentoring students as they prepare for conferences, research opportunities, internships, jobs, and graduate school.\nContributing to professional organizations, outreach initiatives, and geospatial education efforts across Tennessee."
+  },
+  {
+    "objectID": "about.html#approach",
+    "href": "about.html#approach",
+    "title": "About",
+    "section": "Approach",
+    "text": "Approach\nI try to design learning experiences around realistic problems rather than isolated tools. In GIS, the technical steps matter, but they are only part of the work. Students and professionals also need to understand the question being asked, the data needed to answer it, the limitations of the analysis, and the best way to communicate results to a real audience.\nThis portfolio highlights selected examples of that work, including teaching materials, workshops, community projects, geospatial products, mentoring activities, service roles, and professional recognition."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nContact information and professional links will be added here."
   },
   {
     "objectID": "cv.html",
@@ -151,7 +186,14 @@
     "href": "index.html",
     "title": "Michael Camponovo",
     "section": "",
-    "text": "Welcome to my professional portfolio.\nI am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner. This site documents selected work in teaching, GIS outreach, UAV education, community projects, student mentoring, and professional service."
+    "text": "This portfolio documents my work as a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor.\nMy work connects geospatial technology with teaching, professional development, community projects, and student success. I develop applied GIS and UAV learning experiences, support public-facing geospatial outreach, collaborate on community mapping projects, and mentor students as they build technical skills and professional pathways.\nUse the sections below to explore selected work in teaching, workshops and outreach, community GIS projects, geospatial products, mentoring, service, and professional recognition."
+  },
+  {
+    "objectID": "index.html#areas-of-work",
+    "href": "index.html#areas-of-work",
+    "title": "Michael Camponovo",
+    "section": "Areas of Work",
+    "text": "Areas of Work\n\nTeaching: GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.\nWorkshops & Outreach: FAA Part 107 education, GIS professional development, K–12 educator support, and public-facing geospatial training.\nCommunity GIS: Applied mapping, UAV, and geospatial projects developed with community partners and students.\nGeospatial Portfolio: Selected maps, web apps, UAV products, cartographic outputs, and spatial storytelling examples.\nMentoring & Student Success: Undergraduate research, conference preparation, career pathways, and professional networking.\nService & Leadership: Professional organization service, program development, conference planning, and outreach leadership."
   },
   {
     "objectID": "outreach.html",
