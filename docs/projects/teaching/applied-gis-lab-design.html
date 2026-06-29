@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-06-01">
+<meta name="description" content="A teaching approach that frames GIS labs around realistic problems, complete workflows, and professional-style deliverables.">
 
-<title>Teaching – Michael Camponovo</title>
+<title>Applied GIS Lab Design – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing-projects'] = new List('listing-listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Michael Camponovo</span>
     </a>
   </div>
@@ -152,43 +94,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
+    <a class="nav-link" href="../../outreach.html"> 
 <span class="menu-text">Workshops &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./community-projects.html"> 
+    <a class="nav-link" href="../../community-projects.html"> 
 <span class="menu-text">Community GIS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./geospatial-portfolio.html"> 
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
 <span class="menu-text">Geospatial Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentoring.html"> 
+    <a class="nav-link" href="../../mentoring.html"> 
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./service.html"> 
+    <a class="nav-link" href="../../service.html"> 
 <span class="menu-text">Service</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recognition.html"> 
+    <a class="nav-link" href="../../recognition.html"> 
 <span class="menu-text">Awards &amp; Recognition</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV / Contact</span></a>
   </li>  
 </ul>
@@ -207,26 +149,45 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#teaching-areas" id="toc-teaching-areas" class="nav-link active" data-scroll-target="#teaching-areas">Teaching Areas</a></li>
-  <li><a href="#teaching-approach" id="toc-teaching-approach" class="nav-link" data-scroll-target="#teaching-approach">Teaching Approach</a></li>
-  <li><a href="#selected-courses-and-learning-experiences" id="toc-selected-courses-and-learning-experiences" class="nav-link" data-scroll-target="#selected-courses-and-learning-experiences">Selected Courses and Learning Experiences</a></li>
-  <li><a href="#example-teaching-materials" id="toc-example-teaching-materials" class="nav-link" data-scroll-target="#example-teaching-materials">Example Teaching Materials</a></li>
+  <li><a href="#teaching-role" id="toc-teaching-role" class="nav-link active" data-scroll-target="#teaching-role">Teaching Role</a></li>
+  <li><a href="#teaching-goals" id="toc-teaching-goals" class="nav-link" data-scroll-target="#teaching-goals">Teaching Goals</a></li>
+  <li><a href="#instructional-approach" id="toc-instructional-approach" class="nav-link" data-scroll-target="#instructional-approach">Instructional Approach</a></li>
+  <li><a href="#portfolio-significance" id="toc-portfolio-significance" class="nav-link" data-scroll-target="#portfolio-significance">Portfolio Significance</a></li>
+  <li><a href="#related-materials" id="toc-related-materials" class="nav-link" data-scroll-target="#related-materials">Related Materials</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YXBwbGllZCUyMGxlYXJuaW5n">applied learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R0lT">GIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGFiJTIwZGVzaWdu">lab design <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJvZmVzc2lvbmFsJTIwcHJlcGFyYXRpb24=">professional preparation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGVhY2hpbmc=">teaching <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Teaching</h1>
-</div>
+<h1 class="title">Applied GIS Lab Design</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">teaching</div>
+    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">lab design</div>
+    <div class="quarto-category">professional preparation</div>
+    <div class="quarto-category">applied learning</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    A teaching approach that frames GIS labs around realistic problems, complete workflows, and professional-style deliverables.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 1, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -236,71 +197,36 @@ window.Quarto = {
 </header>
 
 
-<p>My teaching focuses on helping students use geospatial tools to solve real problems, communicate clearly, and build professional confidence. I teach GIS, cartography, uncrewed aerial systems, remote sensing, spatial analysis, and professional-development topics through applied projects and realistic workflows.</p>
-<p>Rather than treating GIS as a collection of disconnected tools, I try to help students understand the full problem-solving process: defining the question, identifying useful data, evaluating limitations, choosing appropriate methods, producing clear deliverables, and explaining results to an audience.</p>
-<section id="teaching-areas" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-areas">Teaching Areas</h2>
+<p>The <strong>Applied GIS Lab Design</strong> approach reflects my effort to teach GIS as a complete problem-solving process rather than a sequence of disconnected tools.</p>
+<p>In many GIS courses, students learn individual software operations without always understanding how those operations fit into a larger workflow. My goal is to design labs that begin with realistic questions, require students to identify and prepare appropriate data, guide them through analysis and interpretation, and end with deliverables that resemble what they might produce for a client, supervisor, agency, or community partner.</p>
+<section id="teaching-role" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-role">Teaching Role</h2>
+<p>My role includes developing lab scenarios, writing step-by-step technical instructions, creating supporting videos and examples, designing deliverables, and helping students understand how individual GIS tools fit into a larger analytical process.</p>
+</section>
+<section id="teaching-goals" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-goals">Teaching Goals</h2>
+<p>This approach is designed to help students:</p>
 <ul>
-<li><strong>Geographic Information Systems:</strong> Applied GIS workflows, spatial analysis, data management, and problem solving.</li>
-<li><strong>Cartography and Geovisualization:</strong> Map design, visual communication, audience awareness, and effective geospatial storytelling.</li>
-<li><strong>Uncrewed Aerial Systems:</strong> FAA Part 107 concepts, flight planning, data collection, photogrammetry, safety, and applied UAV workflows.</li>
-<li><strong>Remote Sensing:</strong> Image interpretation, sensor characteristics, data products, and applications.</li>
-<li><strong>Professional Preparation:</strong> Portfolio development, conference preparation, project communication, career pathways, and professional expectations.</li>
+<li>understand GIS as a problem-solving process,</li>
+<li>connect technical steps to real-world questions,</li>
+<li>evaluate data needs and limitations,</li>
+<li>practice complete workflows rather than isolated tools,</li>
+<li>produce clear maps, figures, analyses, and written explanations,</li>
+<li>build confidence for internships, jobs, research, and community projects.</li>
 </ul>
 </section>
-<section id="teaching-approach" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-approach">Teaching Approach</h2>
-<p>I design courses and labs around realistic scenarios. Students are often asked to work through problems similar to those they might encounter in professional practice: identifying what data are needed, determining whether the data are appropriate, choosing tools and methods, producing deliverables, and communicating results clearly.</p>
-<p>This approach helps students see GIS as a process rather than a button-clicking exercise. The goal is not simply to complete a tutorial, but to understand how geospatial analysis supports decision-making.</p>
+<section id="instructional-approach" class="level2">
+<h2 class="anchored" data-anchor-id="instructional-approach">Instructional Approach</h2>
+<p>I often frame GIS assignments as realistic scenarios. Students may be asked to support a planning question, analyze environmental conditions, prepare public-facing maps, evaluate spatial patterns, or develop products that communicate results to a specific audience.</p>
+<p>The goal is not only to complete a tutorial. The goal is to understand what the workflow is doing, why each step matters, what assumptions are involved, and how the final product should be communicated.</p>
 </section>
-<section id="selected-courses-and-learning-experiences" class="level2">
-<h2 class="anchored" data-anchor-id="selected-courses-and-learning-experiences">Selected Courses and Learning Experiences</h2>
-<p>The project pages below highlight selected teaching approaches, course materials, learning experiences, and examples of applied geospatial education.</p>
-<div id="listing-listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNHSVMlMkNsYWIlMjBkZXNpZ24lMkNwcm9mZXNzaW9uYWwlMjBwcmVwYXJhdGlvbiUyQ2FwcGxpZWQlMjBsZWFybmluZw==" data-listing-date-sort="1780286400000" data-listing-file-modified-sort="1782754469833" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
-<div class="thumbnail"><a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/applied-gis-lab-design.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">Applied GIS Lab Design</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lT'); return false;">GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGFiJTIwZGVzaWdu'); return false;">lab design</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvZmVzc2lvbmFsJTIwcHJlcGFyYXRpb24='); return false;">professional preparation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXBwbGllZCUyMGxlYXJuaW5n'); return false;">applied learning</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">
-<p>A teaching approach that frames GIS labs around realistic problems, complete workflows, and professional-style deliverables.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">
-<div class="listing-date">
-Jun 1, 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="portfolio-significance" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio-significance">Portfolio Significance</h2>
+<p>This teaching approach connects directly to my broader work in geospatial education, professional development, community-engaged GIS, and student mentoring. It reflects the idea that GIS students need both technical competence and the ability to reason through complex spatial problems.</p>
 </section>
-<section id="example-teaching-materials" class="level2">
-<h2 class="anchored" data-anchor-id="example-teaching-materials">Example Teaching Materials</h2>
-<p>Content coming soon.</p>
-
+<section id="related-materials" class="level2">
+<h2 class="anchored" data-anchor-id="related-materials">Related Materials</h2>
+<p>Examples of selected labs, course materials, or public teaching resources will be added here after review.</p>
 
 
 </section>

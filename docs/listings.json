@@ -1,7 +1,15 @@
 [
   {
-    "listing": "/geospatial-portfolio.html",
-    "items": []
+    "listing": "/teaching.html",
+    "items": [
+      "/projects/teaching/applied-gis-lab-design.html"
+    ]
+  },
+  {
+    "listing": "/outreach.html",
+    "items": [
+      "/projects/outreach/decoding-part-107.html"
+    ]
   },
   {
     "listing": "/community-projects.html",
@@ -10,9 +18,7 @@
     ]
   },
   {
-    "listing": "/outreach.html",
-    "items": [
-      "/projects/outreach/decoding-part-107.html"
-    ]
+    "listing": "/geospatial-portfolio.html",
+    "items": []
   }
 ]

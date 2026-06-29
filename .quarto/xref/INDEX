@@ -37,5 +37,8 @@
   },
   "projects/community/westview-cemeteries.qmd": {
     "westview-cemeteries.html": "3edde89a"
+  },
+  "projects/teaching/applied-gis-lab-design.qmd": {
+    "applied-gis-lab-design.html": "c8d397be"
   }
 }

@@ -8,6 +8,9 @@
     ],
     "outreach.qmd": [
       "projects/outreach/*.qmd"
+    ],
+    "teaching.qmd": [
+      "projects/teaching/*.qmd"
     ]
   }
 }

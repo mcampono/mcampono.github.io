@@ -1,0 +1,40 @@
+---
+title: "Applied GIS Lab Design"
+description: "A teaching approach that frames GIS labs around realistic problems, complete workflows, and professional-style deliverables."
+date: 2026-06-01
+categories: [teaching, GIS, lab design, professional preparation, applied learning]
+image: ../../assets/images/thumbnails/applied-gis-lab-design.webp
+---
+
+The **Applied GIS Lab Design** approach reflects my effort to teach GIS as a complete problem-solving process rather than a sequence of disconnected tools.
+
+In many GIS courses, students learn individual software operations without always understanding how those operations fit into a larger workflow. My goal is to design labs that begin with realistic questions, require students to identify and prepare appropriate data, guide them through analysis and interpretation, and end with deliverables that resemble what they might produce for a client, supervisor, agency, or community partner.
+
+## Teaching Role
+
+My role includes developing lab scenarios, writing step-by-step technical instructions, creating supporting videos and examples, designing deliverables, and helping students understand how individual GIS tools fit into a larger analytical process.
+
+## Teaching Goals
+
+This approach is designed to help students:
+
+- understand GIS as a problem-solving process,
+- connect technical steps to real-world questions,
+- evaluate data needs and limitations,
+- practice complete workflows rather than isolated tools,
+- produce clear maps, figures, analyses, and written explanations,
+- build confidence for internships, jobs, research, and community projects.
+
+## Instructional Approach
+
+I often frame GIS assignments as realistic scenarios. Students may be asked to support a planning question, analyze environmental conditions, prepare public-facing maps, evaluate spatial patterns, or develop products that communicate results to a specific audience.
+
+The goal is not only to complete a tutorial. The goal is to understand what the workflow is doing, why each step matters, what assumptions are involved, and how the final product should be communicated.
+
+## Portfolio Significance
+
+This teaching approach connects directly to my broader work in geospatial education, professional development, community-engaged GIS, and student mentoring. It reflects the idea that GIS students need both technical competence and the ability to reason through complex spatial problems.
+
+## Related Materials
+
+Examples of selected labs, course materials, or public teaching resources will be added here after review.

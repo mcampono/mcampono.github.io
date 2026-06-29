@@ -1,5 +1,11 @@
 ---
 title: "Teaching"
+listing:
+  id: listing-projects
+  contents: "projects/teaching/*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
 ---
 
 My teaching focuses on helping students use geospatial tools to solve real problems, communicate clearly, and build professional confidence. I teach GIS, cartography, uncrewed aerial systems, remote sensing, spatial analysis, and professional-development topics through applied projects and realistic workflows.
@@ -22,7 +28,10 @@ This approach helps students see GIS as a process rather than a button-clicking 
 
 ## Selected Courses and Learning Experiences
 
-Content coming soon.
+The project pages below highlight selected teaching approaches, course materials, learning experiences, and examples of applied geospatial education.
+
+::: {#listing-projects}
+:::
 
 ## Example Teaching Materials
 
