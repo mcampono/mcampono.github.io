@@ -70,74 +70,102 @@
     "text": "Student and Collaborative Project Recognition\nContent coming soon."
   },
   {
-    "objectID": "mentoring.html",
-    "href": "mentoring.html",
-    "title": "Mentoring & Student Success",
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Workshops & Outreach",
     "section": "",
-    "text": "My mentoring work focuses on helping students build confidence, develop professional skills, and identify meaningful pathways in GIS, geography, sustainability, remote sensing, UAVs, and related fields. This includes supporting students as they prepare for research opportunities, internships, conferences, graduate school, professional networking, and careers.\nI see mentoring as part of geospatial education. Technical skills matter, but students also need help understanding how to talk about their work, connect with professional communities, evaluate opportunities, and imagine possible futures for themselves."
+    "text": "My outreach work focuses on helping students, educators, professionals, public agencies, and community partners use geospatial tools more effectively. These activities often connect GIS, cartography, UAVs, remote sensing, and professional development with real-world needs beyond a traditional classroom setting.\nWorkshops and outreach events allow me to translate technical geospatial topics into practical learning experiences for different audiences, including undergraduate students, K–12 educators, working professionals, community organizations, and public-sector partners."
   },
   {
-    "objectID": "mentoring.html#mentoring-areas",
-    "href": "mentoring.html#mentoring-areas",
-    "title": "Mentoring & Student Success",
-    "section": "Mentoring Areas",
-    "text": "Mentoring Areas\n\nUndergraduate Research: Supporting students as they develop project ideas, prepare posters and presentations, and share their work with academic and professional audiences.\nConference Preparation: Helping students prepare for events such as TNGIC, ASPRS, SEDAAG, EUReCA, ASUReS, and other professional or academic meetings.\nCareer Pathways: Helping students explore GIS, planning, environmental, UAV, public-sector, private-sector, nonprofit, and graduate-school options.\nProfessional Communication: Supporting students as they build resumes, portfolios, abstracts, presentations, posters, and professional introductions.\nCommunity and Professional Connection: Encouraging students to participate in professional organizations, outreach events, applied projects, and networking opportunities."
+    "objectID": "outreach.html#outreach-areas",
+    "href": "outreach.html#outreach-areas",
+    "title": "Workshops & Outreach",
+    "section": "Outreach Areas",
+    "text": "Outreach Areas\n\nFAA Part 107 and UAV Education: Workshops and learning materials that help participants understand airspace, regulations, weather, sectional charts, airport operations, and safe UAV operations.\nGIS Professional Development: Training opportunities focused on practical GIS workflows, geospatial problem solving, map communication, and applied spatial analysis.\nK–12 Educator Support: Professional development activities that help teachers connect geospatial tools, UAVs, maps, and spatial thinking to classroom learning.\nCommunity and Public Outreach: Events and projects that make geospatial technology more accessible to community partners and public audiences.\nStudent Professional Development: Activities that help students prepare for conferences, internships, research opportunities, portfolios, and careers in GIS and geospatial technology."
   },
   {
-    "objectID": "mentoring.html#approach",
-    "href": "mentoring.html#approach",
-    "title": "Mentoring & Student Success",
+    "objectID": "outreach.html#approach",
+    "href": "outreach.html#approach",
+    "title": "Workshops & Outreach",
     "section": "Approach",
-    "text": "Approach\nI try to help students see themselves as emerging professionals, not just students completing assignments. This means helping them recognize the value of their work, explain their skills clearly, and connect classroom experiences to real opportunities.\nMentoring often involves translating between academic requirements, professional expectations, and individual student goals. The goal is to help students make informed choices and build confidence through experience."
+    "text": "Approach\nI try to design workshops around what participants actually need to do after the event. Rather than focusing only on software demonstrations, I emphasize practical workflows, decision points, common mistakes, and the reasoning behind technical steps.\nThis approach is especially important in geospatial outreach because participants often need to apply what they learn in complex, real-world settings. A useful workshop should help people understand not only which buttons to press, but also why the workflow matters, what limitations to watch for, and how to communicate results clearly."
   },
   {
-    "objectID": "mentoring.html#selected-student-success-examples",
-    "href": "mentoring.html#selected-student-success-examples",
-    "title": "Mentoring & Student Success",
-    "section": "Selected Student Success Examples",
-    "text": "Selected Student Success Examples\nContent coming soon."
+    "objectID": "outreach.html#selected-workshops-and-outreach-activities",
+    "href": "outreach.html#selected-workshops-and-outreach-activities",
+    "title": "Workshops & Outreach",
+    "section": "Selected Workshops and Outreach Activities",
+    "text": "Selected Workshops and Outreach Activities\nContent coming soon."
   },
   {
-    "objectID": "mentoring.html#student-research-and-professional-development",
-    "href": "mentoring.html#student-research-and-professional-development",
-    "title": "Mentoring & Student Success",
-    "section": "Student Research and Professional Development",
-    "text": "Student Research and Professional Development\nContent coming soon."
+    "objectID": "outreach.html#example-materials-and-resources",
+    "href": "outreach.html#example-materials-and-resources",
+    "title": "Workshops & Outreach",
+    "section": "Example Materials and Resources",
+    "text": "Example Materials and Resources\nContent coming soon."
   },
   {
-    "objectID": "geospatial-portfolio.html",
-    "href": "geospatial-portfolio.html",
-    "title": "Geospatial Portfolio",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Camponovo",
     "section": "",
-    "text": "This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.\nMy geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively."
+    "text": "This portfolio documents my work as a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor.\nMy work connects geospatial technology with teaching, professional development, community projects, and student success. I develop applied GIS and UAV learning experiences, support public-facing geospatial outreach, collaborate on community mapping projects, and mentor students as they build technical skills and professional pathways.\nUse the sections below to explore selected work in teaching, workshops and outreach, community GIS projects, geospatial products, mentoring, service, and professional recognition."
   },
   {
-    "objectID": "geospatial-portfolio.html#portfolio-areas",
-    "href": "geospatial-portfolio.html#portfolio-areas",
-    "title": "Geospatial Portfolio",
-    "section": "Portfolio Areas",
-    "text": "Portfolio Areas\n\nCartography and Map Design: Static maps, thematic maps, reference maps, and visual communication products.\nWeb GIS and Interactive Applications: Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.\nUAV and Remote Sensing Products: Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.\nSpatial Analysis and GIS Workflows: Applied analyses developed for teaching, outreach, community partners, and student projects.\nGeospatial Communication: Figures, reports, presentations, and visual materials that translate spatial information for specific audiences."
+    "objectID": "index.html#areas-of-work",
+    "href": "index.html#areas-of-work",
+    "title": "Michael Camponovo",
+    "section": "Areas of Work",
+    "text": "Areas of Work\n\nTeaching: GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.\nWorkshops & Outreach: FAA Part 107 education, GIS professional development, K–12 educator support, and public-facing geospatial training.\nCommunity GIS: Applied mapping, UAV, and geospatial projects developed with community partners and students.\nGeospatial Portfolio: Selected maps, web apps, UAV products, cartographic outputs, and spatial storytelling examples.\nMentoring & Student Success: Undergraduate research, conference preparation, career pathways, and professional networking.\nService & Leadership: Professional organization service, program development, conference planning, and outreach leadership."
   },
   {
-    "objectID": "geospatial-portfolio.html#approach",
-    "href": "geospatial-portfolio.html#approach",
-    "title": "Geospatial Portfolio",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV / Contact",
+    "section": "",
+    "text": "This page will provide a short CV summary, selected professional links, and contact information."
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV / Contact",
+    "section": "Contact",
+    "text": "Contact\nContent coming soon."
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "CV / Contact",
+    "section": "CV",
+    "text": "CV\nA downloadable CV will be added later."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner at the University of Tennessee, Knoxville. My work focuses on helping students, educators, professionals, and community partners use geospatial tools to understand problems, communicate clearly, and make better decisions.\nMy professional work sits at the intersection of teaching, outreach, applied GIS, uncrewed aerial systems, cartography, and student mentoring. I develop applied learning experiences that connect technical skills with real-world questions, including GIS analysis, web mapping, UAV data collection, remote sensing, cartographic communication, and professional development."
+  },
+  {
+    "objectID": "about.html#professional-focus",
+    "href": "about.html#professional-focus",
+    "title": "About",
+    "section": "Professional Focus",
+    "text": "Professional Focus\nMy work includes:\n\nTeaching undergraduate and professional-development courses in GIS, cartography, UAVs, remote sensing, and geospatial problem solving.\nDeveloping workshops and outreach programs for students, educators, public agencies, and professional audiences.\nSupporting community-engaged GIS and UAV projects with students, colleagues, and partner organizations.\nMentoring students as they prepare for conferences, research opportunities, internships, jobs, and graduate school.\nContributing to professional organizations, outreach initiatives, and geospatial education efforts across Tennessee."
+  },
+  {
+    "objectID": "about.html#approach",
+    "href": "about.html#approach",
+    "title": "About",
     "section": "Approach",
-    "text": "Approach\nI think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.\nThis means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support."
+    "text": "Approach\nI try to design learning experiences around realistic problems rather than isolated tools. In GIS, the technical steps matter, but they are only part of the work. Students and professionals also need to understand the question being asked, the data needed to answer it, the limitations of the analysis, and the best way to communicate results to a real audience.\nThis portfolio highlights selected examples of that work, including teaching materials, workshops, community projects, geospatial products, mentoring activities, service roles, and professional recognition."
   },
   {
-    "objectID": "geospatial-portfolio.html#selected-work",
-    "href": "geospatial-portfolio.html#selected-work",
-    "title": "Geospatial Portfolio",
-    "section": "Selected Work",
-    "text": "Selected Work\nContent coming soon."
-  },
-  {
-    "objectID": "geospatial-portfolio.html#featured-maps-and-applications",
-    "href": "geospatial-portfolio.html#featured-maps-and-applications",
-    "title": "Geospatial Portfolio",
-    "section": "Featured Maps and Applications",
-    "text": "Featured Maps and Applications\nContent coming soon."
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nContact information and professional links will be added here."
   },
   {
     "objectID": "community-projects.html",
@@ -175,102 +203,116 @@
     "text": "Project Deliverables\nContent coming soon."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "geospatial-portfolio.html",
+    "href": "geospatial-portfolio.html",
+    "title": "Geospatial Portfolio",
     "section": "",
-    "text": "I am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner at the University of Tennessee, Knoxville. My work focuses on helping students, educators, professionals, and community partners use geospatial tools to understand problems, communicate clearly, and make better decisions.\nMy professional work sits at the intersection of teaching, outreach, applied GIS, uncrewed aerial systems, cartography, and student mentoring. I develop applied learning experiences that connect technical skills with real-world questions, including GIS analysis, web mapping, UAV data collection, remote sensing, cartographic communication, and professional development."
+    "text": "This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.\nMy geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively."
   },
   {
-    "objectID": "about.html#professional-focus",
-    "href": "about.html#professional-focus",
-    "title": "About",
-    "section": "Professional Focus",
-    "text": "Professional Focus\nMy work includes:\n\nTeaching undergraduate and professional-development courses in GIS, cartography, UAVs, remote sensing, and geospatial problem solving.\nDeveloping workshops and outreach programs for students, educators, public agencies, and professional audiences.\nSupporting community-engaged GIS and UAV projects with students, colleagues, and partner organizations.\nMentoring students as they prepare for conferences, research opportunities, internships, jobs, and graduate school.\nContributing to professional organizations, outreach initiatives, and geospatial education efforts across Tennessee."
+    "objectID": "geospatial-portfolio.html#portfolio-areas",
+    "href": "geospatial-portfolio.html#portfolio-areas",
+    "title": "Geospatial Portfolio",
+    "section": "Portfolio Areas",
+    "text": "Portfolio Areas\n\nCartography and Map Design: Static maps, thematic maps, reference maps, and visual communication products.\nWeb GIS and Interactive Applications: Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.\nUAV and Remote Sensing Products: Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.\nSpatial Analysis and GIS Workflows: Applied analyses developed for teaching, outreach, community partners, and student projects.\nGeospatial Communication: Figures, reports, presentations, and visual materials that translate spatial information for specific audiences."
   },
   {
-    "objectID": "about.html#approach",
-    "href": "about.html#approach",
-    "title": "About",
+    "objectID": "geospatial-portfolio.html#approach",
+    "href": "geospatial-portfolio.html#approach",
+    "title": "Geospatial Portfolio",
     "section": "Approach",
-    "text": "Approach\nI try to design learning experiences around realistic problems rather than isolated tools. In GIS, the technical steps matter, but they are only part of the work. Students and professionals also need to understand the question being asked, the data needed to answer it, the limitations of the analysis, and the best way to communicate results to a real audience.\nThis portfolio highlights selected examples of that work, including teaching materials, workshops, community projects, geospatial products, mentoring activities, service roles, and professional recognition."
+    "text": "Approach\nI think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.\nThis means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support."
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nContact information and professional links will be added here."
+    "objectID": "geospatial-portfolio.html#selected-work",
+    "href": "geospatial-portfolio.html#selected-work",
+    "title": "Geospatial Portfolio",
+    "section": "Selected Work",
+    "text": "Selected Work\nContent coming soon."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV / Contact",
+    "objectID": "geospatial-portfolio.html#featured-maps-and-applications",
+    "href": "geospatial-portfolio.html#featured-maps-and-applications",
+    "title": "Geospatial Portfolio",
+    "section": "Featured Maps and Applications",
+    "text": "Featured Maps and Applications\nContent coming soon."
+  },
+  {
+    "objectID": "mentoring.html",
+    "href": "mentoring.html",
+    "title": "Mentoring & Student Success",
     "section": "",
-    "text": "This page will provide a short CV summary, selected professional links, and contact information."
+    "text": "My mentoring work focuses on helping students build confidence, develop professional skills, and identify meaningful pathways in GIS, geography, sustainability, remote sensing, UAVs, and related fields. This includes supporting students as they prepare for research opportunities, internships, conferences, graduate school, professional networking, and careers.\nI see mentoring as part of geospatial education. Technical skills matter, but students also need help understanding how to talk about their work, connect with professional communities, evaluate opportunities, and imagine possible futures for themselves."
   },
   {
-    "objectID": "cv.html#contact",
-    "href": "cv.html#contact",
-    "title": "CV / Contact",
-    "section": "Contact",
-    "text": "Contact\nContent coming soon."
+    "objectID": "mentoring.html#mentoring-areas",
+    "href": "mentoring.html#mentoring-areas",
+    "title": "Mentoring & Student Success",
+    "section": "Mentoring Areas",
+    "text": "Mentoring Areas\n\nUndergraduate Research: Supporting students as they develop project ideas, prepare posters and presentations, and share their work with academic and professional audiences.\nConference Preparation: Helping students prepare for events such as TNGIC, ASPRS, SEDAAG, EUReCA, ASUReS, and other professional or academic meetings.\nCareer Pathways: Helping students explore GIS, planning, environmental, UAV, public-sector, private-sector, nonprofit, and graduate-school options.\nProfessional Communication: Supporting students as they build resumes, portfolios, abstracts, presentations, posters, and professional introductions.\nCommunity and Professional Connection: Encouraging students to participate in professional organizations, outreach events, applied projects, and networking opportunities."
   },
   {
-    "objectID": "cv.html#cv",
-    "href": "cv.html#cv",
-    "title": "CV / Contact",
-    "section": "CV",
-    "text": "CV\nA downloadable CV will be added later."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Michael Camponovo",
-    "section": "",
-    "text": "This portfolio documents my work as a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor.\nMy work connects geospatial technology with teaching, professional development, community projects, and student success. I develop applied GIS and UAV learning experiences, support public-facing geospatial outreach, collaborate on community mapping projects, and mentor students as they build technical skills and professional pathways.\nUse the sections below to explore selected work in teaching, workshops and outreach, community GIS projects, geospatial products, mentoring, service, and professional recognition."
-  },
-  {
-    "objectID": "index.html#areas-of-work",
-    "href": "index.html#areas-of-work",
-    "title": "Michael Camponovo",
-    "section": "Areas of Work",
-    "text": "Areas of Work\n\nTeaching: GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.\nWorkshops & Outreach: FAA Part 107 education, GIS professional development, K–12 educator support, and public-facing geospatial training.\nCommunity GIS: Applied mapping, UAV, and geospatial projects developed with community partners and students.\nGeospatial Portfolio: Selected maps, web apps, UAV products, cartographic outputs, and spatial storytelling examples.\nMentoring & Student Success: Undergraduate research, conference preparation, career pathways, and professional networking.\nService & Leadership: Professional organization service, program development, conference planning, and outreach leadership."
-  },
-  {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Workshops & Outreach",
-    "section": "",
-    "text": "My outreach work focuses on helping students, educators, professionals, public agencies, and community partners use geospatial tools more effectively. These activities often connect GIS, cartography, UAVs, remote sensing, and professional development with real-world needs beyond a traditional classroom setting.\nWorkshops and outreach events allow me to translate technical geospatial topics into practical learning experiences for different audiences, including undergraduate students, K–12 educators, working professionals, community organizations, and public-sector partners."
-  },
-  {
-    "objectID": "outreach.html#outreach-areas",
-    "href": "outreach.html#outreach-areas",
-    "title": "Workshops & Outreach",
-    "section": "Outreach Areas",
-    "text": "Outreach Areas\n\nFAA Part 107 and UAV Education: Workshops and learning materials that help participants understand airspace, regulations, weather, sectional charts, airport operations, and safe UAV operations.\nGIS Professional Development: Training opportunities focused on practical GIS workflows, geospatial problem solving, map communication, and applied spatial analysis.\nK–12 Educator Support: Professional development activities that help teachers connect geospatial tools, UAVs, maps, and spatial thinking to classroom learning.\nCommunity and Public Outreach: Events and projects that make geospatial technology more accessible to community partners and public audiences.\nStudent Professional Development: Activities that help students prepare for conferences, internships, research opportunities, portfolios, and careers in GIS and geospatial technology."
-  },
-  {
-    "objectID": "outreach.html#approach",
-    "href": "outreach.html#approach",
-    "title": "Workshops & Outreach",
+    "objectID": "mentoring.html#approach",
+    "href": "mentoring.html#approach",
+    "title": "Mentoring & Student Success",
     "section": "Approach",
-    "text": "Approach\nI try to design workshops around what participants actually need to do after the event. Rather than focusing only on software demonstrations, I emphasize practical workflows, decision points, common mistakes, and the reasoning behind technical steps.\nThis approach is especially important in geospatial outreach because participants often need to apply what they learn in complex, real-world settings. A useful workshop should help people understand not only which buttons to press, but also why the workflow matters, what limitations to watch for, and how to communicate results clearly."
+    "text": "Approach\nI try to help students see themselves as emerging professionals, not just students completing assignments. This means helping them recognize the value of their work, explain their skills clearly, and connect classroom experiences to real opportunities.\nMentoring often involves translating between academic requirements, professional expectations, and individual student goals. The goal is to help students make informed choices and build confidence through experience."
   },
   {
-    "objectID": "outreach.html#selected-workshops-and-outreach-activities",
-    "href": "outreach.html#selected-workshops-and-outreach-activities",
-    "title": "Workshops & Outreach",
-    "section": "Selected Workshops and Outreach Activities",
-    "text": "Selected Workshops and Outreach Activities\nContent coming soon."
+    "objectID": "mentoring.html#selected-student-success-examples",
+    "href": "mentoring.html#selected-student-success-examples",
+    "title": "Mentoring & Student Success",
+    "section": "Selected Student Success Examples",
+    "text": "Selected Student Success Examples\nContent coming soon."
   },
   {
-    "objectID": "outreach.html#example-materials-and-resources",
-    "href": "outreach.html#example-materials-and-resources",
-    "title": "Workshops & Outreach",
-    "section": "Example Materials and Resources",
-    "text": "Example Materials and Resources\nContent coming soon."
+    "objectID": "mentoring.html#student-research-and-professional-development",
+    "href": "mentoring.html#student-research-and-professional-development",
+    "title": "Mentoring & Student Success",
+    "section": "Student Research and Professional Development",
+    "text": "Student Research and Professional Development\nContent coming soon."
+  },
+  {
+    "objectID": "projects/decoding-part-107.html",
+    "href": "projects/decoding-part-107.html",
+    "title": "Decoding Part 107 Workshop",
+    "section": "",
+    "text": "The Decoding Part 107 Workshop is a professional-development workshop designed to help participants understand the knowledge areas required for safe and legal small uncrewed aircraft systems operations.\nThe workshop focuses on FAA Part 107 concepts, aviation decision-making, airspace, airport operations, sectional charts, weather, loading and performance, radio communications, and practical preparation for the remote pilot certification exam."
+  },
+  {
+    "objectID": "projects/decoding-part-107.html#project-role",
+    "href": "projects/decoding-part-107.html#project-role",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Project Role",
+    "text": "Project Role\nMy role includes developing workshop materials, organizing instructional content, teaching key aviation and geospatial concepts, building practice resources, and adapting the workshop for different audiences, including educators, students, and geospatial professionals."
+  },
+  {
+    "objectID": "projects/decoding-part-107.html#teaching-and-outreach-goals",
+    "href": "projects/decoding-part-107.html#teaching-and-outreach-goals",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Teaching and Outreach Goals",
+    "text": "Teaching and Outreach Goals\nThis workshop is designed to help participants:\n\nunderstand why FAA Part 107 matters for educational and professional UAV use,\ninterpret aviation charts and airspace information,\nidentify weather and operational risk factors,\nconnect UAV operations to real-world geospatial applications,\nbuild confidence using aviation resources and terminology,\nprepare for additional study toward the FAA Remote Pilot Certificate."
+  },
+  {
+    "objectID": "projects/decoding-part-107.html#selected-components",
+    "href": "projects/decoding-part-107.html#selected-components",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Selected Components",
+    "text": "Selected Components\n\nFAA Part 107 instructional materials\nSectional chart and airspace interpretation activities\nWeather and airport operations examples\nPractice quizzes and study resources\nEducator-focused UAV use cases\nWorkshop materials adapted for K–12 and professional audiences"
+  },
+  {
+    "objectID": "projects/decoding-part-107.html#portfolio-significance",
+    "href": "projects/decoding-part-107.html#portfolio-significance",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Portfolio Significance",
+    "text": "Portfolio Significance\nThis project reflects the intersection of my work in geospatial education, UAV outreach, professional development, and applied teaching. It also demonstrates how technical aviation material can be translated into practical learning experiences for audiences who may not have prior aviation backgrounds."
+  },
+  {
+    "objectID": "projects/decoding-part-107.html#related-links",
+    "href": "projects/decoding-part-107.html#related-links",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Related Links",
+    "text": "Related Links\nLinks to public materials will be added here."
   },
   {
     "objectID": "service.html",
