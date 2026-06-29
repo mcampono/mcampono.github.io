@@ -6,10 +6,8 @@
     ]
   },
   {
-    "listing": "/outreach.html",
-    "items": [
-      "/projects/outreach/decoding-part-107.html"
-    ]
+    "listing": "/geospatial-portfolio.html",
+    "items": []
   },
   {
     "listing": "/community-projects.html",
@@ -18,7 +16,15 @@
     ]
   },
   {
-    "listing": "/geospatial-portfolio.html",
-    "items": []
+    "listing": "/outreach.html",
+    "items": [
+      "/projects/outreach/decoding-part-107.html"
+    ]
+  },
+  {
+    "listing": "/service.html",
+    "items": [
+      "/projects/service/tngic-education-outreach.html"
+    ]
   }
 ]

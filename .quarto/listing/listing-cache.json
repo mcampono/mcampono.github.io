@@ -9,6 +9,9 @@
     "outreach.qmd": [
       "projects/outreach/*.qmd"
     ],
+    "service.qmd": [
+      "projects/service/*.qmd"
+    ],
     "teaching.qmd": [
       "projects/teaching/*.qmd"
     ]

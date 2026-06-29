@@ -1,5 +1,11 @@
 ---
 title: "Service & Leadership"
+listing:
+  id: listing-projects
+  contents: "projects/service/*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
 ---
 
 Service has been a central part of my professional career. I believe that geospatial education is strengthened through collaboration, professional engagement, and community involvement. My service activities focus on expanding opportunities for students, supporting the geospatial profession, strengthening educational programs, and connecting universities with practitioners, educators, and community partners.
@@ -22,7 +28,10 @@ Many of the most rewarding projects I have worked on have resulted from long-ter
 
 ## Selected Leadership Roles
 
-Content coming soon.
+The project pages below highlight selected professional service, leadership roles, outreach initiatives, conference planning, program development, and community-building activities.
+
+::: {#listing-projects}
+:::
 
 ## Professional Organizations
 
