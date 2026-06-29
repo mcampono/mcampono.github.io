@@ -12,6 +12,16 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/projects/teaching/applied-gis-lab-design.html",
+      "/projects/service/tngic-education-outreach.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/community/westview-cemeteries.html",
+      "/projects/geospatial/westview-geospatial-products.html"
+    ]
+  },
+  {
     "listing": "/community-projects.html",
     "items": [
       "/projects/community/westview-cemeteries.html"

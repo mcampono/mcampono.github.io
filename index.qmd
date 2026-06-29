@@ -1,5 +1,17 @@
 ---
 title: "Michael Camponovo"
+listing:
+  id: featured-work
+  contents:
+    - "projects/teaching/*.qmd"
+    - "projects/outreach/*.qmd"
+    - "projects/community/*.qmd"
+    - "projects/geospatial/*.qmd"
+    - "projects/service/*.qmd"
+  type: grid
+  sort: "date desc"
+  max-items: 6
+  categories: true
 ---
 
 I am a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor at the University of Tennessee, Knoxville.
@@ -8,6 +20,13 @@ My work connects geospatial technology with teaching, professional development, 
 
 ::: {.callout-note title="Portfolio Focus"}
 This site documents selected work in GIS education, workshops and outreach, community-engaged projects, geospatial products, mentoring, service, and professional recognition.
+:::
+
+## Featured Work
+
+The selected items below highlight examples from across my teaching, outreach, community-engaged GIS, geospatial portfolio, and service work.
+
+::: {#featured-work}
 :::
 
 ## Explore My Work
