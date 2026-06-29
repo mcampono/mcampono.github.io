@@ -2,7 +2,7 @@
 title: "Geospatial Portfolio"
 listing:
   id: listing-projects
-  contents: "projects/*.qmd"
+  contents: "projects/geospatial/*.qmd"
   type: default
   sort: "date desc"
   categories: true
@@ -28,7 +28,8 @@ This means paying attention to data quality, cartographic design, uncertainty, c
 
 ## Selected Work
 
-The project pages below highlight selected examples of geospatial teaching, outreach, UAV, cartography, web GIS, and community-engaged work.
+The project pages below highlight selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.
+
 
 ::: {#listing-projects}
 :::

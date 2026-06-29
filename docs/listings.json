@@ -1,8 +1,12 @@
 [
   {
-    "listing": "/geospatial-portfolio.html",
+    "listing": "/outreach.html",
     "items": [
-      "/projects/decoding-part-107.html"
+      "/projects/outreach/decoding-part-107.html"
     ]
+  },
+  {
+    "listing": "/geospatial-portfolio.html",
+    "items": []
   }
 ]

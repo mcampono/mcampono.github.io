@@ -1,5 +1,11 @@
 ---
 title: "Workshops & Outreach"
+listing:
+  id: listing-projects
+  contents: "projects/outreach/*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
 ---
 
 My outreach work focuses on helping students, educators, professionals, public agencies, and community partners use geospatial tools more effectively. These activities often connect GIS, cartography, UAVs, remote sensing, and professional development with real-world needs beyond a traditional classroom setting.
@@ -22,7 +28,10 @@ This approach is especially important in geospatial outreach because participant
 
 ## Selected Workshops and Outreach Activities
 
-Content coming soon.
+The project pages below highlight selected workshops, outreach programs, professional-development activities, and public-facing geospatial education efforts.
+
+::: {#listing-projects}
+:::
 
 ## Example Materials and Resources
 

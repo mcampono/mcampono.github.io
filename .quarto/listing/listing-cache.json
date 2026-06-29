@@ -1,7 +1,10 @@
 {
   "listingMap": {
     "geospatial-portfolio.qmd": [
-      "projects/*.qmd"
+      "projects/geospatial/*.qmd"
+    ],
+    "outreach.qmd": [
+      "projects/outreach/*.qmd"
     ]
   }
 }
