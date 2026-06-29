@@ -43,5 +43,8 @@
   },
   "projects/service/tngic-education-outreach.qmd": {
     "tngic-education-outreach.html": "e9ca3db0"
+  },
+  "projects/geospatial/westview-geospatial-products.qmd": {
+    "westview-geospatial-products.html": "64f84b33"
   }
 }

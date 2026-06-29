@@ -1,0 +1,48 @@
+---
+title: "Westview UAV and LiDAR Geospatial Products"
+description: "Selected UAV, LiDAR, mapping, and visualization products developed to support documentation and interpretation of historic cemetery landscapes."
+date: 2025-04-01
+categories: [UAV, LiDAR, cartography, remote sensing, historic preservation, geospatial communication]
+image: ../../assets/images/thumbnails/westview-cemeteries.webp
+---
+
+The **Westview UAV and LiDAR Geospatial Products** page highlights selected geospatial outputs developed as part of a historic cemetery mapping project. These products were designed to support interpretation, documentation, and communication of landscape features that may be difficult to identify from ground-level observation alone.
+
+This work demonstrates how UAV imagery, LiDAR-derived elevation products, cartography, and spatial visualization can support community-engaged projects while also creating meaningful examples for geospatial teaching and student learning.
+
+## Geospatial Focus
+
+This portfolio item emphasizes the technical and communication products developed through the project, including:
+
+- UAV imagery and orthomosaic products,
+- LiDAR-derived elevation and surface models,
+- hillshade and surface visualization products,
+- map layouts and interpretive cartography,
+- spatial documentation of visible and subtle landscape features,
+- visual materials for project communication.
+
+## Methods and Workflow
+
+The workflow included field data collection, geospatial data processing, spatial interpretation, map production, and communication with project partners. Products were developed to help translate complex spatial data into useful visual information for interpretation, planning, and discussion.
+
+## Cartographic and Communication Goals
+
+The geospatial products were designed to be more than technical outputs. They needed to communicate clearly with audiences who may not regularly work with UAV data, LiDAR, elevation models, or GIS software.
+
+Important design considerations included:
+
+- making subtle landscape patterns visible,
+- choosing appropriate visualizations for elevation and surface features,
+- balancing technical accuracy with readability,
+- presenting information in ways that could support discussion with partners and public audiences,
+- acknowledging limitations in what the data can and cannot show.
+
+## Portfolio Significance
+
+This work is a strong example of applied geospatial communication. It demonstrates how remote sensing, UAV mapping, LiDAR visualization, and cartography can be used together to support a real project with community value.
+
+It also connects directly to my teaching philosophy: GIS products are not just software outputs; they are part of a larger process of asking questions, evaluating data, interpreting results, and communicating clearly.
+
+## Related Project
+
+This geospatial portfolio item is connected to the broader [Westview Historic Cemeteries Mapping Project](../community/westview-cemeteries.qmd).
