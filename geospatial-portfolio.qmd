@@ -1,0 +1,18 @@
+---
+title: "Geospatial Portfolio"
+---
+
+This page will collect selected examples of maps, web applications, geospatial analyses, UAV products, cartographic outputs, and spatial storytelling.
+
+## Portfolio themes
+
+- Web GIS
+- Cartography
+- UAV mapping
+- Remote sensing
+- Spatial analysis
+- Public communication
+
+## Selected work
+
+Content coming soon.

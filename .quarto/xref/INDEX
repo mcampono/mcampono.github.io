@@ -4,5 +4,26 @@
   },
   "about.qmd": {
     "about.html": "6930aba0"
+  },
+  "cv.qmd": {
+    "cv.html": "3be01dad"
+  },
+  "community-projects.qmd": {
+    "community-projects.html": "26a03ebd"
+  },
+  "geospatial-portfolio.qmd": {
+    "geospatial-portfolio.html": "433dfca2"
+  },
+  "mentoring.qmd": {
+    "mentoring.html": "3ce2d2e8"
+  },
+  "outreach.qmd": {
+    "outreach.html": "f0b2b801"
+  },
+  "service.qmd": {
+    "service.html": "60b58302"
+  },
+  "teaching.qmd": {
+    "teaching.html": "281d956e"
   }
 }

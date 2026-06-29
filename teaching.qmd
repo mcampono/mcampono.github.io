@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+This page will highlight my teaching in GIS, cartography, uncrewed aerial systems, geospatial analysis, and professional development.
+
+## Teaching focus
+
+- Applied GIS and geospatial problem solving
+- Cartography and geovisualization
+- Uncrewed aerial systems and remote sensing
+- Community-engaged geospatial projects
+- Professional preparation for students
+
+## Selected courses
+
+Content coming soon.

@@ -10,8 +10,24 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: teaching.qmd
+        text: Teaching
+      - href: outreach.qmd
+        text: Workshops & Outreach
+      - href: community-projects.qmd
+        text: Community GIS
+      - href: geospatial-portfolio.qmd
+        text: Geospatial Portfolio
+      - href: mentoring.qmd
+        text: Mentoring
+      - href: service.qmd
+        text: Service
+      - href: cv.qmd
+        text: CV / Contact
+    search: true
 
 format:
   html:
     theme: cosmo
     toc: true
+    page-layout: full

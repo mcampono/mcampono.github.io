@@ -1,0 +1,17 @@
+---
+title: "Workshops & Outreach"
+---
+
+This page will document selected workshops, public trainings, professional development events, and outreach activities.
+
+## Areas of outreach
+
+- FAA Part 107 and UAV education
+- GIS professional development
+- K--12 educator support
+- Community and professional workshops
+- Public-facing geospatial education
+
+## Selected examples
+
+Content coming soon.

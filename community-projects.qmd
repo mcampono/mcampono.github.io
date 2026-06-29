@@ -1,0 +1,17 @@
+---
+title: "Community GIS Projects"
+---
+
+This page will highlight selected community-engaged GIS, mapping, UAV, and geospatial projects.
+
+## Project themes
+
+- Historic preservation
+- Environmental and conservation mapping
+- Public infrastructure and facilities
+- Community partner support
+- Student-engaged applied GIS
+
+## Selected projects
+
+Content coming soon.
