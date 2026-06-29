@@ -1,0 +1,51 @@
+---
+title: "Westview Historic Cemeteries Mapping Project"
+description: "A community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes."
+date: 2025-04-01
+categories: [community GIS, UAV, lidar, historic preservation, student engagement]
+image: ../../assets/images/thumbnails/westview-cemeteries.jpg
+---
+
+The **Westview Historic Cemeteries Mapping Project** is a community-engaged geospatial project focused on supporting documentation, interpretation, and preservation of historic cemetery landscapes.
+
+The project used geospatial technologies such as UAV imagery, lidar, mapping, and spatial analysis to help identify landscape features, document site conditions, and communicate information about cemetery spaces that can be difficult to interpret from ground-level observation alone.
+
+## Project Role
+
+My role included coordinating geospatial data collection, supporting UAV and lidar workflows, working with students and colleagues, developing project deliverables, and helping translate technical geospatial outputs into useful information for project partners and public audiences.
+
+## Project Goals
+
+This project was designed to support:
+
+- documentation of historic cemetery landscapes,
+- identification of visible and subtle landscape features,
+- development of geospatial products for interpretation and planning,
+- student participation in applied GIS and UAV workflows,
+- communication with community partners and stakeholders.
+
+## Geospatial Methods and Products
+
+Project activities included a combination of field data collection, UAV-based mapping, lidar-derived surface information, cartographic production, and spatial interpretation.
+
+Selected geospatial products included:
+
+- UAV imagery and orthomosaic products,
+- lidar-derived elevation and surface information,
+- maps and visualizations for interpretation,
+- spatial documentation of landscape features,
+- project materials for communication with partners.
+
+## Teaching and Student Engagement
+
+This project provided students with an opportunity to see how GIS, UAVs, remote sensing, and cartography can support real community questions. Students were able to connect technical workflows with issues of historic preservation, landscape interpretation, data limitations, and public communication.
+
+The project also helped demonstrate that applied GIS work is rarely just a single tool or software operation. It involves understanding the partner’s question, collecting appropriate data, evaluating limitations, producing useful deliverables, and communicating results clearly.
+
+## Portfolio Significance
+
+This project reflects the intersection of community-engaged GIS, UAV mapping, lidar, student learning, and public-facing geospatial communication. It is a strong example of using geospatial technology to support partners while also creating meaningful applied learning opportunities for students.
+
+## Related Links
+
+Links to public maps, reports, presentations, or project materials will be added here.

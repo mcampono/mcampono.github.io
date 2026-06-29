@@ -1,5 +1,11 @@
 ---
 title: "Community GIS Projects"
+listing:
+  id: listing-projects
+  contents: "projects/community/*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
 ---
 
 My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.
@@ -22,7 +28,10 @@ I try to approach these projects as collaborative problem-solving efforts. The g
 
 ## Selected Projects
 
-Content coming soon.
+The project pages below highlight selected community-engaged GIS, UAV, mapping, remote sensing, and spatial analysis projects developed with partners, students, colleagues, and public audiences.
+
+::: {#listing-projects}
+:::
 
 ## Project Deliverables
 

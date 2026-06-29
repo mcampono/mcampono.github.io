@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-04-01">
+<meta name="description" content="A community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.">
 
-<title>Community GIS Projects – Michael Camponovo</title>
+<title>Westview Historic Cemeteries Mapping Project – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing-projects'] = new List('listing-listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Michael Camponovo</span>
     </a>
   </div>
@@ -152,43 +94,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
+    <a class="nav-link" href="../../outreach.html"> 
 <span class="menu-text">Workshops &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./community-projects.html" aria-current="page"> 
+    <a class="nav-link" href="../../community-projects.html"> 
 <span class="menu-text">Community GIS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./geospatial-portfolio.html"> 
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
 <span class="menu-text">Geospatial Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentoring.html"> 
+    <a class="nav-link" href="../../mentoring.html"> 
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./service.html"> 
+    <a class="nav-link" href="../../service.html"> 
 <span class="menu-text">Service</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recognition.html"> 
+    <a class="nav-link" href="../../recognition.html"> 
 <span class="menu-text">Awards &amp; Recognition</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV / Contact</span></a>
   </li>  
 </ul>
@@ -207,26 +149,46 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-areas" id="toc-project-areas" class="nav-link active" data-scroll-target="#project-areas">Project Areas</a></li>
-  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
-  <li><a href="#selected-projects" id="toc-selected-projects" class="nav-link" data-scroll-target="#selected-projects">Selected Projects</a></li>
-  <li><a href="#project-deliverables" id="toc-project-deliverables" class="nav-link" data-scroll-target="#project-deliverables">Project Deliverables</a></li>
+  <li><a href="#project-role" id="toc-project-role" class="nav-link active" data-scroll-target="#project-role">Project Role</a></li>
+  <li><a href="#project-goals" id="toc-project-goals" class="nav-link" data-scroll-target="#project-goals">Project Goals</a></li>
+  <li><a href="#geospatial-methods-and-products" id="toc-geospatial-methods-and-products" class="nav-link" data-scroll-target="#geospatial-methods-and-products">Geospatial Methods and Products</a></li>
+  <li><a href="#teaching-and-student-engagement" id="toc-teaching-and-student-engagement" class="nav-link" data-scroll-target="#teaching-and-student-engagement">Teaching and Student Engagement</a></li>
+  <li><a href="#portfolio-significance" id="toc-portfolio-significance" class="nav-link" data-scroll-target="#portfolio-significance">Portfolio Significance</a></li>
+  <li><a href="#related-links" id="toc-related-links" class="nav-link" data-scroll-target="#related-links">Related Links</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaXR5JTIwR0lT">community GIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24=">historic preservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGlkYXI=">lidar <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZGVudCUyMGVuZ2FnZW1lbnQ=">student engagement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUFW">UAV <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Community GIS Projects</h1>
-</div>
+<h1 class="title">Westview Historic Cemeteries Mapping Project</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">community GIS</div>
+    <div class="quarto-category">UAV</div>
+    <div class="quarto-category">lidar</div>
+    <div class="quarto-category">historic preservation</div>
+    <div class="quarto-category">student engagement</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    A community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 1, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -236,71 +198,47 @@ window.Quarto = {
 </header>
 
 
-<p>My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.</p>
-<p>Many of these projects also serve as learning opportunities for students. They provide a way to connect technical GIS skills with professional expectations, partner communication, project management, data limitations, and public-facing deliverables.</p>
-<section id="project-areas" class="level2">
-<h2 class="anchored" data-anchor-id="project-areas">Project Areas</h2>
+<p>The <strong>Westview Historic Cemeteries Mapping Project</strong> is a community-engaged geospatial project focused on supporting documentation, interpretation, and preservation of historic cemetery landscapes.</p>
+<p>The project used geospatial technologies such as UAV imagery, lidar, mapping, and spatial analysis to help identify landscape features, document site conditions, and communicate information about cemetery spaces that can be difficult to interpret from ground-level observation alone.</p>
+<section id="project-role" class="level2">
+<h2 class="anchored" data-anchor-id="project-role">Project Role</h2>
+<p>My role included coordinating geospatial data collection, supporting UAV and lidar workflows, working with students and colleagues, developing project deliverables, and helping translate technical geospatial outputs into useful information for project partners and public audiences.</p>
+</section>
+<section id="project-goals" class="level2">
+<h2 class="anchored" data-anchor-id="project-goals">Project Goals</h2>
+<p>This project was designed to support:</p>
 <ul>
-<li><strong>Historic Preservation and Cultural Landscapes:</strong> Mapping and documenting cemeteries, historic sites, and community landscapes.</li>
-<li><strong>Environmental and Conservation Mapping:</strong> Supporting conservation, land management, trail planning, and natural-resource questions.</li>
-<li><strong>Public Infrastructure and Facilities:</strong> Using GIS and UAV data to support inspection, documentation, planning, and communication.</li>
-<li><strong>Community Partner Support:</strong> Developing maps, analyses, and geospatial products for organizations with specific applied needs.</li>
-<li><strong>Student-Engaged Applied GIS:</strong> Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom.</li>
+<li>documentation of historic cemetery landscapes,</li>
+<li>identification of visible and subtle landscape features,</li>
+<li>development of geospatial products for interpretation and planning,</li>
+<li>student participation in applied GIS and UAV workflows,</li>
+<li>communication with community partners and stakeholders.</li>
 </ul>
 </section>
-<section id="approach" class="level2">
-<h2 class="anchored" data-anchor-id="approach">Approach</h2>
-<p>Community GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.</p>
-<p>I try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions.</p>
+<section id="geospatial-methods-and-products" class="level2">
+<h2 class="anchored" data-anchor-id="geospatial-methods-and-products">Geospatial Methods and Products</h2>
+<p>Project activities included a combination of field data collection, UAV-based mapping, lidar-derived surface information, cartographic production, and spatial interpretation.</p>
+<p>Selected geospatial products included:</p>
+<ul>
+<li>UAV imagery and orthomosaic products,</li>
+<li>lidar-derived elevation and surface information,</li>
+<li>maps and visualizations for interpretation,</li>
+<li>spatial documentation of landscape features,</li>
+<li>project materials for communication with partners.</li>
+</ul>
 </section>
-<section id="selected-projects" class="level2">
-<h2 class="anchored" data-anchor-id="selected-projects">Selected Projects</h2>
-<p>The project pages below highlight selected community-engaged GIS, UAV, mapping, remote sensing, and spatial analysis projects developed with partners, students, colleagues, and public audiences.</p>
-<div id="listing-listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDVUFWJTJDbGlkYXIlMkNoaXN0b3JpYyUyMHByZXNlcnZhdGlvbiUyQ3N0dWRlbnQlMjBlbmdhZ2VtZW50" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1782748141461" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
-<div class="thumbnail"><a href="./projects/community/westview-cemeteries.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/westview-cemeteries.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/westview-cemeteries.html" class="no-external">Westview Historic Cemeteries Mapping Project</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFW'); return false;">UAV</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGlkYXI='); return false;">lidar</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24='); return false;">historic preservation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZGVudCUyMGVuZ2FnZW1lbnQ='); return false;">student engagement</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/westview-cemeteries.html" class="no-external">
-<p>A community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/westview-cemeteries.html" class="no-external">
-<div class="listing-date">
-Apr 1, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="teaching-and-student-engagement" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-and-student-engagement">Teaching and Student Engagement</h2>
+<p>This project provided students with an opportunity to see how GIS, UAVs, remote sensing, and cartography can support real community questions. Students were able to connect technical workflows with issues of historic preservation, landscape interpretation, data limitations, and public communication.</p>
+<p>The project also helped demonstrate that applied GIS work is rarely just a single tool or software operation. It involves understanding the partner’s question, collecting appropriate data, evaluating limitations, producing useful deliverables, and communicating results clearly.</p>
 </section>
-<section id="project-deliverables" class="level2">
-<h2 class="anchored" data-anchor-id="project-deliverables">Project Deliverables</h2>
-<p>Content coming soon.</p>
-
+<section id="portfolio-significance" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio-significance">Portfolio Significance</h2>
+<p>This project reflects the intersection of community-engaged GIS, UAV mapping, lidar, student learning, and public-facing geospatial communication. It is a strong example of using geospatial technology to support partners while also creating meaningful applied learning opportunities for students.</p>
+</section>
+<section id="related-links" class="level2">
+<h2 class="anchored" data-anchor-id="related-links">Related Links</h2>
+<p>Links to public maps, reports, presentations, or project materials will be added here.</p>
 
 
 </section>

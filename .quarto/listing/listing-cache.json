@@ -1,5 +1,8 @@
 {
   "listingMap": {
+    "community-projects.qmd": [
+      "projects/community/*.qmd"
+    ],
     "geospatial-portfolio.qmd": [
       "projects/geospatial/*.qmd"
     ],

@@ -1,12 +1,18 @@
 [
   {
+    "listing": "/geospatial-portfolio.html",
+    "items": []
+  },
+  {
+    "listing": "/community-projects.html",
+    "items": [
+      "/projects/community/westview-cemeteries.html"
+    ]
+  },
+  {
     "listing": "/outreach.html",
     "items": [
       "/projects/outreach/decoding-part-107.html"
     ]
-  },
-  {
-    "listing": "/geospatial-portfolio.html",
-    "items": []
   }
 ]
