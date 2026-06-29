@@ -2,16 +2,28 @@
 title: "Workshops & Outreach"
 ---
 
-This page will document selected workshops, public trainings, professional development events, and outreach activities.
+My outreach work focuses on helping students, educators, professionals, public agencies, and community partners use geospatial tools more effectively. These activities often connect GIS, cartography, UAVs, remote sensing, and professional development with real-world needs beyond a traditional classroom setting.
 
-## Areas of outreach
+Workshops and outreach events allow me to translate technical geospatial topics into practical learning experiences for different audiences, including undergraduate students, K--12 educators, working professionals, community organizations, and public-sector partners.
 
-- FAA Part 107 and UAV education
-- GIS professional development
-- K--12 educator support
-- Community and professional workshops
-- Public-facing geospatial education
+## Outreach Areas
 
-## Selected examples
+- **FAA Part 107 and UAV Education:** Workshops and learning materials that help participants understand airspace, regulations, weather, sectional charts, airport operations, and safe UAV operations.
+- **GIS Professional Development:** Training opportunities focused on practical GIS workflows, geospatial problem solving, map communication, and applied spatial analysis.
+- **K--12 Educator Support:** Professional development activities that help teachers connect geospatial tools, UAVs, maps, and spatial thinking to classroom learning.
+- **Community and Public Outreach:** Events and projects that make geospatial technology more accessible to community partners and public audiences.
+- **Student Professional Development:** Activities that help students prepare for conferences, internships, research opportunities, portfolios, and careers in GIS and geospatial technology.
+
+## Approach
+
+I try to design workshops around what participants actually need to do after the event. Rather than focusing only on software demonstrations, I emphasize practical workflows, decision points, common mistakes, and the reasoning behind technical steps.
+
+This approach is especially important in geospatial outreach because participants often need to apply what they learn in complex, real-world settings. A useful workshop should help people understand not only which buttons to press, but also why the workflow matters, what limitations to watch for, and how to communicate results clearly.
+
+## Selected Workshops and Outreach Activities
+
+Content coming soon.
+
+## Example Materials and Resources
 
 Content coming soon.
