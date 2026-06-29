@@ -4,18 +4,104 @@ title: "Awards & Recognition"
 
 This page documents selected awards and external recognition related to my work in GIS education, cartography, outreach, professional service, and community-engaged geospatial projects. These recognitions reflect both individual work and collaborative efforts with students, colleagues, community partners, and professional organizations.
 
-## Teaching, Outreach, and Service
+## Teaching
 
-Content coming soon.
+### NCGE Higher Education Distinguished Teaching Award
+**National Council for Geographic Education**  
+2023
+
+Earned in recognition for efforts in the Geography and Sustainability capstone course at UT Knoxville focusing on helping students identify post-graduation opportunities and building a professional pathway to achieve those goals.
+
+### Campus Career Champion Award
+**University of Tennessee, Knoxville**  
+2023
+
+Issued by the UTK Center for Career Development and Academic Exploration in recognition of efforts to support student career development and professional growth through the Geography and Sustainability capstone course, virtual career mingle, and student mentoring. 
+
+### Undergraduate Teaching Award
+**Department of Geography, University of Tennessee, Knoxville**  
+2022
+
+Selected by the undergraduate students within the department to receive this teaching award.
+
+### Undergraduate Teaching Award
+**Department of Geography, University of Tennessee, Knoxville**  
+2019
+
+Selected by the undergraduate students within the department to receive this teaching award.
+
+### Undergraduate Teaching Award
+**Department of Geography, University of Tennessee, Knoxville**  
+2017
+
+Selected by the undergraduate students within the department to receive this teaching award.
 
 ## Cartography and Geospatial Work
 
-Content coming soon.
+### 1st Place, Education Category, Esri International User Conference Map Gallery Recognition
+**Esri User Conference / Esri Map Gallery**  
+2022
 
-## Professional and Community Recognition
+Recognition for selected cartographic or geospatial work presented through Esri’s professional mapping community in the Education category.
 
-Content coming soon.
+### Best Analytical Presentation
+**Tennessee Geographic Information Council**  
+2019
+
+Presented at the TNGIC East Fall Forum for work on the opioid epidemic in Tennessee. 
+
+### Viewer's Choice Award
+**Tennessee Geographic Information Council**  
+2019
+
+Presented at the TNGIC East Fall Forum for work on the opioid epidemic in Tennessee.
+
+## Outreach and Service
+
+### TNGIC Distinguished Service Award
+**Tennessee Geographic Information Council**  
+2025
+
+Presented on behalf of TNGIC for Distinguished Service to the organization.
+
+### TNGIC Service Award —  Conference Chair
+**Tennessee Geographic Information Council**  
+2025
+
+Presented on behalf of TNGIC for serving as the 2025 Annual Conference Chair
+
+### TNGIC Service Award —  Conference Chair
+**Tennessee Geographic Information Council**  
+2024
+
+Presented on behalf of TNGIC for serving as the 2024 Annual Conference Chair
+
+### TNGIC Service Award — 2023-2024 MVP
+**Tennessee Geographic Information Council**  
+2024
+
+Presented on behalf of TNGIC for outstanding service during the 2023-2024 membership year.
+
+### Above and Beyond the Call of Duty Award  
+**University of Tennessee, Knoxville**  
+2022
+
+Awarded by the Department Head for service during the previous calendar year to support the department.
+
+### GIS Champion Award
+**Tennessee Geographic Information Council**  
+2021
+
+Selected by the TNGIC president for supporting the organization during the Covid-19 pandemic.
+
+### Grant Pinkerton Service Award
+**New Mexico Floodplain Management Association**  
+2016
+
+Awarded by the NMFMA leadership for outstanding service and leadership supporting floodplain management in New Mexico.
 
 ## Student and Collaborative Project Recognition
 
-Content coming soon.
+This section will document selected recognitions connected to collaborative projects, student-engaged work, conference presentations, and community-facing geospatial activities.
+
+Details will be added after reviewing which student names, project titles, and partner details are appropriate to include publicly.
