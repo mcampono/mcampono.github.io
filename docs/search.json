@@ -256,21 +256,42 @@
     "href": "cv.html",
     "title": "CV / Contact",
     "section": "",
-    "text": "This page will provide a short CV summary, selected professional links, and contact information."
+    "text": "This page provides a brief overview of my professional roles, areas of work, and contact information. A downloadable CV will be added as the site develops."
+  },
+  {
+    "objectID": "cv.html#current-roles",
+    "href": "cv.html#current-roles",
+    "title": "CV / Contact",
+    "section": "Current Roles",
+    "text": "Current Roles\n\nGIS Outreach Coordinator, Department of Geography & Sustainability, University of Tennessee, Knoxville"
+  },
+  {
+    "objectID": "cv.html#areas-of-work",
+    "href": "cv.html#areas-of-work",
+    "title": "CV / Contact",
+    "section": "Areas of Work",
+    "text": "Areas of Work\n\nGIS education and curriculum development\nGeospatial outreach and professional development\nUAV education, FAA Part 107 training, and applied drone workflows\nCommunity-engaged GIS and mapping projects\nCartography, web GIS, and geospatial communication\nStudent mentoring, undergraduate research support, and career preparation\nProfessional service and geospatial community engagement"
   },
   {
     "objectID": "cv.html#contact",
     "href": "cv.html#contact",
     "title": "CV / Contact",
     "section": "Contact",
-    "text": "Contact\nContent coming soon."
+    "text": "Contact\nEmail: mcampono@utk.edu\nInstitution: University of Tennessee, Knoxville\nDepartment of Geography & Sustainability"
   },
   {
-    "objectID": "cv.html#cv",
-    "href": "cv.html#cv",
+    "objectID": "cv.html#professional-links",
+    "href": "cv.html#professional-links",
     "title": "CV / Contact",
-    "section": "CV",
-    "text": "CV\nA downloadable CV will be added later."
+    "section": "Professional Links",
+    "text": "Professional Links\nLinks will be added here."
+  },
+  {
+    "objectID": "cv.html#downloadable-cv",
+    "href": "cv.html#downloadable-cv",
+    "title": "CV / Contact",
+    "section": "Downloadable CV",
+    "text": "Downloadable CV\nA downloadable CV will be added here."
   },
   {
     "objectID": "index.html",
