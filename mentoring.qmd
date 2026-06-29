@@ -2,16 +2,28 @@
 title: "Mentoring & Student Success"
 ---
 
-This page will document my work supporting students as they develop professional skills, prepare for conferences, pursue research opportunities, and plan future careers.
+My mentoring work focuses on helping students build confidence, develop professional skills, and identify meaningful pathways in GIS, geography, sustainability, remote sensing, UAVs, and related fields. This includes supporting students as they prepare for research opportunities, internships, conferences, graduate school, professional networking, and careers.
 
-## Mentoring themes
+I see mentoring as part of geospatial education. Technical skills matter, but students also need help understanding how to talk about their work, connect with professional communities, evaluate opportunities, and imagine possible futures for themselves.
 
-- Undergraduate research
-- Conference preparation
-- Professional networking
-- Graduate school preparation
-- Career pathways in GIS and geospatial technology
+## Mentoring Areas
 
-## Selected examples
+- **Undergraduate Research:** Supporting students as they develop project ideas, prepare posters and presentations, and share their work with academic and professional audiences.
+- **Conference Preparation:** Helping students prepare for events such as TNGIC, ASPRS, SEDAAG, EUReCA, ASUReS, and other professional or academic meetings.
+- **Career Pathways:** Helping students explore GIS, planning, environmental, UAV, public-sector, private-sector, nonprofit, and graduate-school options.
+- **Professional Communication:** Supporting students as they build resumes, portfolios, abstracts, presentations, posters, and professional introductions.
+- **Community and Professional Connection:** Encouraging students to participate in professional organizations, outreach events, applied projects, and networking opportunities.
+
+## Approach
+
+I try to help students see themselves as emerging professionals, not just students completing assignments. This means helping them recognize the value of their work, explain their skills clearly, and connect classroom experiences to real opportunities.
+
+Mentoring often involves translating between academic requirements, professional expectations, and individual student goals. The goal is to help students make informed choices and build confidence through experience.
+
+## Selected Student Success Examples
+
+Content coming soon.
+
+## Student Research and Professional Development
 
 Content coming soon.
