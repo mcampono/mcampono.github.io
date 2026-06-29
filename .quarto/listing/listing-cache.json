@@ -1,0 +1,7 @@
+{
+  "listingMap": {
+    "geospatial-portfolio.qmd": [
+      "projects/*.qmd"
+    ]
+  }
+}

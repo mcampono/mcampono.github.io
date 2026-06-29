@@ -1,5 +1,11 @@
 ---
 title: "Geospatial Portfolio"
+listing:
+  id: listing-projects
+  contents: "projects/*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
 ---
 
 This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.
@@ -22,7 +28,10 @@ This means paying attention to data quality, cartographic design, uncertainty, c
 
 ## Selected Work
 
-Content coming soon.
+The project pages below highlight selected examples of geospatial teaching, outreach, UAV, cartography, web GIS, and community-engaged work.
+
+::: {#listing-projects}
+:::
 
 ## Featured Maps and Applications
 
