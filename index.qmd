@@ -8,11 +8,25 @@ My work connects geospatial technology with teaching, professional development, 
 
 Use the sections below to explore selected work in teaching, workshops and outreach, community GIS projects, geospatial products, mentoring, service, and professional recognition.
 
-## Areas of Work
+## Explore My Work
 
-- **Teaching:** GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.
-- **Workshops & Outreach:** FAA Part 107 education, GIS professional development, K--12 educator support, and public-facing geospatial training.
-- **Community GIS:** Applied mapping, UAV, and geospatial projects developed with community partners and students.
-- **Geospatial Portfolio:** Selected maps, web apps, UAV products, cartographic outputs, and spatial storytelling examples.
-- **Mentoring & Student Success:** Undergraduate research, conference preparation, career pathways, and professional networking.
-- **Service & Leadership:** Professional organization service, program development, conference planning, and outreach leadership.
+- [**Teaching**](teaching.qmd)  
+  Applied GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.
+
+- [**Workshops & Outreach**](outreach.qmd)  
+  FAA Part 107 education, GIS professional development, K--12 educator support, and public-facing geospatial training.
+
+- [**Community GIS Projects**](community-projects.qmd)  
+  Applied mapping, UAV, remote sensing, and geospatial projects developed with community partners and students.
+
+- [**Geospatial Portfolio**](geospatial-portfolio.qmd)  
+  Selected maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.
+
+- [**Mentoring & Student Success**](mentoring.qmd)  
+  Undergraduate research, conference preparation, career pathways, professional networking, and student development.
+
+- [**Service & Leadership**](service.qmd)  
+  Professional organization service, program development, conference planning, outreach leadership, and community engagement.
+
+- [**Awards & Recognition**](awards.qmd)  
+  Selected external recognition related to GIS education, cartography, outreach, service, and community-engaged geospatial work.
