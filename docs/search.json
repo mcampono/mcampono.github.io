@@ -95,42 +95,70 @@
     "href": "geospatial-portfolio.html",
     "title": "Geospatial Portfolio",
     "section": "",
-    "text": "This page will collect selected examples of maps, web applications, geospatial analyses, UAV products, cartographic outputs, and spatial storytelling."
+    "text": "This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.\nMy geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively."
   },
   {
-    "objectID": "geospatial-portfolio.html#portfolio-themes",
-    "href": "geospatial-portfolio.html#portfolio-themes",
+    "objectID": "geospatial-portfolio.html#portfolio-areas",
+    "href": "geospatial-portfolio.html#portfolio-areas",
     "title": "Geospatial Portfolio",
-    "section": "Portfolio themes",
-    "text": "Portfolio themes\n\nWeb GIS\nCartography\nUAV mapping\nRemote sensing\nSpatial analysis\nPublic communication"
+    "section": "Portfolio Areas",
+    "text": "Portfolio Areas\n\nCartography and Map Design: Static maps, thematic maps, reference maps, and visual communication products.\nWeb GIS and Interactive Applications: Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.\nUAV and Remote Sensing Products: Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.\nSpatial Analysis and GIS Workflows: Applied analyses developed for teaching, outreach, community partners, and student projects.\nGeospatial Communication: Figures, reports, presentations, and visual materials that translate spatial information for specific audiences."
+  },
+  {
+    "objectID": "geospatial-portfolio.html#approach",
+    "href": "geospatial-portfolio.html#approach",
+    "title": "Geospatial Portfolio",
+    "section": "Approach",
+    "text": "Approach\nI think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.\nThis means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support."
   },
   {
     "objectID": "geospatial-portfolio.html#selected-work",
     "href": "geospatial-portfolio.html#selected-work",
     "title": "Geospatial Portfolio",
-    "section": "Selected work",
-    "text": "Selected work\nContent coming soon."
+    "section": "Selected Work",
+    "text": "Selected Work\nContent coming soon."
+  },
+  {
+    "objectID": "geospatial-portfolio.html#featured-maps-and-applications",
+    "href": "geospatial-portfolio.html#featured-maps-and-applications",
+    "title": "Geospatial Portfolio",
+    "section": "Featured Maps and Applications",
+    "text": "Featured Maps and Applications\nContent coming soon."
   },
   {
     "objectID": "community-projects.html",
     "href": "community-projects.html",
     "title": "Community GIS Projects",
     "section": "",
-    "text": "This page will highlight selected community-engaged GIS, mapping, UAV, and geospatial projects."
+    "text": "My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.\nMany of these projects also serve as learning opportunities for students. They provide a way to connect technical GIS skills with professional expectations, partner communication, project management, data limitations, and public-facing deliverables."
   },
   {
-    "objectID": "community-projects.html#project-themes",
-    "href": "community-projects.html#project-themes",
+    "objectID": "community-projects.html#project-areas",
+    "href": "community-projects.html#project-areas",
     "title": "Community GIS Projects",
-    "section": "Project themes",
-    "text": "Project themes\n\nHistoric preservation\nEnvironmental and conservation mapping\nPublic infrastructure and facilities\nCommunity partner support\nStudent-engaged applied GIS"
+    "section": "Project Areas",
+    "text": "Project Areas\n\nHistoric Preservation and Cultural Landscapes: Mapping and documenting cemeteries, historic sites, and community landscapes.\nEnvironmental and Conservation Mapping: Supporting conservation, land management, trail planning, and natural-resource questions.\nPublic Infrastructure and Facilities: Using GIS and UAV data to support inspection, documentation, planning, and communication.\nCommunity Partner Support: Developing maps, analyses, and geospatial products for organizations with specific applied needs.\nStudent-Engaged Applied GIS: Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom."
+  },
+  {
+    "objectID": "community-projects.html#approach",
+    "href": "community-projects.html#approach",
+    "title": "Community GIS Projects",
+    "section": "Approach",
+    "text": "Approach\nCommunity GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.\nI try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions."
   },
   {
     "objectID": "community-projects.html#selected-projects",
     "href": "community-projects.html#selected-projects",
     "title": "Community GIS Projects",
-    "section": "Selected projects",
-    "text": "Selected projects\nContent coming soon."
+    "section": "Selected Projects",
+    "text": "Selected Projects\nContent coming soon."
+  },
+  {
+    "objectID": "community-projects.html#project-deliverables",
+    "href": "community-projects.html#project-deliverables",
+    "title": "Community GIS Projects",
+    "section": "Project Deliverables",
+    "text": "Project Deliverables\nContent coming soon."
   },
   {
     "objectID": "about.html",
@@ -250,26 +278,5 @@
     "title": "Service & Leadership",
     "section": "Selected roles",
     "text": "Selected roles\nContent coming soon."
-  },
-  {
-    "objectID": "community-projects.html#project-areas",
-    "href": "community-projects.html#project-areas",
-    "title": "Community GIS Projects",
-    "section": "Project Areas",
-    "text": "Project Areas\n\nHistoric Preservation and Cultural Landscapes: Mapping and documenting cemeteries, historic sites, and community landscapes.\nEnvironmental and Conservation Mapping: Supporting conservation, land management, trail planning, and natural-resource questions.\nPublic Infrastructure and Facilities: Using GIS and UAV data to support inspection, documentation, planning, and communication.\nCommunity Partner Support: Developing maps, analyses, and geospatial products for organizations with specific applied needs.\nStudent-Engaged Applied GIS: Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom."
-  },
-  {
-    "objectID": "community-projects.html#approach",
-    "href": "community-projects.html#approach",
-    "title": "Community GIS Projects",
-    "section": "Approach",
-    "text": "Approach\nCommunity GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.\nI try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions."
-  },
-  {
-    "objectID": "community-projects.html#project-deliverables",
-    "href": "community-projects.html#project-deliverables",
-    "title": "Community GIS Projects",
-    "section": "Project Deliverables",
-    "text": "Project Deliverables\nContent coming soon."
   }
 ]

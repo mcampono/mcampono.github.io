@@ -2,17 +2,28 @@
 title: "Geospatial Portfolio"
 ---
 
-This page will collect selected examples of maps, web applications, geospatial analyses, UAV products, cartographic outputs, and spatial storytelling.
+This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.
 
-## Portfolio themes
+My geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively.
 
-- Web GIS
-- Cartography
-- UAV mapping
-- Remote sensing
-- Spatial analysis
-- Public communication
+## Portfolio Areas
 
-## Selected work
+- **Cartography and Map Design:** Static maps, thematic maps, reference maps, and visual communication products.
+- **Web GIS and Interactive Applications:** Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.
+- **UAV and Remote Sensing Products:** Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.
+- **Spatial Analysis and GIS Workflows:** Applied analyses developed for teaching, outreach, community partners, and student projects.
+- **Geospatial Communication:** Figures, reports, presentations, and visual materials that translate spatial information for specific audiences.
+
+## Approach
+
+I think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.
+
+This means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support.
+
+## Selected Work
+
+Content coming soon.
+
+## Featured Maps and Applications
 
 Content coming soon.
