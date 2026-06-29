@@ -22,6 +22,8 @@ website:
         text: Mentoring
       - href: service.qmd
         text: Service
+      - href: recognition.qmd
+        text: Awards & Recognition
       - href: cv.qmd
         text: CV / Contact
     search: true

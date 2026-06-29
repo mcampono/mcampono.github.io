@@ -21,81 +21,60 @@
     "text": "Selected courses\nContent coming soon."
   },
   {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Workshops & Outreach",
+    "objectID": "recognition.html",
+    "href": "recognition.html",
+    "title": "Awards & Recognition",
     "section": "",
-    "text": "This page will document selected workshops, public trainings, professional development events, and outreach activities."
+    "text": "This page documents selected awards and external recognition related to my work in GIS education, cartography, outreach, professional service, and community-engaged geospatial projects. These recognitions reflect both individual work and collaborative efforts with students, colleagues, community partners, and professional organizations."
   },
   {
-    "objectID": "outreach.html#areas-of-outreach",
-    "href": "outreach.html#areas-of-outreach",
-    "title": "Workshops & Outreach",
-    "section": "Areas of outreach",
-    "text": "Areas of outreach\n\nFAA Part 107 and UAV education\nGIS professional development\nK–12 educator support\nCommunity and professional workshops\nPublic-facing geospatial education"
+    "objectID": "recognition.html#teaching-outreach-and-service",
+    "href": "recognition.html#teaching-outreach-and-service",
+    "title": "Awards & Recognition",
+    "section": "Teaching, Outreach, and Service",
+    "text": "Teaching, Outreach, and Service\nContent coming soon."
   },
   {
-    "objectID": "outreach.html#selected-examples",
-    "href": "outreach.html#selected-examples",
-    "title": "Workshops & Outreach",
+    "objectID": "recognition.html#cartography-and-geospatial-work",
+    "href": "recognition.html#cartography-and-geospatial-work",
+    "title": "Awards & Recognition",
+    "section": "Cartography and Geospatial Work",
+    "text": "Cartography and Geospatial Work\nContent coming soon."
+  },
+  {
+    "objectID": "recognition.html#professional-and-community-recognition",
+    "href": "recognition.html#professional-and-community-recognition",
+    "title": "Awards & Recognition",
+    "section": "Professional and Community Recognition",
+    "text": "Professional and Community Recognition\nContent coming soon."
+  },
+  {
+    "objectID": "recognition.html#student-and-collaborative-project-recognition",
+    "href": "recognition.html#student-and-collaborative-project-recognition",
+    "title": "Awards & Recognition",
+    "section": "Student and Collaborative Project Recognition",
+    "text": "Student and Collaborative Project Recognition\nContent coming soon."
+  },
+  {
+    "objectID": "mentoring.html",
+    "href": "mentoring.html",
+    "title": "Mentoring & Student Success",
+    "section": "",
+    "text": "This page will document my work supporting students as they develop professional skills, prepare for conferences, pursue research opportunities, and plan future careers."
+  },
+  {
+    "objectID": "mentoring.html#mentoring-themes",
+    "href": "mentoring.html#mentoring-themes",
+    "title": "Mentoring & Student Success",
+    "section": "Mentoring themes",
+    "text": "Mentoring themes\n\nUndergraduate research\nConference preparation\nProfessional networking\nGraduate school preparation\nCareer pathways in GIS and geospatial technology"
+  },
+  {
+    "objectID": "mentoring.html#selected-examples",
+    "href": "mentoring.html#selected-examples",
+    "title": "Mentoring & Student Success",
     "section": "Selected examples",
     "text": "Selected examples\nContent coming soon."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Michael Camponovo",
-    "section": "",
-    "text": "Welcome to my professional portfolio.\nI am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner. This site documents selected work in teaching, GIS outreach, UAV education, community projects, student mentoring, and professional service."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV / Contact",
-    "section": "",
-    "text": "This page will provide a short CV summary, selected professional links, and contact information."
-  },
-  {
-    "objectID": "cv.html#contact",
-    "href": "cv.html#contact",
-    "title": "CV / Contact",
-    "section": "Contact",
-    "text": "Contact\nContent coming soon."
-  },
-  {
-    "objectID": "cv.html#cv",
-    "href": "cv.html#cv",
-    "title": "CV / Contact",
-    "section": "CV",
-    "text": "CV\nA downloadable CV will be added later."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This page will include a short professional biography, areas of work, and contact information."
-  },
-  {
-    "objectID": "community-projects.html",
-    "href": "community-projects.html",
-    "title": "Community GIS Projects",
-    "section": "",
-    "text": "This page will highlight selected community-engaged GIS, mapping, UAV, and geospatial projects."
-  },
-  {
-    "objectID": "community-projects.html#project-themes",
-    "href": "community-projects.html#project-themes",
-    "title": "Community GIS Projects",
-    "section": "Project themes",
-    "text": "Project themes\n\nHistoric preservation\nEnvironmental and conservation mapping\nPublic infrastructure and facilities\nCommunity partner support\nStudent-engaged applied GIS"
-  },
-  {
-    "objectID": "community-projects.html#selected-projects",
-    "href": "community-projects.html#selected-projects",
-    "title": "Community GIS Projects",
-    "section": "Selected projects",
-    "text": "Selected projects\nContent coming soon."
   },
   {
     "objectID": "geospatial-portfolio.html",
@@ -119,23 +98,79 @@
     "text": "Selected work\nContent coming soon."
   },
   {
-    "objectID": "mentoring.html",
-    "href": "mentoring.html",
-    "title": "Mentoring & Student Success",
+    "objectID": "community-projects.html",
+    "href": "community-projects.html",
+    "title": "Community GIS Projects",
     "section": "",
-    "text": "This page will document my work supporting students as they develop professional skills, prepare for conferences, pursue research opportunities, and plan future careers."
+    "text": "This page will highlight selected community-engaged GIS, mapping, UAV, and geospatial projects."
   },
   {
-    "objectID": "mentoring.html#mentoring-themes",
-    "href": "mentoring.html#mentoring-themes",
-    "title": "Mentoring & Student Success",
-    "section": "Mentoring themes",
-    "text": "Mentoring themes\n\nUndergraduate research\nConference preparation\nProfessional networking\nGraduate school preparation\nCareer pathways in GIS and geospatial technology"
+    "objectID": "community-projects.html#project-themes",
+    "href": "community-projects.html#project-themes",
+    "title": "Community GIS Projects",
+    "section": "Project themes",
+    "text": "Project themes\n\nHistoric preservation\nEnvironmental and conservation mapping\nPublic infrastructure and facilities\nCommunity partner support\nStudent-engaged applied GIS"
   },
   {
-    "objectID": "mentoring.html#selected-examples",
-    "href": "mentoring.html#selected-examples",
-    "title": "Mentoring & Student Success",
+    "objectID": "community-projects.html#selected-projects",
+    "href": "community-projects.html#selected-projects",
+    "title": "Community GIS Projects",
+    "section": "Selected projects",
+    "text": "Selected projects\nContent coming soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This page will include a short professional biography, areas of work, and contact information."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV / Contact",
+    "section": "",
+    "text": "This page will provide a short CV summary, selected professional links, and contact information."
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV / Contact",
+    "section": "Contact",
+    "text": "Contact\nContent coming soon."
+  },
+  {
+    "objectID": "cv.html#cv",
+    "href": "cv.html#cv",
+    "title": "CV / Contact",
+    "section": "CV",
+    "text": "CV\nA downloadable CV will be added later."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Camponovo",
+    "section": "",
+    "text": "Welcome to my professional portfolio.\nI am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner. This site documents selected work in teaching, GIS outreach, UAV education, community projects, student mentoring, and professional service."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Workshops & Outreach",
+    "section": "",
+    "text": "This page will document selected workshops, public trainings, professional development events, and outreach activities."
+  },
+  {
+    "objectID": "outreach.html#areas-of-outreach",
+    "href": "outreach.html#areas-of-outreach",
+    "title": "Workshops & Outreach",
+    "section": "Areas of outreach",
+    "text": "Areas of outreach\n\nFAA Part 107 and UAV education\nGIS professional development\nK–12 educator support\nCommunity and professional workshops\nPublic-facing geospatial education"
+  },
+  {
+    "objectID": "outreach.html#selected-examples",
+    "href": "outreach.html#selected-examples",
+    "title": "Workshops & Outreach",
     "section": "Selected examples",
     "text": "Selected examples\nContent coming soon."
   },
