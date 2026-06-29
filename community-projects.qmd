@@ -2,16 +2,28 @@
 title: "Community GIS Projects"
 ---
 
-This page will highlight selected community-engaged GIS, mapping, UAV, and geospatial projects.
+My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.
 
-## Project themes
+Many of these projects also serve as learning opportunities for students. They provide a way to connect technical GIS skills with professional expectations, partner communication, project management, data limitations, and public-facing deliverables.
 
-- Historic preservation
-- Environmental and conservation mapping
-- Public infrastructure and facilities
-- Community partner support
-- Student-engaged applied GIS
+## Project Areas
 
-## Selected projects
+- **Historic Preservation and Cultural Landscapes:** Mapping and documenting cemeteries, historic sites, and community landscapes.
+- **Environmental and Conservation Mapping:** Supporting conservation, land management, trail planning, and natural-resource questions.
+- **Public Infrastructure and Facilities:** Using GIS and UAV data to support inspection, documentation, planning, and communication.
+- **Community Partner Support:** Developing maps, analyses, and geospatial products for organizations with specific applied needs.
+- **Student-Engaged Applied GIS:** Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom.
+
+## Approach
+
+Community GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.
+
+I try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions.
+
+## Selected Projects
+
+Content coming soon.
+
+## Project Deliverables
 
 Content coming soon.
