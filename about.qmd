@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This page will include a short professional biography, areas of work, and contact information.
