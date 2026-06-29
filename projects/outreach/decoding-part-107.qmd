@@ -3,7 +3,7 @@ title: "Decoding Part 107 Workshop"
 description: "A professional-development workshop helping educators and geospatial professionals understand FAA Part 107 concepts and prepare for safe UAV operations."
 date: 2026-04-01
 categories: [UAV education, FAA Part 107, workshops, professional development]
-image: ../../assets/images/thumbnails/decoding-part-107.jpg
+image: ../../assets/images/thumbnails/decoding-part-107.webp
 ---
 
 The **Decoding Part 107 Workshop** is a professional-development workshop designed to help participants understand the knowledge areas required for safe and legal small uncrewed aircraft systems operations.

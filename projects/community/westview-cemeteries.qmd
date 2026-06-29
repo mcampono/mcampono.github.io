@@ -3,7 +3,7 @@ title: "Westview Historic Cemeteries Mapping Project"
 description: "A community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes."
 date: 2025-04-01
 categories: [community GIS, UAV, lidar, historic preservation, student engagement]
-image: ../../assets/images/thumbnails/westview-cemeteries.jpg
+image: ../../assets/images/thumbnails/westview-cemeteries.webp
 ---
 
 The **Westview Historic Cemeteries Mapping Project** is a community-engaged geospatial project focused on supporting documentation, interpretation, and preservation of historic cemetery landscapes.
