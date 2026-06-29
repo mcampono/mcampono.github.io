@@ -2,31 +2,57 @@
 title: "Michael Camponovo"
 ---
 
-This portfolio documents my work as a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor.
+I am a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor at the University of Tennessee, Knoxville.
 
-My work connects geospatial technology with teaching, professional development, community projects, and student success. I develop applied GIS and UAV learning experiences, support public-facing geospatial outreach, collaborate on community mapping projects, and mentor students as they build technical skills and professional pathways.
+My work connects geospatial technology with teaching, professional development, community projects, student success, and public-facing communication. I develop applied GIS and UAV learning experiences, support geospatial outreach, collaborate on community mapping projects, and mentor students as they build technical skills and professional pathways.
 
-Use the sections below to explore selected work in teaching, workshops and outreach, community GIS projects, geospatial products, mentoring, service, and professional recognition.
+::: {.callout-note title="Portfolio Focus"}
+This site documents selected work in GIS education, workshops and outreach, community-engaged projects, geospatial products, mentoring, service, and professional recognition.
+:::
 
 ## Explore My Work
 
-- [**Teaching**](teaching.qmd)  
-  Applied GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.
+:::: {layout-ncol=2}
 
-- [**Workshops & Outreach**](outreach.qmd)  
-  FAA Part 107 education, GIS professional development, K--12 educator support, and public-facing geospatial training.
+::: {.callout-tip title="Teaching"}
+Applied GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.
 
-- [**Community GIS Projects**](community-projects.qmd)  
-  Applied mapping, UAV, remote sensing, and geospatial projects developed with community partners and students.
+[Explore teaching](teaching.qmd)
+:::
 
-- [**Geospatial Portfolio**](geospatial-portfolio.qmd)  
-  Selected maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.
+::: {.callout-tip title="Workshops & Outreach"}
+FAA Part 107 education, GIS professional development, K--12 educator support, and public-facing geospatial training.
 
-- [**Mentoring & Student Success**](mentoring.qmd)  
-  Undergraduate research, conference preparation, career pathways, professional networking, and student development.
+[Explore outreach](outreach.qmd)
+:::
 
-- [**Service & Leadership**](service.qmd)  
-  Professional organization service, program development, conference planning, outreach leadership, and community engagement.
+::: {.callout-tip title="Community GIS Projects"}
+Applied mapping, UAV, remote sensing, and geospatial projects developed with community partners and students.
 
-- [**Awards & Recognition**](awards.qmd)  
-  Selected external recognition related to GIS education, cartography, outreach, service, and community-engaged geospatial work.
+[Explore community projects](community-projects.qmd)
+:::
+
+::: {.callout-tip title="Geospatial Portfolio"}
+Selected maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.
+
+[Explore geospatial work](geospatial-portfolio.qmd)
+:::
+
+::: {.callout-tip title="Mentoring & Student Success"}
+Undergraduate research, conference preparation, career pathways, professional networking, and student development.
+
+[Explore mentoring](mentoring.qmd)
+:::
+
+::: {.callout-tip title="Service & Leadership"}
+Professional organization service, program development, conference planning, outreach leadership, and community engagement.
+
+[Explore service](service.qmd)
+:::
+
+::::
+
+## Recognition and Contact
+
+- [Awards & Recognition](awards.qmd)
+- [CV / Contact](cv.qmd)
