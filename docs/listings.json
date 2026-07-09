@@ -1,0 +1,58 @@
+[
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/projects/teaching/applied-gis-lab-design.html"
+    ]
+  },
+  {
+    "listing": "/outreach.html",
+    "items": [
+      "/projects/outreach/mythical-cartography.html",
+      "/projects/outreach/neh-summer-2022-workshop.html",
+      "/projects/outreach/tnga-emr-storymaps.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/outreach/mega-bitess-academy.html",
+      "/projects/outreach/tga-educator-geospatial-workshops.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/outreach/mythical-cartography.html",
+      "/projects/outreach/neh-summer-2022-workshop.html",
+      "/projects/outreach/tnga-emr-storymaps.html",
+      "/projects/teaching/applied-gis-lab-design.html",
+      "/projects/service/tngic-education-outreach.html",
+      "/projects/service/tn-arcgis-online-mapping-contest.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/community/westview-cemeteries.html",
+      "/projects/geospatial/westview-geospatial-products.html",
+      "/projects/outreach/mega-bitess-academy.html",
+      "/projects/outreach/tga-educator-geospatial-workshops.html",
+      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
+      "/projects/geospatial/opioids-in-tennessee.html"
+    ]
+  },
+  {
+    "listing": "/community-projects.html",
+    "items": [
+      "/projects/community/westview-cemeteries.html"
+    ]
+  },
+  {
+    "listing": "/geospatial-portfolio.html",
+    "items": [
+      "/projects/geospatial/westview-geospatial-products.html",
+      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
+      "/projects/geospatial/opioids-in-tennessee.html"
+    ]
+  },
+  {
+    "listing": "/service.html",
+    "items": [
+      "/projects/service/tngic-education-outreach.html",
+      "/projects/service/tn-arcgis-online-mapping-contest.html"
+    ]
+  }
+]

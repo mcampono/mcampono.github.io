@@ -61,5 +61,14 @@
   },
   "projects/service/tn-arcgis-online-mapping-contest.qmd": {
     "tn-arcgis-online-mapping-contest.html": "97521b43"
+  },
+  "projects/outreach/mythical-cartography.qmd": {
+    "mythical-cartography.html": "1b22998b"
+  },
+  "projects/outreach/neh-summer-2022-workshop.qmd": {
+    "neh-summer-2022-workshop.html": "3584fded"
+  },
+  "projects/outreach/tga-educator-geospatial-workshops.qmd": {
+    "tga-educator-geospatial-workshops.html": "8f03a638"
   }
 }
