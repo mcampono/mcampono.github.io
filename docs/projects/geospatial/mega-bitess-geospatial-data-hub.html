@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-06-01">
+<meta name="description" content="A geospatial data infrastructure project supporting teacher-collected ovitrap data, Survey123 workflows, open data publishing, web maps, dashboards, StoryMaps, and public-facing mosquito surveillance resources.">
 
-<title>Geospatial Portfolio – Michael Camponovo</title>
+<title>MEGA:BITESS Geospatial Data Hub and Mapping Resources – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing-projects'] = new List('listing-listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Michael Camponovo</span>
     </a>
   </div>
@@ -152,43 +94,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
+    <a class="nav-link" href="../../outreach.html"> 
 <span class="menu-text">Workshops &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./community-projects.html"> 
+    <a class="nav-link" href="../../community-projects.html"> 
 <span class="menu-text">Community GIS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./geospatial-portfolio.html" aria-current="page"> 
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
 <span class="menu-text">Geospatial Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentoring.html"> 
+    <a class="nav-link" href="../../mentoring.html"> 
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./service.html"> 
+    <a class="nav-link" href="../../service.html"> 
 <span class="menu-text">Service</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recognition.html"> 
+    <a class="nav-link" href="../../recognition.html"> 
 <span class="menu-text">Awards &amp; Recognition</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV / Contact</span></a>
   </li>  
 </ul>
@@ -207,26 +149,57 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#portfolio-areas" id="toc-portfolio-areas" class="nav-link active" data-scroll-target="#portfolio-areas">Portfolio Areas</a></li>
-  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
-  <li><a href="#selected-work" id="toc-selected-work" class="nav-link" data-scroll-target="#selected-work">Selected Work</a></li>
-  <li><a href="#featured-maps-and-applications" id="toc-featured-maps-and-applications" class="nav-link" data-scroll-target="#featured-maps-and-applications">Featured Maps and Applications</a></li>
+  <li><a href="#geospatial-role" id="toc-geospatial-role" class="nav-link active" data-scroll-target="#geospatial-role">Geospatial Role</a></li>
+  <li><a href="#data-workflow" id="toc-data-workflow" class="nav-link" data-scroll-target="#data-workflow">Data Workflow</a></li>
+  <li><a href="#geospatial-products" id="toc-geospatial-products" class="nav-link" data-scroll-target="#geospatial-products">Geospatial Products</a></li>
+  <li><a href="#selected-resources" id="toc-selected-resources" class="nav-link" data-scroll-target="#selected-resources">Selected Resources</a>
+  <ul class="collapse">
+  <li><a href="#data-hub" id="toc-data-hub" class="nav-link" data-scroll-target="#data-hub">Data Hub</a></li>
+  <li><a href="#storymap" id="toc-storymap" class="nav-link" data-scroll-target="#storymap">StoryMap</a></li>
+  <li><a href="#training-videos" id="toc-training-videos" class="nav-link" data-scroll-target="#training-videos">Training Videos</a></li>
+  <li><a href="#example-web-maps-and-data-resources" id="toc-example-web-maps-and-data-resources" class="nav-link" data-scroll-target="#example-web-maps-and-data-resources">Example Web Maps and Data Resources</a></li>
+  </ul></li>
+  <li><a href="#communication-goals" id="toc-communication-goals" class="nav-link" data-scroll-target="#communication-goals">Communication Goals</a></li>
+  <li><a href="#portfolio-significance" id="toc-portfolio-significance" class="nav-link" data-scroll-target="#portfolio-significance">Portfolio Significance</a></li>
+  <li><a href="#related-project" id="toc-related-project" class="nav-link" data-scroll-target="#related-project">Related Project</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Y2FydG9ncmFwaHk=">cartography <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGFzaGJvYXJkcw==">dashboards <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YSUyMGh1Yg==">data hub <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z2Vvc3BhdGlhbCUyMGNvbW11bmljYXRpb24=">geospatial communication <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R0lT">GIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24=">historic preservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGlEQVI=">LiDAR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="b3BlbiUyMGRhdGE=">open data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHVibGljJTIwaGVhbHRo">public health <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cmVtb3RlJTIwc2Vuc2luZw==">remote sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2NpZW5jZSUyMGNvbW11bmljYXRpb24=">science communication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3BhdGlhbCUyMGFuYWx5c2lz">spatial analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RvcnlNYXBz">StoryMaps <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U3VydmV5MTIz">Survey123 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGVubmVzc2Vl">Tennessee <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUFW">UAV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d2ViJTIwbWFwcw==">web maps <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Geospatial Portfolio</h1>
-</div>
+<h1 class="title">MEGA:BITESS Geospatial Data Hub and Mapping Resources</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">Survey123</div>
+    <div class="quarto-category">data hub</div>
+    <div class="quarto-category">web maps</div>
+    <div class="quarto-category">dashboards</div>
+    <div class="quarto-category">StoryMaps</div>
+    <div class="quarto-category">public health</div>
+    <div class="quarto-category">open data</div>
+    <div class="quarto-category">science communication</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    A geospatial data infrastructure project supporting teacher-collected ovitrap data, Survey123 workflows, open data publishing, web maps, dashboards, StoryMaps, and public-facing mosquito surveillance resources.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 1, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -236,153 +209,91 @@ window.Quarto = {
 </header>
 
 
-<p>This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.</p>
-<p>My geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively.</p>
-<section id="portfolio-areas" class="level2">
-<h2 class="anchored" data-anchor-id="portfolio-areas">Portfolio Areas</h2>
+<p>The <strong>MEGA:BITESS Geospatial Data Hub and Mapping Resources</strong> project highlights the geospatial infrastructure developed to support teacher-collected ovitrap data, mosquito surveillance education, web mapping, public data sharing, and science communication.</p>
+<p>As part of my volunteer work with the Tennessee Geographic Alliance, I helped build the GIS and data-sharing components that allowed teachers and students to collect, visualize, analyze, and communicate data connected to the MEGA:BITESS Academy.</p>
+<section id="geospatial-role" class="level2">
+<h2 class="anchored" data-anchor-id="geospatial-role">Geospatial Role</h2>
+<p>My role focused on designing and supporting the geospatial data workflow for the project.</p>
+<p>This included:</p>
 <ul>
-<li><strong>Cartography and Map Design:</strong> Static maps, thematic maps, reference maps, and visual communication products.</li>
-<li><strong>Web GIS and Interactive Applications:</strong> Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.</li>
-<li><strong>UAV and Remote Sensing Products:</strong> Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.</li>
-<li><strong>Spatial Analysis and GIS Workflows:</strong> Applied analyses developed for teaching, outreach, community partners, and student projects.</li>
-<li><strong>Geospatial Communication:</strong> Figures, reports, presentations, and visual materials that translate spatial information for specific audiences.</li>
+<li>setting up Survey123 workflows for teacher and student ovitrap data collection,</li>
+<li>supporting teachers as they learned basic GIS and data visualization skills,</li>
+<li>cleaning and preparing ovitrap data for publication,</li>
+<li>publishing datasets for use in maps, dashboards, and StoryMaps,</li>
+<li>building web maps and dashboards using project data,</li>
+<li>creating public-facing StoryMaps and data resources,</li>
+<li>developing a MEGA:BITESS data hub to organize and share project data,</li>
+<li>creating training videos and support materials for educators.</li>
 </ul>
 </section>
-<section id="approach" class="level2">
-<h2 class="anchored" data-anchor-id="approach">Approach</h2>
-<p>I think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.</p>
-<p>This means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support.</p>
+<section id="data-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="data-workflow">Data Workflow</h2>
+<p>The project required a full geospatial data pipeline, from field collection to public communication.</p>
+<p>The workflow included:</p>
+<ol type="1">
+<li><strong>Field data collection</strong> using Survey123 forms for ovitrap observations.</li>
+<li><strong>Data review and cleaning</strong> to prepare teacher and student-submitted records for mapping and analysis.</li>
+<li><strong>Data publishing</strong> through ArcGIS Online and the MEGA:BITESS data hub.</li>
+<li><strong>Map and dashboard development</strong> to visualize ovitrap data and related disease-context datasets.</li>
+<li><strong>StoryMap and training-resource development</strong> to support interpretation, instruction, and public communication.</li>
+</ol>
 </section>
-<section id="selected-work" class="level2">
-<h2 class="anchored" data-anchor-id="selected-work">Selected Work</h2>
-<p>The project pages below highlight selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.</p>
-<div id="listing-listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="VUFWJTJDTGlEQVIlMkNjYXJ0b2dyYXBoeSUyQ3JlbW90ZSUyMHNlbnNpbmclMkNoaXN0b3JpYyUyMHByZXNlcnZhdGlvbiUyQ2dlb3NwYXRpYWwlMjBjb21tdW5pY2F0aW9u" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1782756488699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="314">
-<div class="thumbnail"><a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/westview-cemeteries.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">Westview UAV and LiDAR Geospatial Products</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFW'); return false;">UAV</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGlEQVI='); return false;">LiDAR</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FydG9ncmFwaHk='); return false;">cartography</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVtb3RlJTIwc2Vuc2luZw=='); return false;">remote sensing</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24='); return false;">historic preservation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2Vvc3BhdGlhbCUyMGNvbW11bmljYXRpb24='); return false;">geospatial communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">
-<p>Selected UAV, LiDAR, mapping, and visualization products developed to support documentation and interpretation of historic cemetery landscapes.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">
-<div class="listing-date">
-Apr 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="R0lTJTJDU3VydmV5MTIzJTJDZGF0YSUyMGh1YiUyQ3dlYiUyMG1hcHMlMkNkYXNoYm9hcmRzJTJDU3RvcnlNYXBzJTJDcHVibGljJTIwaGVhbHRoJTJDb3BlbiUyMGRhdGElMkNzY2llbmNlJTIwY29tbXVuaWNhdGlvbg==" data-listing-date-sort="1717214400000" data-listing-file-modified-sort="1783609724768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="430">
-<div class="thumbnail"><a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/mega-bitess-geospatial-data-hub.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">MEGA:BITESS Geospatial Data Hub and Mapping Resources</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lT'); return false;">GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3VydmV5MTIz'); return false;">Survey123</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YSUyMGh1Yg=='); return false;">data hub</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('d2ViJTIwbWFwcw=='); return false;">web maps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGFzaGJvYXJkcw=='); return false;">dashboards</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3RvcnlNYXBz'); return false;">StoryMaps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHVibGljJTIwaGVhbHRo'); return false;">public health</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b3BlbiUyMGRhdGE='); return false;">open data</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW5jZSUyMGNvbW11bmljYXRpb24='); return false;">science communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">
-<p>A geospatial data infrastructure project supporting teacher-collected ovitrap data, Survey123 workflows, open data publishing, web maps, dashboards, StoryMaps, and public-facing mosquito surveillance resources.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">
-<div class="listing-date">
-Jun 1, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="U3RvcnlNYXBzJTJDcHVibGljJTIwaGVhbHRoJTJDVGVubmVzc2VlJTJDY2FydG9ncmFwaHklMkNzcGF0aWFsJTIwYW5hbHlzaXMlMkNnZW9zcGF0aWFsJTIwY29tbXVuaWNhdGlvbg==" data-listing-date-sort="1546318800000" data-listing-file-modified-sort="1783608791053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
-<div class="thumbnail"><a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/opioids-in-tennessee.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">Opioids in Tennessee</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3RvcnlNYXBz'); return false;">StoryMaps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHVibGljJTIwaGVhbHRo'); return false;">public health</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGVubmVzc2Vl'); return false;">Tennessee</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FydG9ncmFwaHk='); return false;">cartography</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3BhdGlhbCUyMGFuYWx5c2lz'); return false;">spatial analysis</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2Vvc3BhdGlhbCUyMGNvbW11bmljYXRpb24='); return false;">geospatial communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">
-<p>A StoryMap using geospatial data and narrative mapping to explore opioid-related patterns and impacts in Tennessee.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2019
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="geospatial-products" class="level2">
+<h2 class="anchored" data-anchor-id="geospatial-products">Geospatial Products</h2>
+<p>Selected products included:</p>
+<ul>
+<li>MEGA:BITESS data hub,</li>
+<li>Survey123 data collection workflows,</li>
+<li>public web maps,</li>
+<li>dashboards and visualizations,</li>
+<li>StoryMaps,</li>
+<li>teacher GIS training videos,</li>
+<li>published datasets related to mosquito surveillance and La Crosse virus context.</li>
+</ul>
 </section>
-<section id="featured-maps-and-applications" class="level2">
-<h2 class="anchored" data-anchor-id="featured-maps-and-applications">Featured Maps and Applications</h2>
-<p>Content coming soon.</p>
-
+<section id="selected-resources" class="level2">
+<h2 class="anchored" data-anchor-id="selected-resources">Selected Resources</h2>
+<section id="data-hub" class="level3">
+<h3 class="anchored" data-anchor-id="data-hub">Data Hub</h3>
+<ul>
+<li><a href="https://megabitess-tga.hub.arcgis.com/">MEGA:BITESS Data Hub</a></li>
+</ul>
+</section>
+<section id="storymap" class="level3">
+<h3 class="anchored" data-anchor-id="storymap">StoryMap</h3>
+<ul>
+<li><a href="https://arcg.is/5z5fT">MEGA:BITESS StoryMap</a></li>
+</ul>
+</section>
+<section id="training-videos" class="level3">
+<h3 class="anchored" data-anchor-id="training-videos">Training Videos</h3>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLoBz14z31pl7W-FEbS8CcEUO995x1fY2X">MEGA:BITESS Training Videos</a></li>
+</ul>
+</section>
+<section id="example-web-maps-and-data-resources" class="level3">
+<h3 class="anchored" data-anchor-id="example-web-maps-and-data-resources">Example Web Maps and Data Resources</h3>
+<ul>
+<li><a href="https://data-tga.opendata.arcgis.com/datasets/arthropod-borne-viral-deaths-by-state-1999-2017/explore?location=45.136977%2C-119.377885%2C3">Arthropod-Borne Viral Deaths by State, 1999–2017</a></li>
+<li><a href="https://data-tga.opendata.arcgis.com/datasets/la-crosse-cases-by-county/explore?location=35.215573%2C-82.855212%2C6">La Crosse Cases by County</a></li>
+<li><a href="https://data-tga.opendata.arcgis.com/datasets/lace-cases-by-state-by-year/explore?location=-85.194788%2C70.993208%2C1">LACE Cases by State by Year</a></li>
+<li><a href="https://data-tga.opendata.arcgis.com/datasets/lace-cases-by-state/explore?location=45.136977%2C-119.377885%2C3">LACE Cases by State</a></li>
+</ul>
+</section>
+</section>
+<section id="communication-goals" class="level2">
+<h2 class="anchored" data-anchor-id="communication-goals">Communication Goals</h2>
+<p>The geospatial resources were designed to support both technical and educational communication. Teachers needed usable tools for collecting and exploring data, while students and community audiences needed maps and visualizations that made mosquito surveillance and disease-context information understandable.</p>
+<p>The project also connected local field observations to broader public-health and environmental patterns. This helped make geospatial technology part of a larger science communication and STEM education effort.</p>
+</section>
+<section id="portfolio-significance" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio-significance">Portfolio Significance</h2>
+<p>This project is a strong example of end-to-end geospatial infrastructure: data collection design, data cleaning, data publication, web mapping, dashboard development, StoryMaps, online training, and public data sharing.</p>
+<p>It demonstrates how GIS can support educator professional development, student fieldwork, community science, public-health communication, and open geospatial data.</p>
+</section>
+<section id="related-project" class="level2">
+<h2 class="anchored" data-anchor-id="related-project">Related Project</h2>
+<p>This geospatial portfolio item is connected to the broader <a href="../../projects/outreach/mega-bitess-academy.html">MEGA:BITESS Academy Geospatial Education and Data Hub</a> outreach project.</p>
 
 
 </section>

@@ -55,5 +55,8 @@
   },
   "projects/outreach/mega-bitess-academy.qmd": {
     "mega-bitess-academy.html": "bee2bff1"
+  },
+  "projects/geospatial/mega-bitess-geospatial-data-hub.qmd": {
+    "mega-bitess-geospatial-data-hub.html": "3fa6d5d8"
   }
 }
