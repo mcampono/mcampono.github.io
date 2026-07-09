@@ -82,5 +82,11 @@
   },
   "projects/teaching/usps-dog-bite-risk.qmd": {
     "usps-dog-bite-risk.html": "21b7e3d6"
+  },
+  "projects/geospatial/choose-your-truth.qmd": {
+    "choose-your-truth.html": "f5483031"
+  },
+  "projects/geospatial/data-classification-in-mapping.qmd": {
+    "data-classification-in-mapping.html": "66968da3"
   }
 }

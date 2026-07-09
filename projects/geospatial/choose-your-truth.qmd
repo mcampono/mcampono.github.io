@@ -1,0 +1,38 @@
+---
+title: "Choose Your Truth"
+description: "A StoryMap exploring how data choices, visual framing, and map design can shape interpretation and influence how audiences understand geographic information."
+date: 2021-01-01
+categories: [StoryMaps, geospatial communication, cartography, data interpretation, visual storytelling, map design]
+image: ../../assets/images/thumbnails/choose-your-truth.webp
+---
+
+The **Choose Your Truth** StoryMap explores how data choices, visual framing, and map design influence interpretation.
+
+This project was created as an independent geospatial communication example to examine how maps can shape the stories people tell with data. It reflects a central theme in cartography and geovisualization: the same topic can be represented in different ways depending on the data, design choices, framing, and intended message.
+
+## Project Role
+
+My role included developing the StoryMap, selecting examples, designing the visual narrative, and using geospatial storytelling to encourage critical interpretation of maps and data.
+
+## Geospatial Focus
+
+This project emphasizes:
+
+- map interpretation,
+- visual framing,
+- data communication,
+- cartographic storytelling,
+- geospatial literacy,
+- critical thinking about maps and evidence.
+
+## Communication Goals
+
+The StoryMap was designed to encourage viewers to question how maps and data visualizations are constructed. It asks audiences to think about what is being shown, what is left out, how categories and visual choices affect interpretation, and how maps can support different narratives.
+
+## Finished Product
+
+- [Choose Your Truth](https://storymaps.arcgis.com/stories/0c5745167fb3462a93b53ae43b860d9b)
+
+## Portfolio Significance
+
+This project is a useful example of my interest in geospatial communication, cartographic literacy, and critical map interpretation. It demonstrates how StoryMaps can be used to help audiences think more carefully about the relationship between data, design, and meaning.

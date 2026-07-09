@@ -1,0 +1,40 @@
+---
+title: "Data Classification in Mapping"
+description: "A StoryMap exploring how data classification choices affect map interpretation, visual patterns, and cartographic communication."
+date: 2021-01-01
+categories: [cartography, StoryMaps, data classification, geovisualization, map interpretation, geospatial communication]
+image: ../../assets/images/thumbnails/data-classification-in-mapping.webp
+---
+
+The **Data Classification in Mapping** StoryMap explores how classification choices affect the way mapped data are interpreted.
+
+This project was created as an independent geospatial communication example to examine how different classification methods can emphasize, obscure, or reshape spatial patterns. It highlights an important cartographic idea: maps are not neutral displays of data. Design decisions influence what viewers notice and how they understand geographic patterns.
+
+## Project Role
+
+My role included developing the StoryMap, designing the examples, organizing the explanation, and using web-based geospatial storytelling to communicate a core cartographic concept.
+
+## Geospatial Focus
+
+This project emphasizes:
+
+- data classification,
+- choropleth mapping,
+- cartographic decision-making,
+- visual interpretation,
+- geospatial communication,
+- the relationship between data, design, and audience understanding.
+
+## Communication Goals
+
+The StoryMap was designed to help viewers understand that classification methods are not just technical settings. They are interpretive choices that can change the apparent meaning of a map.
+
+By comparing classification approaches, the project encourages viewers to think critically about how maps represent data and how cartographic choices shape geographic understanding.
+
+## Finished Product
+
+- [Data Classification in Mapping](https://storymaps.arcgis.com/stories/c52d1948f04d40209fab1605ce3c8ab9)
+
+## Portfolio Significance
+
+This project is a strong example of my interest in cartographic communication and geovisualization. It demonstrates how StoryMaps can be used to explain technical mapping concepts in a public-facing, accessible format.
