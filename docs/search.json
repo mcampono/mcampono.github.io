@@ -112,88 +112,417 @@
     "text": "Related Links\nLinks to public TNGIC resources, conference materials, or selected outreach examples will be added here."
   },
   {
-    "objectID": "projects/outreach/mega-bitess-academy.html",
-    "href": "projects/outreach/mega-bitess-academy.html",
-    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
+    "objectID": "projects/outreach/tnga-emr-storymaps.html",
+    "href": "projects/outreach/tnga-emr-storymaps.html",
+    "title": "Tennessee Geographic Alliance EMR StoryMaps",
     "section": "",
-    "text": "The MEGA:BITESS Academy was a multi-year educator professional-development and geospatial outreach project focused on medical entomology, mosquito surveillance, geospatial analysis, science communication, and STEM education.\nThrough my volunteer work with the Tennessee Geographic Alliance, I supported the geospatial components of the project by helping teachers learn basic GIS skills, collect and use ovitrap data, and share student-generated data through public-facing maps, dashboards, StoryMaps, and a data hub.\nThe broader MEGA:BITESS Academy was designed to support innovative classroom teaching, build interest in entomology and geospatial sciences, and increase community awareness of La Crosse neuroinvasive disease. The project trained educators to develop STEM projects with middle- and high-school students by examining environmental factors related to mosquito oviposition. The project also emphasized geospatial technology, locally centered maps, science communication, and STEM learning."
+    "text": "The Tennessee Geographic Alliance EMR StoryMaps are online educational resources developed through volunteer work with the Tennessee Geographic Alliance. These StoryMaps help learners explore electromagnetic radiation, satellite imagery, and remote sensing concepts through real-world environmental examples.\nThe resources connect abstract physical geography and remote sensing concepts to visible environmental phenomena such as wildfire activity, sea ice, and glaciers."
   },
   {
-    "objectID": "projects/outreach/mega-bitess-academy.html#project-role",
-    "href": "projects/outreach/mega-bitess-academy.html#project-role",
-    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
+    "objectID": "projects/outreach/tnga-emr-storymaps.html#project-role",
+    "href": "projects/outreach/tnga-emr-storymaps.html#project-role",
+    "title": "Tennessee Geographic Alliance EMR StoryMaps",
     "section": "Project Role",
-    "text": "Project Role\nMy role focused on the geospatial education, data collection, data publishing, and public-facing GIS components of the project.\nResponsibilities included:\n\nteaching participating teachers basic GIS concepts and workflows,\ndeveloping an introduction to GIS and data visualization for MEGA:BITESS educators,\nsetting up Survey123 workflows for ovitrap data collection,\ncleaning and publishing teacher and student ovitrap data,\nbuilding web maps, dashboards, and StoryMaps using project data,\ncreating and maintaining a MEGA:BITESS data hub to share project data and resources,\ndeveloping training videos and online support materials,\nhelping translate project data into maps and visualizations for teachers, students, and public audiences."
+    "text": "Project Role\nMy role included developing online instructional materials, designing StoryMap-based learning experiences, selecting geospatial examples, organizing explanatory content, and creating resources that educators and learners can use to explore remote sensing concepts."
   },
   {
-    "objectID": "projects/outreach/mega-bitess-academy.html#geospatial-education-goals",
-    "href": "projects/outreach/mega-bitess-academy.html#geospatial-education-goals",
-    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
-    "section": "Geospatial Education Goals",
-    "text": "Geospatial Education Goals\nThe geospatial components of the project were designed to help teachers and students:\n\nunderstand how GIS can support public-health and environmental questions,\ncollect field data using structured digital forms,\nexplore mosquito surveillance data spatially,\nconnect local ovitrap observations to broader disease and environmental patterns,\nuse maps, dashboards, and StoryMaps to communicate scientific information,\nbuild confidence using geospatial tools in classroom and community contexts."
+    "objectID": "projects/outreach/tnga-emr-storymaps.html#educational-goals",
+    "href": "projects/outreach/tnga-emr-storymaps.html#educational-goals",
+    "title": "Tennessee Geographic Alliance EMR StoryMaps",
+    "section": "Educational Goals",
+    "text": "Educational Goals\nThese StoryMaps are designed to help learners:\n\nunderstand electromagnetic radiation as a foundation for remote sensing,\nconnect satellite imagery to real environmental patterns and processes,\ninterpret imagery related to wildfires, sea ice, and glaciers,\nexplore how different wavelengths and imagery products support geographic analysis,\nuse web-based geospatial tools to investigate Earth systems."
   },
   {
-    "objectID": "projects/outreach/mega-bitess-academy.html#project-resources",
-    "href": "projects/outreach/mega-bitess-academy.html#project-resources",
-    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
-    "section": "Project Resources",
-    "text": "Project Resources\n\nStoryMap\n\nMEGA:BITESS StoryMap\n\n\n\nData Hub\n\nMEGA:BITESS Data Hub\n\n\n\nTraining Videos\n\nMEGA:BITESS Training Videos\n\n\n\nExample Web Maps and Data Resources\n\nArthropod-Borne Viral Deaths by State, 1999–2017\nLa Crosse Cases by County\nLACE Cases by State by Year\nLACE Cases by State"
+    "objectID": "projects/outreach/tnga-emr-storymaps.html#featured-storymaps",
+    "href": "projects/outreach/tnga-emr-storymaps.html#featured-storymaps",
+    "title": "Tennessee Geographic Alliance EMR StoryMaps",
+    "section": "Featured StoryMaps",
+    "text": "Featured StoryMaps\n\nExploring EMR With Wildfire Satellite Imagery\nExploring EMR with Sea Ice and Glaciers"
   },
   {
-    "objectID": "projects/outreach/mega-bitess-academy.html#portfolio-significance",
-    "href": "projects/outreach/mega-bitess-academy.html#portfolio-significance",
-    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
+    "objectID": "projects/outreach/tnga-emr-storymaps.html#portfolio-significance",
+    "href": "projects/outreach/tnga-emr-storymaps.html#portfolio-significance",
+    "title": "Tennessee Geographic Alliance EMR StoryMaps",
     "section": "Portfolio Significance",
-    "text": "Portfolio Significance\nThis project is one of the strongest examples of my work at the intersection of GIS education, teacher professional development, public-health communication, field data collection, and public-facing geospatial infrastructure.\nIt demonstrates the full geospatial education workflow: teaching GIS concepts, designing data collection systems, cleaning and publishing data, building maps and dashboards, creating StoryMaps, and supporting educators as they use geospatial tools with students."
+    "text": "Portfolio Significance\nThis project reflects the intersection of geospatial outreach, remote sensing education, online learning design, and volunteer service. It also demonstrates how StoryMaps can be used to translate technical geospatial concepts into accessible, exploratory learning experiences.\nThe project is a good example of using public-facing geospatial tools to support educators, students, and geography education beyond a traditional university classroom."
   },
   {
-    "objectID": "projects/outreach/mega-bitess-academy.html#related-work",
-    "href": "projects/outreach/mega-bitess-academy.html#related-work",
-    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
+    "objectID": "projects/outreach/tnga-emr-storymaps.html#related-work",
+    "href": "projects/outreach/tnga-emr-storymaps.html#related-work",
+    "title": "Tennessee Geographic Alliance EMR StoryMaps",
     "section": "Related Work",
-    "text": "Related Work\nAdditional MEGA:BITESS-related maps, dashboards, and instructional materials may be added as separate geospatial portfolio items if they are useful to highlight individually."
+    "text": "Related Work\nAdditional Tennessee Geographic Alliance workshops, StoryMaps, and online applications will be added as separate portfolio items or grouped resources as the site develops."
   },
   {
-    "objectID": "projects/geospatial/westview-geospatial-products.html",
-    "href": "projects/geospatial/westview-geospatial-products.html",
-    "title": "Westview UAV and LiDAR Geospatial Products",
+    "objectID": "projects/outreach/decoding-part-107.html",
+    "href": "projects/outreach/decoding-part-107.html",
+    "title": "Decoding Part 107 Workshop",
     "section": "",
-    "text": "The Westview UAV and LiDAR Geospatial Products page highlights selected geospatial outputs developed as part of a historic cemetery mapping project. These products were designed to support interpretation, documentation, and communication of landscape features that may be difficult to identify from ground-level observation alone.\nThis work demonstrates how UAV imagery, LiDAR-derived elevation products, cartography, and spatial visualization can support community-engaged projects while also creating meaningful examples for geospatial teaching and student learning."
+    "text": "The Decoding Part 107 Workshop is a professional-development workshop designed to help participants understand the knowledge areas required for safe and legal small uncrewed aircraft systems operations.\nThe workshop focuses on FAA Part 107 concepts, aviation decision-making, airspace, airport operations, sectional charts, weather, loading and performance, radio communications, and practical preparation for the remote pilot certification exam."
   },
   {
-    "objectID": "projects/geospatial/westview-geospatial-products.html#geospatial-focus",
-    "href": "projects/geospatial/westview-geospatial-products.html#geospatial-focus",
-    "title": "Westview UAV and LiDAR Geospatial Products",
-    "section": "Geospatial Focus",
-    "text": "Geospatial Focus\nThis portfolio item emphasizes the technical and communication products developed through the project, including:\n\nUAV imagery and orthomosaic products,\nLiDAR-derived elevation and surface models,\nhillshade and surface visualization products,\nmap layouts and interpretive cartography,\nspatial documentation of visible and subtle landscape features,\nvisual materials for project communication."
+    "objectID": "projects/outreach/decoding-part-107.html#project-role",
+    "href": "projects/outreach/decoding-part-107.html#project-role",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Project Role",
+    "text": "Project Role\nMy role includes developing workshop materials, organizing instructional content, teaching key aviation and geospatial concepts, building practice resources, and adapting the workshop for different audiences, including educators, students, and geospatial professionals."
   },
   {
-    "objectID": "projects/geospatial/westview-geospatial-products.html#methods-and-workflow",
-    "href": "projects/geospatial/westview-geospatial-products.html#methods-and-workflow",
-    "title": "Westview UAV and LiDAR Geospatial Products",
-    "section": "Methods and Workflow",
-    "text": "Methods and Workflow\nThe workflow included field data collection, geospatial data processing, spatial interpretation, map production, and communication with project partners. Products were developed to help translate complex spatial data into useful visual information for interpretation, planning, and discussion."
+    "objectID": "projects/outreach/decoding-part-107.html#teaching-and-outreach-goals",
+    "href": "projects/outreach/decoding-part-107.html#teaching-and-outreach-goals",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Teaching and Outreach Goals",
+    "text": "Teaching and Outreach Goals\nThis workshop is designed to help participants:\n\nunderstand why FAA Part 107 matters for educational and professional UAV use,\ninterpret aviation charts and airspace information,\nidentify weather and operational risk factors,\nconnect UAV operations to real-world geospatial applications,\nbuild confidence using aviation resources and terminology,\nprepare for additional study toward the FAA Remote Pilot Certificate."
   },
   {
-    "objectID": "projects/geospatial/westview-geospatial-products.html#cartographic-and-communication-goals",
-    "href": "projects/geospatial/westview-geospatial-products.html#cartographic-and-communication-goals",
-    "title": "Westview UAV and LiDAR Geospatial Products",
-    "section": "Cartographic and Communication Goals",
-    "text": "Cartographic and Communication Goals\nThe geospatial products were designed to be more than technical outputs. They needed to communicate clearly with audiences who may not regularly work with UAV data, LiDAR, elevation models, or GIS software.\nImportant design considerations included:\n\nmaking subtle landscape patterns visible,\nchoosing appropriate visualizations for elevation and surface features,\nbalancing technical accuracy with readability,\npresenting information in ways that could support discussion with partners and public audiences,\nacknowledging limitations in what the data can and cannot show."
+    "objectID": "projects/outreach/decoding-part-107.html#selected-components",
+    "href": "projects/outreach/decoding-part-107.html#selected-components",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Selected Components",
+    "text": "Selected Components\n\nFAA Part 107 instructional materials\nSectional chart and airspace interpretation activities\nWeather and airport operations examples\nPractice quizzes and study resources\nEducator-focused UAV use cases\nWorkshop materials adapted for K–12 and professional audiences"
   },
   {
-    "objectID": "projects/geospatial/westview-geospatial-products.html#portfolio-significance",
-    "href": "projects/geospatial/westview-geospatial-products.html#portfolio-significance",
-    "title": "Westview UAV and LiDAR Geospatial Products",
+    "objectID": "projects/outreach/decoding-part-107.html#portfolio-significance",
+    "href": "projects/outreach/decoding-part-107.html#portfolio-significance",
+    "title": "Decoding Part 107 Workshop",
     "section": "Portfolio Significance",
-    "text": "Portfolio Significance\nThis work is a strong example of applied geospatial communication. It demonstrates how remote sensing, UAV mapping, LiDAR visualization, and cartography can be used together to support a real project with community value.\nIt also connects directly to my teaching philosophy: GIS products are not just software outputs; they are part of a larger process of asking questions, evaluating data, interpreting results, and communicating clearly."
+    "text": "Portfolio Significance\nThis project reflects the intersection of my work in geospatial education, UAV outreach, professional development, and applied teaching. It also demonstrates how technical aviation material can be translated into practical learning experiences for audiences who may not have prior aviation backgrounds."
   },
   {
-    "objectID": "projects/geospatial/westview-geospatial-products.html#related-project",
-    "href": "projects/geospatial/westview-geospatial-products.html#related-project",
-    "title": "Westview UAV and LiDAR Geospatial Products",
-    "section": "Related Project",
-    "text": "Related Project\nThis geospatial portfolio item is connected to the broader Westview Historic Cemeteries Mapping Project."
+    "objectID": "projects/outreach/decoding-part-107.html#related-links",
+    "href": "projects/outreach/decoding-part-107.html#related-links",
+    "title": "Decoding Part 107 Workshop",
+    "section": "Related Links",
+    "text": "Related Links\nLinks to public materials will be added here."
+  },
+  {
+    "objectID": "projects/geospatial/opioids-in-tennessee.html",
+    "href": "projects/geospatial/opioids-in-tennessee.html",
+    "title": "Opioids in Tennessee",
+    "section": "",
+    "text": "The Opioids in Tennessee StoryMap uses geospatial data, maps, and narrative explanation to explore opioid-related patterns and impacts across Tennessee.\nThis project reflects the use of GIS and cartographic storytelling to communicate a complex public-health issue to a broader audience. By combining spatial data, contextual explanation, and interactive web mapping, the StoryMap helps viewers understand how opioid-related impacts vary across places and communities."
+  },
+  {
+    "objectID": "projects/geospatial/opioids-in-tennessee.html#project-role",
+    "href": "projects/geospatial/opioids-in-tennessee.html#project-role",
+    "title": "Opioids in Tennessee",
+    "section": "Project Role",
+    "text": "Project Role\nMy role included developing the StoryMap, organizing the spatial narrative, selecting and preparing data, creating maps and visualizations, and translating the results into a public-facing geospatial communication product."
+  },
+  {
+    "objectID": "projects/geospatial/opioids-in-tennessee.html#geospatial-focus",
+    "href": "projects/geospatial/opioids-in-tennessee.html#geospatial-focus",
+    "title": "Opioids in Tennessee",
+    "section": "Geospatial Focus",
+    "text": "Geospatial Focus\nThis project emphasized:\n\npublic-health data visualization,\ncounty-level or regional spatial patterns,\nweb-based cartographic storytelling,\ncommunication of complex social and health data,\nTennessee-focused spatial analysis and interpretation."
+  },
+  {
+    "objectID": "projects/geospatial/opioids-in-tennessee.html#communication-goals",
+    "href": "projects/geospatial/opioids-in-tennessee.html#communication-goals",
+    "title": "Opioids in Tennessee",
+    "section": "Communication Goals",
+    "text": "Communication Goals\nThe StoryMap was designed to help viewers explore opioid-related patterns in Tennessee through maps, narrative text, and contextual information. The goal was not only to display data, but to make spatial patterns understandable and meaningful for public audiences."
+  },
+  {
+    "objectID": "projects/geospatial/opioids-in-tennessee.html#portfolio-significance",
+    "href": "projects/geospatial/opioids-in-tennessee.html#portfolio-significance",
+    "title": "Opioids in Tennessee",
+    "section": "Portfolio Significance",
+    "text": "Portfolio Significance\nThis project is an example of geospatial storytelling applied to a major public issue. It demonstrates how GIS, web mapping, and narrative cartography can be used to communicate patterns, raise awareness, and support public understanding of complex geographic problems."
+  },
+  {
+    "objectID": "projects/geospatial/opioids-in-tennessee.html#related-link",
+    "href": "projects/geospatial/opioids-in-tennessee.html#related-link",
+    "title": "Opioids in Tennessee",
+    "section": "Related Link",
+    "text": "Related Link\n\nOpioids in Tennessee"
+  },
+  {
+    "objectID": "projects/community/westview-cemeteries.html",
+    "href": "projects/community/westview-cemeteries.html",
+    "title": "Westview Historic Cemeteries Mapping Project",
+    "section": "",
+    "text": "The Westview Historic Cemeteries Mapping Project is a community-engaged geospatial project focused on supporting documentation, interpretation, and preservation of historic cemetery landscapes.\nThe project used geospatial technologies such as UAV imagery, lidar, mapping, and spatial analysis to help identify landscape features, document site conditions, and communicate information about cemetery spaces that can be difficult to interpret from ground-level observation alone."
+  },
+  {
+    "objectID": "projects/community/westview-cemeteries.html#project-role",
+    "href": "projects/community/westview-cemeteries.html#project-role",
+    "title": "Westview Historic Cemeteries Mapping Project",
+    "section": "Project Role",
+    "text": "Project Role\nMy role included coordinating geospatial data collection, supporting UAV and lidar workflows, working with students and colleagues, developing project deliverables, and helping translate technical geospatial outputs into useful information for project partners and public audiences."
+  },
+  {
+    "objectID": "projects/community/westview-cemeteries.html#project-goals",
+    "href": "projects/community/westview-cemeteries.html#project-goals",
+    "title": "Westview Historic Cemeteries Mapping Project",
+    "section": "Project Goals",
+    "text": "Project Goals\nThis project was designed to support:\n\ndocumentation of historic cemetery landscapes,\nidentification of visible and subtle landscape features,\ndevelopment of geospatial products for interpretation and planning,\nstudent participation in applied GIS and UAV workflows,\ncommunication with community partners and stakeholders."
+  },
+  {
+    "objectID": "projects/community/westview-cemeteries.html#geospatial-methods-and-products",
+    "href": "projects/community/westview-cemeteries.html#geospatial-methods-and-products",
+    "title": "Westview Historic Cemeteries Mapping Project",
+    "section": "Geospatial Methods and Products",
+    "text": "Geospatial Methods and Products\nProject activities included a combination of field data collection, UAV-based mapping, lidar-derived surface information, cartographic production, and spatial interpretation.\nSelected geospatial products included:\n\nUAV imagery and orthomosaic products,\nlidar-derived elevation and surface information,\nmaps and visualizations for interpretation,\nspatial documentation of landscape features,\nproject materials for communication with partners."
+  },
+  {
+    "objectID": "projects/community/westview-cemeteries.html#teaching-and-student-engagement",
+    "href": "projects/community/westview-cemeteries.html#teaching-and-student-engagement",
+    "title": "Westview Historic Cemeteries Mapping Project",
+    "section": "Teaching and Student Engagement",
+    "text": "Teaching and Student Engagement\nThis project provided students with an opportunity to see how GIS, UAVs, remote sensing, and cartography can support real community questions. Students were able to connect technical workflows with issues of historic preservation, landscape interpretation, data limitations, and public communication.\nThe project also helped demonstrate that applied GIS work is rarely just a single tool or software operation. It involves understanding the partner’s question, collecting appropriate data, evaluating limitations, producing useful deliverables, and communicating results clearly."
+  },
+  {
+    "objectID": "projects/community/westview-cemeteries.html#portfolio-significance",
+    "href": "projects/community/westview-cemeteries.html#portfolio-significance",
+    "title": "Westview Historic Cemeteries Mapping Project",
+    "section": "Portfolio Significance",
+    "text": "Portfolio Significance\nThis project reflects the intersection of community-engaged GIS, UAV mapping, lidar, student learning, and public-facing geospatial communication. It is a strong example of using geospatial technology to support partners while also creating meaningful applied learning opportunities for students."
+  },
+  {
+    "objectID": "projects/community/westview-cemeteries.html#related-links",
+    "href": "projects/community/westview-cemeteries.html#related-links",
+    "title": "Westview Historic Cemeteries Mapping Project",
+    "section": "Related Links",
+    "text": "Related Links\nLinks to public maps, reports, presentations, or project materials will be added here."
+  },
+  {
+    "objectID": "mentoring.html",
+    "href": "mentoring.html",
+    "title": "Mentoring & Student Success",
+    "section": "",
+    "text": "My mentoring work focuses on helping students build confidence, develop professional skills, and identify meaningful pathways in GIS, geography, sustainability, remote sensing, UAVs, and related fields. This includes supporting students as they prepare for research opportunities, internships, conferences, graduate school, professional networking, and careers.\nI see mentoring as part of geospatial education. Technical skills matter, but students also need help understanding how to talk about their work, connect with professional communities, evaluate opportunities, and imagine possible futures for themselves."
+  },
+  {
+    "objectID": "mentoring.html#mentoring-areas",
+    "href": "mentoring.html#mentoring-areas",
+    "title": "Mentoring & Student Success",
+    "section": "Mentoring Areas",
+    "text": "Mentoring Areas\n\nUndergraduate Research: Supporting students as they develop project ideas, prepare posters and presentations, and share their work with academic and professional audiences.\nConference Preparation: Helping students prepare for events such as TNGIC, ASPRS, SEDAAG, EUReCA, ASUReS, and other professional or academic meetings.\nCareer Pathways: Helping students explore GIS, planning, environmental, UAV, public-sector, private-sector, nonprofit, and graduate-school options.\nProfessional Communication: Supporting students as they build resumes, portfolios, abstracts, presentations, posters, and professional introductions.\nCommunity and Professional Connection: Encouraging students to participate in professional organizations, outreach events, applied projects, and networking opportunities."
+  },
+  {
+    "objectID": "mentoring.html#approach",
+    "href": "mentoring.html#approach",
+    "title": "Mentoring & Student Success",
+    "section": "Approach",
+    "text": "Approach\nI try to help students see themselves as emerging professionals, not just students completing assignments. This means helping them recognize the value of their work, explain their skills clearly, and connect classroom experiences to real opportunities.\nMentoring often involves translating between academic requirements, professional expectations, and individual student goals. The goal is to help students make informed choices and build confidence through experience."
+  },
+  {
+    "objectID": "mentoring.html#selected-student-success-examples",
+    "href": "mentoring.html#selected-student-success-examples",
+    "title": "Mentoring & Student Success",
+    "section": "Selected Student Success Examples",
+    "text": "Selected Student Success Examples\nContent coming soon."
+  },
+  {
+    "objectID": "mentoring.html#student-research-and-professional-development",
+    "href": "mentoring.html#student-research-and-professional-development",
+    "title": "Mentoring & Student Success",
+    "section": "Student Research and Professional Development",
+    "text": "Student Research and Professional Development\nContent coming soon."
+  },
+  {
+    "objectID": "geospatial-portfolio.html",
+    "href": "geospatial-portfolio.html",
+    "title": "Geospatial Portfolio",
+    "section": "",
+    "text": "This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.\nMy geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively."
+  },
+  {
+    "objectID": "geospatial-portfolio.html#portfolio-areas",
+    "href": "geospatial-portfolio.html#portfolio-areas",
+    "title": "Geospatial Portfolio",
+    "section": "Portfolio Areas",
+    "text": "Portfolio Areas\n\nCartography and Map Design: Static maps, thematic maps, reference maps, and visual communication products.\nWeb GIS and Interactive Applications: Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.\nUAV and Remote Sensing Products: Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.\nSpatial Analysis and GIS Workflows: Applied analyses developed for teaching, outreach, community partners, and student projects.\nGeospatial Communication: Figures, reports, presentations, and visual materials that translate spatial information for specific audiences."
+  },
+  {
+    "objectID": "geospatial-portfolio.html#approach",
+    "href": "geospatial-portfolio.html#approach",
+    "title": "Geospatial Portfolio",
+    "section": "Approach",
+    "text": "Approach\nI think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.\nThis means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support."
+  },
+  {
+    "objectID": "geospatial-portfolio.html#selected-work",
+    "href": "geospatial-portfolio.html#selected-work",
+    "title": "Geospatial Portfolio",
+    "section": "Selected Work",
+    "text": "Selected Work\nThe project pages below highlight selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.\n\n\n\n\n\n\n\n\n\n\nWestview UAV and LiDAR Geospatial Products\n\n\n\nUAV\n\nLiDAR\n\ncartography\n\nremote sensing\n\nhistoric preservation\n\ngeospatial communication\n\n\n\nSelected UAV, LiDAR, mapping, and visualization products developed to support documentation and interpretation of historic cemetery landscapes.\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMEGA:BITESS Geospatial Data Hub and Mapping Resources\n\n\n\nGIS\n\nSurvey123\n\ndata hub\n\nweb maps\n\ndashboards\n\nStoryMaps\n\npublic health\n\nopen data\n\nscience communication\n\n\n\nA geospatial data infrastructure project supporting teacher-collected ovitrap data, Survey123 workflows, open data publishing, web maps, dashboards, StoryMaps, and public-facing mosquito surveillance resources.\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOpioids in Tennessee\n\n\n\nStoryMaps\n\npublic health\n\nTennessee\n\ncartography\n\nspatial analysis\n\ngeospatial communication\n\n\n\nA StoryMap using geospatial data and narrative mapping to explore opioid-related patterns and impacts in Tennessee.\n\n\n\n\n\nJan 1, 2019\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "geospatial-portfolio.html#featured-maps-and-applications",
+    "href": "geospatial-portfolio.html#featured-maps-and-applications",
+    "title": "Geospatial Portfolio",
+    "section": "Featured Maps and Applications",
+    "text": "Featured Maps and Applications\nContent coming soon."
+  },
+  {
+    "objectID": "community-projects.html",
+    "href": "community-projects.html",
+    "title": "Community GIS Projects",
+    "section": "",
+    "text": "My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.\nMany of these projects also serve as learning opportunities for students. They provide a way to connect technical GIS skills with professional expectations, partner communication, project management, data limitations, and public-facing deliverables."
+  },
+  {
+    "objectID": "community-projects.html#project-areas",
+    "href": "community-projects.html#project-areas",
+    "title": "Community GIS Projects",
+    "section": "Project Areas",
+    "text": "Project Areas\n\nHistoric Preservation and Cultural Landscapes: Mapping and documenting cemeteries, historic sites, and community landscapes.\nEnvironmental and Conservation Mapping: Supporting conservation, land management, trail planning, and natural-resource questions.\nPublic Infrastructure and Facilities: Using GIS and UAV data to support inspection, documentation, planning, and communication.\nCommunity Partner Support: Developing maps, analyses, and geospatial products for organizations with specific applied needs.\nStudent-Engaged Applied GIS: Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom."
+  },
+  {
+    "objectID": "community-projects.html#approach",
+    "href": "community-projects.html#approach",
+    "title": "Community GIS Projects",
+    "section": "Approach",
+    "text": "Approach\nCommunity GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.\nI try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions."
+  },
+  {
+    "objectID": "community-projects.html#selected-projects",
+    "href": "community-projects.html#selected-projects",
+    "title": "Community GIS Projects",
+    "section": "Selected Projects",
+    "text": "Selected Projects\nThe project pages below highlight selected community-engaged GIS, UAV, mapping, remote sensing, and spatial analysis projects developed with partners, students, colleagues, and public audiences.\n\n\n\n\n\n\n\n\n\n\nWestview Historic Cemeteries Mapping Project\n\n\n\ncommunity GIS\n\nUAV\n\nlidar\n\nhistoric preservation\n\nstudent engagement\n\n\n\nA community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "community-projects.html#project-deliverables",
+    "href": "community-projects.html#project-deliverables",
+    "title": "Community GIS Projects",
+    "section": "Project Deliverables",
+    "text": "Project Deliverables\nContent coming soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner at the University of Tennessee, Knoxville. My work focuses on helping students, educators, professionals, and community partners use geospatial tools to understand problems, communicate clearly, and make better decisions.\nMy professional work sits at the intersection of teaching, outreach, applied GIS, uncrewed aerial systems, cartography, and student mentoring. I develop applied learning experiences that connect technical skills with real-world questions, including GIS analysis, web mapping, UAV data collection, remote sensing, cartographic communication, and professional development."
+  },
+  {
+    "objectID": "about.html#professional-focus",
+    "href": "about.html#professional-focus",
+    "title": "About",
+    "section": "Professional Focus",
+    "text": "Professional Focus\nMy work includes:\n\nTeaching undergraduate and professional-development courses in GIS, cartography, UAVs, remote sensing, and geospatial problem solving.\nDeveloping workshops and outreach programs for students, educators, public agencies, and professional audiences.\nSupporting community-engaged GIS and UAV projects with students, colleagues, and partner organizations.\nMentoring students as they prepare for conferences, research opportunities, internships, jobs, and graduate school.\nContributing to professional organizations, outreach initiatives, and geospatial education efforts across Tennessee."
+  },
+  {
+    "objectID": "about.html#approach",
+    "href": "about.html#approach",
+    "title": "About",
+    "section": "Approach",
+    "text": "Approach\nI try to design learning experiences around realistic problems rather than isolated tools. In GIS, the technical steps matter, but they are only part of the work. Students and professionals also need to understand the question being asked, the data needed to answer it, the limitations of the analysis, and the best way to communicate results to a real audience.\nThis portfolio highlights selected examples of that work, including teaching materials, workshops, community projects, geospatial products, mentoring activities, service roles, and professional recognition."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nContact information and professional links will be added here."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV / Contact",
+    "section": "",
+    "text": "This page provides a brief overview of my professional roles, areas of work, and contact information. A downloadable CV will be added as the site develops."
+  },
+  {
+    "objectID": "cv.html#current-roles",
+    "href": "cv.html#current-roles",
+    "title": "CV / Contact",
+    "section": "Current Roles",
+    "text": "Current Roles\n\nGIS Outreach Coordinator, Department of Geography & Sustainability, University of Tennessee, Knoxville"
+  },
+  {
+    "objectID": "cv.html#areas-of-work",
+    "href": "cv.html#areas-of-work",
+    "title": "CV / Contact",
+    "section": "Areas of Work",
+    "text": "Areas of Work\n\nGIS education and curriculum development\nGeospatial outreach and professional development\nUAV education, FAA Part 107 training, and applied drone workflows\nCommunity-engaged GIS and mapping projects\nCartography, web GIS, and geospatial communication\nStudent mentoring, undergraduate research support, and career preparation\nProfessional service and geospatial community engagement"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV / Contact",
+    "section": "Contact",
+    "text": "Contact\nEmail: mcampono@utk.edu\nInstitution: University of Tennessee, Knoxville\nDepartment of Geography & Sustainability"
+  },
+  {
+    "objectID": "cv.html#professional-links",
+    "href": "cv.html#professional-links",
+    "title": "CV / Contact",
+    "section": "Professional Links",
+    "text": "Professional Links\nLinks will be added here."
+  },
+  {
+    "objectID": "cv.html#downloadable-cv",
+    "href": "cv.html#downloadable-cv",
+    "title": "CV / Contact",
+    "section": "Downloadable CV",
+    "text": "Downloadable CV\nA downloadable CV will be added here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michael Camponovo",
+    "section": "",
+    "text": "I am a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor at the University of Tennessee, Knoxville.\nMy work connects geospatial technology with teaching, professional development, community projects, student success, and public-facing communication. I develop applied GIS and UAV learning experiences, support geospatial outreach, collaborate on community mapping projects, and mentor students as they build technical skills and professional pathways."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Michael Camponovo",
+    "section": "Featured Work",
+    "text": "Featured Work\nThe selected items below highlight examples from across my teaching, outreach, community-engaged GIS, geospatial portfolio, and service work.\n\n\n\n\n\n\n\n\n\n\nTennessee Geographic Alliance EMR StoryMaps\n\n\n\nTennessee Geographic Alliance\n\nStoryMaps\n\nremote sensing\n\nEMR\n\neducator resources\n\noutreach\n\n\n\nA set of online educational StoryMaps developed for the Tennessee Geographic Alliance to help learners explore electromagnetic radiation, satellite imagery, wildfires, sea…\n\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplied GIS Lab Design\n\n\n\nteaching\n\nGIS\n\nlab design\n\nprofessional preparation\n\napplied learning\n\n\n\nA teaching approach that frames GIS labs around realistic problems, complete workflows, and professional-style deliverables.\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTNGIC Education and Outreach Leadership\n\n\n\nservice\n\nleadership\n\nGIS education\n\noutreach\n\nTNGIC\n\nprofessional organizations\n\n\n\nProfessional service supporting GIS education, outreach, student engagement, and professional community-building through the Tennessee Geographic Information Council.\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTennessee ArcGIS Online Mapping Contest\n\n\n\nservice\n\nleadership\n\nGIS education\n\nArcGIS Online\n\nK--12\n\nmapping contest\n\nstudent engagement\n\nTennessee Geographic Alliance\n\n\n\nA statewide mapping contest for middle and high school students that supports GIS education, teacher engagement, student storytelling, judging coordination, sponsorship, and…\n\n\n\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecoding Part 107 Workshop\n\n\n\nUAV education\n\nFAA Part 107\n\nworkshops\n\nprofessional development\n\n\n\nA professional-development workshop helping educators and geospatial professionals understand FAA Part 107 concepts and prepare for safe UAV operations.\n\n\n\n\n\n\nApr 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWestview Historic Cemeteries Mapping Project\n\n\n\ncommunity GIS\n\nUAV\n\nlidar\n\nhistoric preservation\n\nstudent engagement\n\n\n\nA community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#explore-my-work",
+    "href": "index.html#explore-my-work",
+    "title": "Michael Camponovo",
+    "section": "Explore My Work",
+    "text": "Explore My Work\n\n\n\n\n\n\n\n\n\nTipTeaching\n\n\n\nApplied GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.\nExplore teaching\n\n\n\n\n\n\n\n\n\n\nTipWorkshops & Outreach\n\n\n\nFAA Part 107 education, GIS professional development, K–12 educator support, and public-facing geospatial training.\nExplore outreach\n\n\n\n\n\n\n\n\n\n\n\n\nTipCommunity GIS Projects\n\n\n\nApplied mapping, UAV, remote sensing, and geospatial projects developed with community partners and students.\nExplore community projects\n\n\n\n\n\n\n\n\n\n\nTipGeospatial Portfolio\n\n\n\nSelected maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.\nExplore geospatial work\n\n\n\n\n\n\n\n\n\n\n\n\nTipMentoring & Student Success\n\n\n\nUndergraduate research, conference preparation, career pathways, professional networking, and student development.\nExplore mentoring\n\n\n\n\n\n\n\n\n\n\nTipService & Leadership\n\n\n\nProfessional organization service, program development, conference planning, outreach leadership, and community engagement.\nExplore service"
+  },
+  {
+    "objectID": "index.html#recognition-and-contact",
+    "href": "index.html#recognition-and-contact",
+    "title": "Michael Camponovo",
+    "section": "Recognition and Contact",
+    "text": "Recognition and Contact\n\nAwards & Recognition\nCV / Contact"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Workshops & Outreach",
+    "section": "",
+    "text": "My outreach work focuses on helping students, educators, professionals, public agencies, and community partners use geospatial tools more effectively. These activities often connect GIS, cartography, UAVs, remote sensing, and professional development with real-world needs beyond a traditional classroom setting.\nWorkshops and outreach events allow me to translate technical geospatial topics into practical learning experiences for different audiences, including undergraduate students, K–12 educators, working professionals, community organizations, and public-sector partners."
+  },
+  {
+    "objectID": "outreach.html#outreach-areas",
+    "href": "outreach.html#outreach-areas",
+    "title": "Workshops & Outreach",
+    "section": "Outreach Areas",
+    "text": "Outreach Areas\n\nFAA Part 107 and UAV Education: Workshops and learning materials that help participants understand airspace, regulations, weather, sectional charts, airport operations, and safe UAV operations.\nGIS Professional Development: Training opportunities focused on practical GIS workflows, geospatial problem solving, map communication, and applied spatial analysis.\nK–12 Educator Support: Professional development activities that help teachers connect geospatial tools, UAVs, maps, and spatial thinking to classroom learning.\nCommunity and Public Outreach: Events and projects that make geospatial technology more accessible to community partners and public audiences.\nStudent Professional Development: Activities that help students prepare for conferences, internships, research opportunities, portfolios, and careers in GIS and geospatial technology."
+  },
+  {
+    "objectID": "outreach.html#approach",
+    "href": "outreach.html#approach",
+    "title": "Workshops & Outreach",
+    "section": "Approach",
+    "text": "Approach\nI try to design workshops around what participants actually need to do after the event. Rather than focusing only on software demonstrations, I emphasize practical workflows, decision points, common mistakes, and the reasoning behind technical steps.\nThis approach is especially important in geospatial outreach because participants often need to apply what they learn in complex, real-world settings. A useful workshop should help people understand not only which buttons to press, but also why the workflow matters, what limitations to watch for, and how to communicate results clearly."
+  },
+  {
+    "objectID": "outreach.html#selected-workshops-and-outreach-activities",
+    "href": "outreach.html#selected-workshops-and-outreach-activities",
+    "title": "Workshops & Outreach",
+    "section": "Selected Workshops and Outreach Activities",
+    "text": "Selected Workshops and Outreach Activities\nThe project pages below highlight selected workshops, outreach programs, professional-development activities, and public-facing geospatial education efforts.\n\n\n\n\n\n\n\n\n\n\nTennessee Geographic Alliance EMR StoryMaps\n\n\n\nTennessee Geographic Alliance\n\nStoryMaps\n\nremote sensing\n\nEMR\n\neducator resources\n\noutreach\n\n\n\nA set of online educational StoryMaps developed for the Tennessee Geographic Alliance to help learners explore electromagnetic radiation, satellite imagery, wildfires, sea ice, and glaciers.\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDecoding Part 107 Workshop\n\n\n\nUAV education\n\nFAA Part 107\n\nworkshops\n\nprofessional development\n\n\n\nA professional-development workshop helping educators and geospatial professionals understand FAA Part 107 concepts and prepare for safe UAV operations.\n\n\n\n\n\nApr 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMEGA:BITESS Academy Geospatial Education and Data Hub\n\n\n\nTennessee Geographic Alliance\n\nGIS education\n\nteacher professional development\n\nSurvey123\n\ndashboards\n\nStoryMaps\n\ndata hub\n\npublic health\n\noutreach\n\n\n\nA multi-year Tennessee Geographic Alliance project supporting teacher GIS training, ovitrap data collection, data publishing, maps, dashboards, StoryMaps, and public-facing geospatial resources.\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "outreach.html#example-materials-and-resources",
+    "href": "outreach.html#example-materials-and-resources",
+    "title": "Workshops & Outreach",
+    "section": "Example Materials and Resources",
+    "text": "Example Materials and Resources\nContent coming soon."
   },
   {
     "objectID": "projects/geospatial/mega-bitess-geospatial-data-hub.html",
@@ -252,417 +581,130 @@
     "text": "Related Project\nThis geospatial portfolio item is connected to the broader MEGA:BITESS Academy Geospatial Education and Data Hub outreach project."
   },
   {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Workshops & Outreach",
+    "objectID": "projects/geospatial/westview-geospatial-products.html",
+    "href": "projects/geospatial/westview-geospatial-products.html",
+    "title": "Westview UAV and LiDAR Geospatial Products",
     "section": "",
-    "text": "My outreach work focuses on helping students, educators, professionals, public agencies, and community partners use geospatial tools more effectively. These activities often connect GIS, cartography, UAVs, remote sensing, and professional development with real-world needs beyond a traditional classroom setting.\nWorkshops and outreach events allow me to translate technical geospatial topics into practical learning experiences for different audiences, including undergraduate students, K–12 educators, working professionals, community organizations, and public-sector partners."
+    "text": "The Westview UAV and LiDAR Geospatial Products page highlights selected geospatial outputs developed as part of a historic cemetery mapping project. These products were designed to support interpretation, documentation, and communication of landscape features that may be difficult to identify from ground-level observation alone.\nThis work demonstrates how UAV imagery, LiDAR-derived elevation products, cartography, and spatial visualization can support community-engaged projects while also creating meaningful examples for geospatial teaching and student learning."
   },
   {
-    "objectID": "outreach.html#outreach-areas",
-    "href": "outreach.html#outreach-areas",
-    "title": "Workshops & Outreach",
-    "section": "Outreach Areas",
-    "text": "Outreach Areas\n\nFAA Part 107 and UAV Education: Workshops and learning materials that help participants understand airspace, regulations, weather, sectional charts, airport operations, and safe UAV operations.\nGIS Professional Development: Training opportunities focused on practical GIS workflows, geospatial problem solving, map communication, and applied spatial analysis.\nK–12 Educator Support: Professional development activities that help teachers connect geospatial tools, UAVs, maps, and spatial thinking to classroom learning.\nCommunity and Public Outreach: Events and projects that make geospatial technology more accessible to community partners and public audiences.\nStudent Professional Development: Activities that help students prepare for conferences, internships, research opportunities, portfolios, and careers in GIS and geospatial technology."
-  },
-  {
-    "objectID": "outreach.html#approach",
-    "href": "outreach.html#approach",
-    "title": "Workshops & Outreach",
-    "section": "Approach",
-    "text": "Approach\nI try to design workshops around what participants actually need to do after the event. Rather than focusing only on software demonstrations, I emphasize practical workflows, decision points, common mistakes, and the reasoning behind technical steps.\nThis approach is especially important in geospatial outreach because participants often need to apply what they learn in complex, real-world settings. A useful workshop should help people understand not only which buttons to press, but also why the workflow matters, what limitations to watch for, and how to communicate results clearly."
-  },
-  {
-    "objectID": "outreach.html#selected-workshops-and-outreach-activities",
-    "href": "outreach.html#selected-workshops-and-outreach-activities",
-    "title": "Workshops & Outreach",
-    "section": "Selected Workshops and Outreach Activities",
-    "text": "Selected Workshops and Outreach Activities\nThe project pages below highlight selected workshops, outreach programs, professional-development activities, and public-facing geospatial education efforts.\n\n\n\n\n\n\n\n\n\n\nTennessee Geographic Alliance EMR StoryMaps\n\n\n\nTennessee Geographic Alliance\n\nStoryMaps\n\nremote sensing\n\nEMR\n\neducator resources\n\noutreach\n\n\n\nA set of online educational StoryMaps developed for the Tennessee Geographic Alliance to help learners explore electromagnetic radiation, satellite imagery, wildfires, sea ice, and glaciers.\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDecoding Part 107 Workshop\n\n\n\nUAV education\n\nFAA Part 107\n\nworkshops\n\nprofessional development\n\n\n\nA professional-development workshop helping educators and geospatial professionals understand FAA Part 107 concepts and prepare for safe UAV operations.\n\n\n\n\n\nApr 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMEGA:BITESS Academy Geospatial Education and Data Hub\n\n\n\nTennessee Geographic Alliance\n\nGIS education\n\nteacher professional development\n\nSurvey123\n\ndashboards\n\nStoryMaps\n\ndata hub\n\npublic health\n\noutreach\n\n\n\nA multi-year Tennessee Geographic Alliance project supporting teacher GIS training, ovitrap data collection, data publishing, maps, dashboards, StoryMaps, and public-facing geospatial resources.\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "outreach.html#example-materials-and-resources",
-    "href": "outreach.html#example-materials-and-resources",
-    "title": "Workshops & Outreach",
-    "section": "Example Materials and Resources",
-    "text": "Example Materials and Resources\nContent coming soon."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Michael Camponovo",
-    "section": "",
-    "text": "I am a GIS educator, outreach coordinator, community-engaged geospatial practitioner, and mentor at the University of Tennessee, Knoxville.\nMy work connects geospatial technology with teaching, professional development, community projects, student success, and public-facing communication. I develop applied GIS and UAV learning experiences, support geospatial outreach, collaborate on community mapping projects, and mentor students as they build technical skills and professional pathways."
-  },
-  {
-    "objectID": "index.html#featured-work",
-    "href": "index.html#featured-work",
-    "title": "Michael Camponovo",
-    "section": "Featured Work",
-    "text": "Featured Work\nThe selected items below highlight examples from across my teaching, outreach, community-engaged GIS, geospatial portfolio, and service work.\n\n\n\n\n\n\n\n\n\n\nTennessee Geographic Alliance EMR StoryMaps\n\n\n\nTennessee Geographic Alliance\n\nStoryMaps\n\nremote sensing\n\nEMR\n\neducator resources\n\noutreach\n\n\n\nA set of online educational StoryMaps developed for the Tennessee Geographic Alliance to help learners explore electromagnetic radiation, satellite imagery, wildfires, sea…\n\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplied GIS Lab Design\n\n\n\nteaching\n\nGIS\n\nlab design\n\nprofessional preparation\n\napplied learning\n\n\n\nA teaching approach that frames GIS labs around realistic problems, complete workflows, and professional-style deliverables.\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTNGIC Education and Outreach Leadership\n\n\n\nservice\n\nleadership\n\nGIS education\n\noutreach\n\nTNGIC\n\nprofessional organizations\n\n\n\nProfessional service supporting GIS education, outreach, student engagement, and professional community-building through the Tennessee Geographic Information Council.\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecoding Part 107 Workshop\n\n\n\nUAV education\n\nFAA Part 107\n\nworkshops\n\nprofessional development\n\n\n\nA professional-development workshop helping educators and geospatial professionals understand FAA Part 107 concepts and prepare for safe UAV operations.\n\n\n\n\n\n\nApr 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWestview Historic Cemeteries Mapping Project\n\n\n\ncommunity GIS\n\nUAV\n\nlidar\n\nhistoric preservation\n\nstudent engagement\n\n\n\nA community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWestview UAV and LiDAR Geospatial Products\n\n\n\nUAV\n\nLiDAR\n\ncartography\n\nremote sensing\n\nhistoric preservation\n\ngeospatial communication\n\n\n\nSelected UAV, LiDAR, mapping, and visualization products developed to support documentation and interpretation of historic cemetery landscapes.\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#explore-my-work",
-    "href": "index.html#explore-my-work",
-    "title": "Michael Camponovo",
-    "section": "Explore My Work",
-    "text": "Explore My Work\n\n\n\n\n\n\n\n\n\nTipTeaching\n\n\n\nApplied GIS, cartography, UAVs, remote sensing, spatial analysis, and professional preparation.\nExplore teaching\n\n\n\n\n\n\n\n\n\n\nTipWorkshops & Outreach\n\n\n\nFAA Part 107 education, GIS professional development, K–12 educator support, and public-facing geospatial training.\nExplore outreach\n\n\n\n\n\n\n\n\n\n\n\n\nTipCommunity GIS Projects\n\n\n\nApplied mapping, UAV, remote sensing, and geospatial projects developed with community partners and students.\nExplore community projects\n\n\n\n\n\n\n\n\n\n\nTipGeospatial Portfolio\n\n\n\nSelected maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.\nExplore geospatial work\n\n\n\n\n\n\n\n\n\n\n\n\nTipMentoring & Student Success\n\n\n\nUndergraduate research, conference preparation, career pathways, professional networking, and student development.\nExplore mentoring\n\n\n\n\n\n\n\n\n\n\nTipService & Leadership\n\n\n\nProfessional organization service, program development, conference planning, outreach leadership, and community engagement.\nExplore service"
-  },
-  {
-    "objectID": "index.html#recognition-and-contact",
-    "href": "index.html#recognition-and-contact",
-    "title": "Michael Camponovo",
-    "section": "Recognition and Contact",
-    "text": "Recognition and Contact\n\nAwards & Recognition\nCV / Contact"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV / Contact",
-    "section": "",
-    "text": "This page provides a brief overview of my professional roles, areas of work, and contact information. A downloadable CV will be added as the site develops."
-  },
-  {
-    "objectID": "cv.html#current-roles",
-    "href": "cv.html#current-roles",
-    "title": "CV / Contact",
-    "section": "Current Roles",
-    "text": "Current Roles\n\nGIS Outreach Coordinator, Department of Geography & Sustainability, University of Tennessee, Knoxville"
-  },
-  {
-    "objectID": "cv.html#areas-of-work",
-    "href": "cv.html#areas-of-work",
-    "title": "CV / Contact",
-    "section": "Areas of Work",
-    "text": "Areas of Work\n\nGIS education and curriculum development\nGeospatial outreach and professional development\nUAV education, FAA Part 107 training, and applied drone workflows\nCommunity-engaged GIS and mapping projects\nCartography, web GIS, and geospatial communication\nStudent mentoring, undergraduate research support, and career preparation\nProfessional service and geospatial community engagement"
-  },
-  {
-    "objectID": "cv.html#contact",
-    "href": "cv.html#contact",
-    "title": "CV / Contact",
-    "section": "Contact",
-    "text": "Contact\nEmail: mcampono@utk.edu\nInstitution: University of Tennessee, Knoxville\nDepartment of Geography & Sustainability"
-  },
-  {
-    "objectID": "cv.html#professional-links",
-    "href": "cv.html#professional-links",
-    "title": "CV / Contact",
-    "section": "Professional Links",
-    "text": "Professional Links\nLinks will be added here."
-  },
-  {
-    "objectID": "cv.html#downloadable-cv",
-    "href": "cv.html#downloadable-cv",
-    "title": "CV / Contact",
-    "section": "Downloadable CV",
-    "text": "Downloadable CV\nA downloadable CV will be added here."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I am a GIS educator, outreach coordinator, and community-engaged geospatial practitioner at the University of Tennessee, Knoxville. My work focuses on helping students, educators, professionals, and community partners use geospatial tools to understand problems, communicate clearly, and make better decisions.\nMy professional work sits at the intersection of teaching, outreach, applied GIS, uncrewed aerial systems, cartography, and student mentoring. I develop applied learning experiences that connect technical skills with real-world questions, including GIS analysis, web mapping, UAV data collection, remote sensing, cartographic communication, and professional development."
-  },
-  {
-    "objectID": "about.html#professional-focus",
-    "href": "about.html#professional-focus",
-    "title": "About",
-    "section": "Professional Focus",
-    "text": "Professional Focus\nMy work includes:\n\nTeaching undergraduate and professional-development courses in GIS, cartography, UAVs, remote sensing, and geospatial problem solving.\nDeveloping workshops and outreach programs for students, educators, public agencies, and professional audiences.\nSupporting community-engaged GIS and UAV projects with students, colleagues, and partner organizations.\nMentoring students as they prepare for conferences, research opportunities, internships, jobs, and graduate school.\nContributing to professional organizations, outreach initiatives, and geospatial education efforts across Tennessee."
-  },
-  {
-    "objectID": "about.html#approach",
-    "href": "about.html#approach",
-    "title": "About",
-    "section": "Approach",
-    "text": "Approach\nI try to design learning experiences around realistic problems rather than isolated tools. In GIS, the technical steps matter, but they are only part of the work. Students and professionals also need to understand the question being asked, the data needed to answer it, the limitations of the analysis, and the best way to communicate results to a real audience.\nThis portfolio highlights selected examples of that work, including teaching materials, workshops, community projects, geospatial products, mentoring activities, service roles, and professional recognition."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nContact information and professional links will be added here."
-  },
-  {
-    "objectID": "community-projects.html",
-    "href": "community-projects.html",
-    "title": "Community GIS Projects",
-    "section": "",
-    "text": "My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.\nMany of these projects also serve as learning opportunities for students. They provide a way to connect technical GIS skills with professional expectations, partner communication, project management, data limitations, and public-facing deliverables."
-  },
-  {
-    "objectID": "community-projects.html#project-areas",
-    "href": "community-projects.html#project-areas",
-    "title": "Community GIS Projects",
-    "section": "Project Areas",
-    "text": "Project Areas\n\nHistoric Preservation and Cultural Landscapes: Mapping and documenting cemeteries, historic sites, and community landscapes.\nEnvironmental and Conservation Mapping: Supporting conservation, land management, trail planning, and natural-resource questions.\nPublic Infrastructure and Facilities: Using GIS and UAV data to support inspection, documentation, planning, and communication.\nCommunity Partner Support: Developing maps, analyses, and geospatial products for organizations with specific applied needs.\nStudent-Engaged Applied GIS: Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom."
-  },
-  {
-    "objectID": "community-projects.html#approach",
-    "href": "community-projects.html#approach",
-    "title": "Community GIS Projects",
-    "section": "Approach",
-    "text": "Approach\nCommunity GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.\nI try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions."
-  },
-  {
-    "objectID": "community-projects.html#selected-projects",
-    "href": "community-projects.html#selected-projects",
-    "title": "Community GIS Projects",
-    "section": "Selected Projects",
-    "text": "Selected Projects\nThe project pages below highlight selected community-engaged GIS, UAV, mapping, remote sensing, and spatial analysis projects developed with partners, students, colleagues, and public audiences.\n\n\n\n\n\n\n\n\n\n\nWestview Historic Cemeteries Mapping Project\n\n\n\ncommunity GIS\n\nUAV\n\nlidar\n\nhistoric preservation\n\nstudent engagement\n\n\n\nA community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "community-projects.html#project-deliverables",
-    "href": "community-projects.html#project-deliverables",
-    "title": "Community GIS Projects",
-    "section": "Project Deliverables",
-    "text": "Project Deliverables\nContent coming soon."
-  },
-  {
-    "objectID": "geospatial-portfolio.html",
-    "href": "geospatial-portfolio.html",
-    "title": "Geospatial Portfolio",
-    "section": "",
-    "text": "This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.\nMy geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively."
-  },
-  {
-    "objectID": "geospatial-portfolio.html#portfolio-areas",
-    "href": "geospatial-portfolio.html#portfolio-areas",
-    "title": "Geospatial Portfolio",
-    "section": "Portfolio Areas",
-    "text": "Portfolio Areas\n\nCartography and Map Design: Static maps, thematic maps, reference maps, and visual communication products.\nWeb GIS and Interactive Applications: Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.\nUAV and Remote Sensing Products: Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.\nSpatial Analysis and GIS Workflows: Applied analyses developed for teaching, outreach, community partners, and student projects.\nGeospatial Communication: Figures, reports, presentations, and visual materials that translate spatial information for specific audiences."
-  },
-  {
-    "objectID": "geospatial-portfolio.html#approach",
-    "href": "geospatial-portfolio.html#approach",
-    "title": "Geospatial Portfolio",
-    "section": "Approach",
-    "text": "Approach\nI think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.\nThis means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support."
-  },
-  {
-    "objectID": "geospatial-portfolio.html#selected-work",
-    "href": "geospatial-portfolio.html#selected-work",
-    "title": "Geospatial Portfolio",
-    "section": "Selected Work",
-    "text": "Selected Work\nThe project pages below highlight selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.\n\n\n\n\n\n\n\n\n\n\nWestview UAV and LiDAR Geospatial Products\n\n\n\nUAV\n\nLiDAR\n\ncartography\n\nremote sensing\n\nhistoric preservation\n\ngeospatial communication\n\n\n\nSelected UAV, LiDAR, mapping, and visualization products developed to support documentation and interpretation of historic cemetery landscapes.\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMEGA:BITESS Geospatial Data Hub and Mapping Resources\n\n\n\nGIS\n\nSurvey123\n\ndata hub\n\nweb maps\n\ndashboards\n\nStoryMaps\n\npublic health\n\nopen data\n\nscience communication\n\n\n\nA geospatial data infrastructure project supporting teacher-collected ovitrap data, Survey123 workflows, open data publishing, web maps, dashboards, StoryMaps, and public-facing mosquito surveillance resources.\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOpioids in Tennessee\n\n\n\nStoryMaps\n\npublic health\n\nTennessee\n\ncartography\n\nspatial analysis\n\ngeospatial communication\n\n\n\nA StoryMap using geospatial data and narrative mapping to explore opioid-related patterns and impacts in Tennessee.\n\n\n\n\n\nJan 1, 2019\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "geospatial-portfolio.html#featured-maps-and-applications",
-    "href": "geospatial-portfolio.html#featured-maps-and-applications",
-    "title": "Geospatial Portfolio",
-    "section": "Featured Maps and Applications",
-    "text": "Featured Maps and Applications\nContent coming soon."
-  },
-  {
-    "objectID": "mentoring.html",
-    "href": "mentoring.html",
-    "title": "Mentoring & Student Success",
-    "section": "",
-    "text": "My mentoring work focuses on helping students build confidence, develop professional skills, and identify meaningful pathways in GIS, geography, sustainability, remote sensing, UAVs, and related fields. This includes supporting students as they prepare for research opportunities, internships, conferences, graduate school, professional networking, and careers.\nI see mentoring as part of geospatial education. Technical skills matter, but students also need help understanding how to talk about their work, connect with professional communities, evaluate opportunities, and imagine possible futures for themselves."
-  },
-  {
-    "objectID": "mentoring.html#mentoring-areas",
-    "href": "mentoring.html#mentoring-areas",
-    "title": "Mentoring & Student Success",
-    "section": "Mentoring Areas",
-    "text": "Mentoring Areas\n\nUndergraduate Research: Supporting students as they develop project ideas, prepare posters and presentations, and share their work with academic and professional audiences.\nConference Preparation: Helping students prepare for events such as TNGIC, ASPRS, SEDAAG, EUReCA, ASUReS, and other professional or academic meetings.\nCareer Pathways: Helping students explore GIS, planning, environmental, UAV, public-sector, private-sector, nonprofit, and graduate-school options.\nProfessional Communication: Supporting students as they build resumes, portfolios, abstracts, presentations, posters, and professional introductions.\nCommunity and Professional Connection: Encouraging students to participate in professional organizations, outreach events, applied projects, and networking opportunities."
-  },
-  {
-    "objectID": "mentoring.html#approach",
-    "href": "mentoring.html#approach",
-    "title": "Mentoring & Student Success",
-    "section": "Approach",
-    "text": "Approach\nI try to help students see themselves as emerging professionals, not just students completing assignments. This means helping them recognize the value of their work, explain their skills clearly, and connect classroom experiences to real opportunities.\nMentoring often involves translating between academic requirements, professional expectations, and individual student goals. The goal is to help students make informed choices and build confidence through experience."
-  },
-  {
-    "objectID": "mentoring.html#selected-student-success-examples",
-    "href": "mentoring.html#selected-student-success-examples",
-    "title": "Mentoring & Student Success",
-    "section": "Selected Student Success Examples",
-    "text": "Selected Student Success Examples\nContent coming soon."
-  },
-  {
-    "objectID": "mentoring.html#student-research-and-professional-development",
-    "href": "mentoring.html#student-research-and-professional-development",
-    "title": "Mentoring & Student Success",
-    "section": "Student Research and Professional Development",
-    "text": "Student Research and Professional Development\nContent coming soon."
-  },
-  {
-    "objectID": "projects/community/westview-cemeteries.html",
-    "href": "projects/community/westview-cemeteries.html",
-    "title": "Westview Historic Cemeteries Mapping Project",
-    "section": "",
-    "text": "The Westview Historic Cemeteries Mapping Project is a community-engaged geospatial project focused on supporting documentation, interpretation, and preservation of historic cemetery landscapes.\nThe project used geospatial technologies such as UAV imagery, lidar, mapping, and spatial analysis to help identify landscape features, document site conditions, and communicate information about cemetery spaces that can be difficult to interpret from ground-level observation alone."
-  },
-  {
-    "objectID": "projects/community/westview-cemeteries.html#project-role",
-    "href": "projects/community/westview-cemeteries.html#project-role",
-    "title": "Westview Historic Cemeteries Mapping Project",
-    "section": "Project Role",
-    "text": "Project Role\nMy role included coordinating geospatial data collection, supporting UAV and lidar workflows, working with students and colleagues, developing project deliverables, and helping translate technical geospatial outputs into useful information for project partners and public audiences."
-  },
-  {
-    "objectID": "projects/community/westview-cemeteries.html#project-goals",
-    "href": "projects/community/westview-cemeteries.html#project-goals",
-    "title": "Westview Historic Cemeteries Mapping Project",
-    "section": "Project Goals",
-    "text": "Project Goals\nThis project was designed to support:\n\ndocumentation of historic cemetery landscapes,\nidentification of visible and subtle landscape features,\ndevelopment of geospatial products for interpretation and planning,\nstudent participation in applied GIS and UAV workflows,\ncommunication with community partners and stakeholders."
-  },
-  {
-    "objectID": "projects/community/westview-cemeteries.html#geospatial-methods-and-products",
-    "href": "projects/community/westview-cemeteries.html#geospatial-methods-and-products",
-    "title": "Westview Historic Cemeteries Mapping Project",
-    "section": "Geospatial Methods and Products",
-    "text": "Geospatial Methods and Products\nProject activities included a combination of field data collection, UAV-based mapping, lidar-derived surface information, cartographic production, and spatial interpretation.\nSelected geospatial products included:\n\nUAV imagery and orthomosaic products,\nlidar-derived elevation and surface information,\nmaps and visualizations for interpretation,\nspatial documentation of landscape features,\nproject materials for communication with partners."
-  },
-  {
-    "objectID": "projects/community/westview-cemeteries.html#teaching-and-student-engagement",
-    "href": "projects/community/westview-cemeteries.html#teaching-and-student-engagement",
-    "title": "Westview Historic Cemeteries Mapping Project",
-    "section": "Teaching and Student Engagement",
-    "text": "Teaching and Student Engagement\nThis project provided students with an opportunity to see how GIS, UAVs, remote sensing, and cartography can support real community questions. Students were able to connect technical workflows with issues of historic preservation, landscape interpretation, data limitations, and public communication.\nThe project also helped demonstrate that applied GIS work is rarely just a single tool or software operation. It involves understanding the partner’s question, collecting appropriate data, evaluating limitations, producing useful deliverables, and communicating results clearly."
-  },
-  {
-    "objectID": "projects/community/westview-cemeteries.html#portfolio-significance",
-    "href": "projects/community/westview-cemeteries.html#portfolio-significance",
-    "title": "Westview Historic Cemeteries Mapping Project",
-    "section": "Portfolio Significance",
-    "text": "Portfolio Significance\nThis project reflects the intersection of community-engaged GIS, UAV mapping, lidar, student learning, and public-facing geospatial communication. It is a strong example of using geospatial technology to support partners while also creating meaningful applied learning opportunities for students."
-  },
-  {
-    "objectID": "projects/community/westview-cemeteries.html#related-links",
-    "href": "projects/community/westview-cemeteries.html#related-links",
-    "title": "Westview Historic Cemeteries Mapping Project",
-    "section": "Related Links",
-    "text": "Related Links\nLinks to public maps, reports, presentations, or project materials will be added here."
-  },
-  {
-    "objectID": "projects/geospatial/opioids-in-tennessee.html",
-    "href": "projects/geospatial/opioids-in-tennessee.html",
-    "title": "Opioids in Tennessee",
-    "section": "",
-    "text": "The Opioids in Tennessee StoryMap uses geospatial data, maps, and narrative explanation to explore opioid-related patterns and impacts across Tennessee.\nThis project reflects the use of GIS and cartographic storytelling to communicate a complex public-health issue to a broader audience. By combining spatial data, contextual explanation, and interactive web mapping, the StoryMap helps viewers understand how opioid-related impacts vary across places and communities."
-  },
-  {
-    "objectID": "projects/geospatial/opioids-in-tennessee.html#project-role",
-    "href": "projects/geospatial/opioids-in-tennessee.html#project-role",
-    "title": "Opioids in Tennessee",
-    "section": "Project Role",
-    "text": "Project Role\nMy role included developing the StoryMap, organizing the spatial narrative, selecting and preparing data, creating maps and visualizations, and translating the results into a public-facing geospatial communication product."
-  },
-  {
-    "objectID": "projects/geospatial/opioids-in-tennessee.html#geospatial-focus",
-    "href": "projects/geospatial/opioids-in-tennessee.html#geospatial-focus",
-    "title": "Opioids in Tennessee",
+    "objectID": "projects/geospatial/westview-geospatial-products.html#geospatial-focus",
+    "href": "projects/geospatial/westview-geospatial-products.html#geospatial-focus",
+    "title": "Westview UAV and LiDAR Geospatial Products",
     "section": "Geospatial Focus",
-    "text": "Geospatial Focus\nThis project emphasized:\n\npublic-health data visualization,\ncounty-level or regional spatial patterns,\nweb-based cartographic storytelling,\ncommunication of complex social and health data,\nTennessee-focused spatial analysis and interpretation."
+    "text": "Geospatial Focus\nThis portfolio item emphasizes the technical and communication products developed through the project, including:\n\nUAV imagery and orthomosaic products,\nLiDAR-derived elevation and surface models,\nhillshade and surface visualization products,\nmap layouts and interpretive cartography,\nspatial documentation of visible and subtle landscape features,\nvisual materials for project communication."
   },
   {
-    "objectID": "projects/geospatial/opioids-in-tennessee.html#communication-goals",
-    "href": "projects/geospatial/opioids-in-tennessee.html#communication-goals",
-    "title": "Opioids in Tennessee",
-    "section": "Communication Goals",
-    "text": "Communication Goals\nThe StoryMap was designed to help viewers explore opioid-related patterns in Tennessee through maps, narrative text, and contextual information. The goal was not only to display data, but to make spatial patterns understandable and meaningful for public audiences."
+    "objectID": "projects/geospatial/westview-geospatial-products.html#methods-and-workflow",
+    "href": "projects/geospatial/westview-geospatial-products.html#methods-and-workflow",
+    "title": "Westview UAV and LiDAR Geospatial Products",
+    "section": "Methods and Workflow",
+    "text": "Methods and Workflow\nThe workflow included field data collection, geospatial data processing, spatial interpretation, map production, and communication with project partners. Products were developed to help translate complex spatial data into useful visual information for interpretation, planning, and discussion."
   },
   {
-    "objectID": "projects/geospatial/opioids-in-tennessee.html#portfolio-significance",
-    "href": "projects/geospatial/opioids-in-tennessee.html#portfolio-significance",
-    "title": "Opioids in Tennessee",
+    "objectID": "projects/geospatial/westview-geospatial-products.html#cartographic-and-communication-goals",
+    "href": "projects/geospatial/westview-geospatial-products.html#cartographic-and-communication-goals",
+    "title": "Westview UAV and LiDAR Geospatial Products",
+    "section": "Cartographic and Communication Goals",
+    "text": "Cartographic and Communication Goals\nThe geospatial products were designed to be more than technical outputs. They needed to communicate clearly with audiences who may not regularly work with UAV data, LiDAR, elevation models, or GIS software.\nImportant design considerations included:\n\nmaking subtle landscape patterns visible,\nchoosing appropriate visualizations for elevation and surface features,\nbalancing technical accuracy with readability,\npresenting information in ways that could support discussion with partners and public audiences,\nacknowledging limitations in what the data can and cannot show."
+  },
+  {
+    "objectID": "projects/geospatial/westview-geospatial-products.html#portfolio-significance",
+    "href": "projects/geospatial/westview-geospatial-products.html#portfolio-significance",
+    "title": "Westview UAV and LiDAR Geospatial Products",
     "section": "Portfolio Significance",
-    "text": "Portfolio Significance\nThis project is an example of geospatial storytelling applied to a major public issue. It demonstrates how GIS, web mapping, and narrative cartography can be used to communicate patterns, raise awareness, and support public understanding of complex geographic problems."
+    "text": "Portfolio Significance\nThis work is a strong example of applied geospatial communication. It demonstrates how remote sensing, UAV mapping, LiDAR visualization, and cartography can be used together to support a real project with community value.\nIt also connects directly to my teaching philosophy: GIS products are not just software outputs; they are part of a larger process of asking questions, evaluating data, interpreting results, and communicating clearly."
   },
   {
-    "objectID": "projects/geospatial/opioids-in-tennessee.html#related-link",
-    "href": "projects/geospatial/opioids-in-tennessee.html#related-link",
-    "title": "Opioids in Tennessee",
-    "section": "Related Link",
-    "text": "Related Link\n\nOpioids in Tennessee"
+    "objectID": "projects/geospatial/westview-geospatial-products.html#related-project",
+    "href": "projects/geospatial/westview-geospatial-products.html#related-project",
+    "title": "Westview UAV and LiDAR Geospatial Products",
+    "section": "Related Project",
+    "text": "Related Project\nThis geospatial portfolio item is connected to the broader Westview Historic Cemeteries Mapping Project."
   },
   {
-    "objectID": "projects/outreach/decoding-part-107.html",
-    "href": "projects/outreach/decoding-part-107.html",
-    "title": "Decoding Part 107 Workshop",
+    "objectID": "projects/outreach/mega-bitess-academy.html",
+    "href": "projects/outreach/mega-bitess-academy.html",
+    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
     "section": "",
-    "text": "The Decoding Part 107 Workshop is a professional-development workshop designed to help participants understand the knowledge areas required for safe and legal small uncrewed aircraft systems operations.\nThe workshop focuses on FAA Part 107 concepts, aviation decision-making, airspace, airport operations, sectional charts, weather, loading and performance, radio communications, and practical preparation for the remote pilot certification exam."
+    "text": "The MEGA:BITESS Academy was a multi-year educator professional-development and geospatial outreach project focused on medical entomology, mosquito surveillance, geospatial analysis, science communication, and STEM education.\nThrough my volunteer work with the Tennessee Geographic Alliance, I supported the geospatial components of the project by helping teachers learn basic GIS skills, collect and use ovitrap data, and share student-generated data through public-facing maps, dashboards, StoryMaps, and a data hub.\nThe broader MEGA:BITESS Academy was designed to support innovative classroom teaching, build interest in entomology and geospatial sciences, and increase community awareness of La Crosse neuroinvasive disease. The project trained educators to develop STEM projects with middle- and high-school students by examining environmental factors related to mosquito oviposition. The project also emphasized geospatial technology, locally centered maps, science communication, and STEM learning."
   },
   {
-    "objectID": "projects/outreach/decoding-part-107.html#project-role",
-    "href": "projects/outreach/decoding-part-107.html#project-role",
-    "title": "Decoding Part 107 Workshop",
+    "objectID": "projects/outreach/mega-bitess-academy.html#project-role",
+    "href": "projects/outreach/mega-bitess-academy.html#project-role",
+    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
     "section": "Project Role",
-    "text": "Project Role\nMy role includes developing workshop materials, organizing instructional content, teaching key aviation and geospatial concepts, building practice resources, and adapting the workshop for different audiences, including educators, students, and geospatial professionals."
+    "text": "Project Role\nMy role focused on the geospatial education, data collection, data publishing, and public-facing GIS components of the project.\nResponsibilities included:\n\nteaching participating teachers basic GIS concepts and workflows,\ndeveloping an introduction to GIS and data visualization for MEGA:BITESS educators,\nsetting up Survey123 workflows for ovitrap data collection,\ncleaning and publishing teacher and student ovitrap data,\nbuilding web maps, dashboards, and StoryMaps using project data,\ncreating and maintaining a MEGA:BITESS data hub to share project data and resources,\ndeveloping training videos and online support materials,\nhelping translate project data into maps and visualizations for teachers, students, and public audiences."
   },
   {
-    "objectID": "projects/outreach/decoding-part-107.html#teaching-and-outreach-goals",
-    "href": "projects/outreach/decoding-part-107.html#teaching-and-outreach-goals",
-    "title": "Decoding Part 107 Workshop",
-    "section": "Teaching and Outreach Goals",
-    "text": "Teaching and Outreach Goals\nThis workshop is designed to help participants:\n\nunderstand why FAA Part 107 matters for educational and professional UAV use,\ninterpret aviation charts and airspace information,\nidentify weather and operational risk factors,\nconnect UAV operations to real-world geospatial applications,\nbuild confidence using aviation resources and terminology,\nprepare for additional study toward the FAA Remote Pilot Certificate."
+    "objectID": "projects/outreach/mega-bitess-academy.html#geospatial-education-goals",
+    "href": "projects/outreach/mega-bitess-academy.html#geospatial-education-goals",
+    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
+    "section": "Geospatial Education Goals",
+    "text": "Geospatial Education Goals\nThe geospatial components of the project were designed to help teachers and students:\n\nunderstand how GIS can support public-health and environmental questions,\ncollect field data using structured digital forms,\nexplore mosquito surveillance data spatially,\nconnect local ovitrap observations to broader disease and environmental patterns,\nuse maps, dashboards, and StoryMaps to communicate scientific information,\nbuild confidence using geospatial tools in classroom and community contexts."
   },
   {
-    "objectID": "projects/outreach/decoding-part-107.html#selected-components",
-    "href": "projects/outreach/decoding-part-107.html#selected-components",
-    "title": "Decoding Part 107 Workshop",
-    "section": "Selected Components",
-    "text": "Selected Components\n\nFAA Part 107 instructional materials\nSectional chart and airspace interpretation activities\nWeather and airport operations examples\nPractice quizzes and study resources\nEducator-focused UAV use cases\nWorkshop materials adapted for K–12 and professional audiences"
+    "objectID": "projects/outreach/mega-bitess-academy.html#project-resources",
+    "href": "projects/outreach/mega-bitess-academy.html#project-resources",
+    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
+    "section": "Project Resources",
+    "text": "Project Resources\n\nStoryMap\n\nMEGA:BITESS StoryMap\n\n\n\nData Hub\n\nMEGA:BITESS Data Hub\n\n\n\nTraining Videos\n\nMEGA:BITESS Training Videos\n\n\n\nExample Web Maps and Data Resources\n\nArthropod-Borne Viral Deaths by State, 1999–2017\nLa Crosse Cases by County\nLACE Cases by State by Year\nLACE Cases by State"
   },
   {
-    "objectID": "projects/outreach/decoding-part-107.html#portfolio-significance",
-    "href": "projects/outreach/decoding-part-107.html#portfolio-significance",
-    "title": "Decoding Part 107 Workshop",
+    "objectID": "projects/outreach/mega-bitess-academy.html#portfolio-significance",
+    "href": "projects/outreach/mega-bitess-academy.html#portfolio-significance",
+    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
     "section": "Portfolio Significance",
-    "text": "Portfolio Significance\nThis project reflects the intersection of my work in geospatial education, UAV outreach, professional development, and applied teaching. It also demonstrates how technical aviation material can be translated into practical learning experiences for audiences who may not have prior aviation backgrounds."
+    "text": "Portfolio Significance\nThis project is one of the strongest examples of my work at the intersection of GIS education, teacher professional development, public-health communication, field data collection, and public-facing geospatial infrastructure.\nIt demonstrates the full geospatial education workflow: teaching GIS concepts, designing data collection systems, cleaning and publishing data, building maps and dashboards, creating StoryMaps, and supporting educators as they use geospatial tools with students."
   },
   {
-    "objectID": "projects/outreach/decoding-part-107.html#related-links",
-    "href": "projects/outreach/decoding-part-107.html#related-links",
-    "title": "Decoding Part 107 Workshop",
-    "section": "Related Links",
-    "text": "Related Links\nLinks to public materials will be added here."
-  },
-  {
-    "objectID": "projects/outreach/tnga-emr-storymaps.html",
-    "href": "projects/outreach/tnga-emr-storymaps.html",
-    "title": "Tennessee Geographic Alliance EMR StoryMaps",
-    "section": "",
-    "text": "The Tennessee Geographic Alliance EMR StoryMaps are online educational resources developed through volunteer work with the Tennessee Geographic Alliance. These StoryMaps help learners explore electromagnetic radiation, satellite imagery, and remote sensing concepts through real-world environmental examples.\nThe resources connect abstract physical geography and remote sensing concepts to visible environmental phenomena such as wildfire activity, sea ice, and glaciers."
-  },
-  {
-    "objectID": "projects/outreach/tnga-emr-storymaps.html#project-role",
-    "href": "projects/outreach/tnga-emr-storymaps.html#project-role",
-    "title": "Tennessee Geographic Alliance EMR StoryMaps",
-    "section": "Project Role",
-    "text": "Project Role\nMy role included developing online instructional materials, designing StoryMap-based learning experiences, selecting geospatial examples, organizing explanatory content, and creating resources that educators and learners can use to explore remote sensing concepts."
-  },
-  {
-    "objectID": "projects/outreach/tnga-emr-storymaps.html#educational-goals",
-    "href": "projects/outreach/tnga-emr-storymaps.html#educational-goals",
-    "title": "Tennessee Geographic Alliance EMR StoryMaps",
-    "section": "Educational Goals",
-    "text": "Educational Goals\nThese StoryMaps are designed to help learners:\n\nunderstand electromagnetic radiation as a foundation for remote sensing,\nconnect satellite imagery to real environmental patterns and processes,\ninterpret imagery related to wildfires, sea ice, and glaciers,\nexplore how different wavelengths and imagery products support geographic analysis,\nuse web-based geospatial tools to investigate Earth systems."
-  },
-  {
-    "objectID": "projects/outreach/tnga-emr-storymaps.html#featured-storymaps",
-    "href": "projects/outreach/tnga-emr-storymaps.html#featured-storymaps",
-    "title": "Tennessee Geographic Alliance EMR StoryMaps",
-    "section": "Featured StoryMaps",
-    "text": "Featured StoryMaps\n\nExploring EMR With Wildfire Satellite Imagery\nExploring EMR with Sea Ice and Glaciers"
-  },
-  {
-    "objectID": "projects/outreach/tnga-emr-storymaps.html#portfolio-significance",
-    "href": "projects/outreach/tnga-emr-storymaps.html#portfolio-significance",
-    "title": "Tennessee Geographic Alliance EMR StoryMaps",
-    "section": "Portfolio Significance",
-    "text": "Portfolio Significance\nThis project reflects the intersection of geospatial outreach, remote sensing education, online learning design, and volunteer service. It also demonstrates how StoryMaps can be used to translate technical geospatial concepts into accessible, exploratory learning experiences.\nThe project is a good example of using public-facing geospatial tools to support educators, students, and geography education beyond a traditional university classroom."
-  },
-  {
-    "objectID": "projects/outreach/tnga-emr-storymaps.html#related-work",
-    "href": "projects/outreach/tnga-emr-storymaps.html#related-work",
-    "title": "Tennessee Geographic Alliance EMR StoryMaps",
+    "objectID": "projects/outreach/mega-bitess-academy.html#related-work",
+    "href": "projects/outreach/mega-bitess-academy.html#related-work",
+    "title": "MEGA:BITESS Academy Geospatial Education and Data Hub",
     "section": "Related Work",
-    "text": "Related Work\nAdditional Tennessee Geographic Alliance workshops, StoryMaps, and online applications will be added as separate portfolio items or grouped resources as the site develops."
+    "text": "Related Work\nAdditional MEGA:BITESS-related maps, dashboards, and instructional materials may be added as separate geospatial portfolio items if they are useful to highlight individually."
+  },
+  {
+    "objectID": "projects/service/tn-arcgis-online-mapping-contest.html",
+    "href": "projects/service/tn-arcgis-online-mapping-contest.html",
+    "title": "Tennessee ArcGIS Online Mapping Contest",
+    "section": "",
+    "text": "The Tennessee ArcGIS Online Mapping Contest is a statewide mapping contest for middle and high school students. The contest encourages students to use ArcGIS Online, spatial thinking, data, maps, and geographic storytelling to investigate topics connected to Tennessee, their communities, and the world around them.\nThrough my volunteer work with the Tennessee Geographic Alliance, I help organize and support the contest as a public-facing GIS education initiative for K–12 students and teachers."
+  },
+  {
+    "objectID": "projects/service/tn-arcgis-online-mapping-contest.html#project-role",
+    "href": "projects/service/tn-arcgis-online-mapping-contest.html#project-role",
+    "title": "Tennessee ArcGIS Online Mapping Contest",
+    "section": "Project Role",
+    "text": "Project Role\nMy role includes organizing the contest, recruiting participating teachers, managing the judging process, coordinating sponsors, and publishing the public contest website.\nResponsibilities include:\n\norganizing the annual contest structure and timeline,\nrecruiting teachers and encouraging student participation,\ncommunicating contest requirements and expectations,\nmanaging the judging process,\ncoordinating judges and judging materials,\nworking with sponsors and partner organizations,\nmaintaining and publishing the public contest website,\nsupporting the visibility of student mapping and GIS education in Tennessee."
+  },
+  {
+    "objectID": "projects/service/tn-arcgis-online-mapping-contest.html#contest-goals",
+    "href": "projects/service/tn-arcgis-online-mapping-contest.html#contest-goals",
+    "title": "Tennessee ArcGIS Online Mapping Contest",
+    "section": "Contest Goals",
+    "text": "Contest Goals\nThe contest is designed to help students:\n\nexplore GIS and web mapping through ArcGIS Online,\ninvestigate geographic questions using spatial data,\ncommunicate ideas through maps and storytelling,\ndevelop digital and spatial-literacy skills,\nconnect classroom learning to real-world geographic issues,\nsee GIS as a tool for inquiry, communication, and problem solving."
+  },
+  {
+    "objectID": "projects/service/tn-arcgis-online-mapping-contest.html#service-and-outreach-goals",
+    "href": "projects/service/tn-arcgis-online-mapping-contest.html#service-and-outreach-goals",
+    "title": "Tennessee ArcGIS Online Mapping Contest",
+    "section": "Service and Outreach Goals",
+    "text": "Service and Outreach Goals\nThe contest also supports teachers and the broader GIS education community by:\n\ngiving teachers a concrete opportunity to integrate GIS into instruction,\ncreating a public platform for student work,\nconnecting K–12 geography education with Tennessee’s geospatial professional community,\nstrengthening relationships among educators, sponsors, judges, and professional organizations,\nincreasing awareness of geospatial tools and careers among middle and high school students."
+  },
+  {
+    "objectID": "projects/service/tn-arcgis-online-mapping-contest.html#public-contest-site",
+    "href": "projects/service/tn-arcgis-online-mapping-contest.html#public-contest-site",
+    "title": "Tennessee ArcGIS Online Mapping Contest",
+    "section": "Public Contest Site",
+    "text": "Public Contest Site\n\nTN AGO Mapping Contest"
+  },
+  {
+    "objectID": "projects/service/tn-arcgis-online-mapping-contest.html#portfolio-significance",
+    "href": "projects/service/tn-arcgis-online-mapping-contest.html#portfolio-significance",
+    "title": "Tennessee ArcGIS Online Mapping Contest",
+    "section": "Portfolio Significance",
+    "text": "Portfolio Significance\nThis project reflects my work in GIS education leadership, K–12 outreach, student engagement, professional service, and public-facing geospatial communication.\nIt is also a good example of the kind of behind-the-scenes coordination required to make geospatial education programs successful: recruiting participants, building infrastructure, coordinating partners, managing judging, supporting sponsors, and maintaining a clear public presence for the program."
   },
   {
     "objectID": "projects/teaching/applied-gis-lab-design.html",
@@ -732,7 +774,7 @@
     "href": "service.html#selected-leadership-roles",
     "title": "Service & Leadership",
     "section": "Selected Leadership Roles",
-    "text": "Selected Leadership Roles\nThe project pages below highlight selected professional service, leadership roles, outreach initiatives, conference planning, program development, and community-building activities.\n\n\n\n\n\n\n\n\n\n\nTNGIC Education and Outreach Leadership\n\n\n\nservice\n\nleadership\n\nGIS education\n\noutreach\n\nTNGIC\n\nprofessional organizations\n\n\n\nProfessional service supporting GIS education, outreach, student engagement, and professional community-building through the Tennessee Geographic Information Council.\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Selected Leadership Roles\nThe project pages below highlight selected professional service, leadership roles, outreach initiatives, conference planning, program development, and community-building activities.\n\n\n\n\n\n\n\n\n\n\nTNGIC Education and Outreach Leadership\n\n\n\nservice\n\nleadership\n\nGIS education\n\noutreach\n\nTNGIC\n\nprofessional organizations\n\n\n\nProfessional service supporting GIS education, outreach, student engagement, and professional community-building through the Tennessee Geographic Information Council.\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nTennessee ArcGIS Online Mapping Contest\n\n\n\nservice\n\nleadership\n\nGIS education\n\nArcGIS Online\n\nK--12\n\nmapping contest\n\nstudent engagement\n\nTennessee Geographic Alliance\n\n\n\nA statewide mapping contest for middle and high school students that supports GIS education, teacher engagement, student storytelling, judging coordination, sponsorship, and public-facing contest communication.\n\n\n\n\n\nMay 1, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "service.html#professional-organizations",

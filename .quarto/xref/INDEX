@@ -58,5 +58,8 @@
   },
   "projects/geospatial/mega-bitess-geospatial-data-hub.qmd": {
     "mega-bitess-geospatial-data-hub.html": "3fa6d5d8"
+  },
+  "projects/service/tn-arcgis-online-mapping-contest.qmd": {
+    "tn-arcgis-online-mapping-contest.html": "97521b43"
   }
 }

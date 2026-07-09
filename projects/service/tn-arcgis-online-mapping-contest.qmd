@@ -1,0 +1,57 @@
+---
+title: "Tennessee ArcGIS Online Mapping Contest"
+description: "A statewide mapping contest for middle and high school students that supports GIS education, teacher engagement, student storytelling, judging coordination, sponsorship, and public-facing contest communication."
+date: 2026-05-01
+categories: [service, leadership, GIS education, ArcGIS Online, K--12, mapping contest, student engagement, Tennessee Geographic Alliance]
+image: ../../assets/images/thumbnails/tn-ago-mapping-contest.webp
+---
+
+The **Tennessee ArcGIS Online Mapping Contest** is a statewide mapping contest for middle and high school students. The contest encourages students to use ArcGIS Online, spatial thinking, data, maps, and geographic storytelling to investigate topics connected to Tennessee, their communities, and the world around them.
+
+Through my volunteer work with the Tennessee Geographic Alliance, I help organize and support the contest as a public-facing GIS education initiative for K--12 students and teachers.
+
+## Project Role
+
+My role includes organizing the contest, recruiting participating teachers, managing the judging process, coordinating sponsors, and publishing the public contest website.
+
+Responsibilities include:
+
+- organizing the annual contest structure and timeline,
+- recruiting teachers and encouraging student participation,
+- communicating contest requirements and expectations,
+- managing the judging process,
+- coordinating judges and judging materials,
+- working with sponsors and partner organizations,
+- maintaining and publishing the public contest website,
+- supporting the visibility of student mapping and GIS education in Tennessee.
+
+## Contest Goals
+
+The contest is designed to help students:
+
+- explore GIS and web mapping through ArcGIS Online,
+- investigate geographic questions using spatial data,
+- communicate ideas through maps and storytelling,
+- develop digital and spatial-literacy skills,
+- connect classroom learning to real-world geographic issues,
+- see GIS as a tool for inquiry, communication, and problem solving.
+
+## Service and Outreach Goals
+
+The contest also supports teachers and the broader GIS education community by:
+
+- giving teachers a concrete opportunity to integrate GIS into instruction,
+- creating a public platform for student work,
+- connecting K--12 geography education with Tennessee’s geospatial professional community,
+- strengthening relationships among educators, sponsors, judges, and professional organizations,
+- increasing awareness of geospatial tools and careers among middle and high school students.
+
+## Public Contest Site
+
+- [TN AGO Mapping Contest](https://tn-ago-mapping-contest-tga.hub.arcgis.com/)
+
+## Portfolio Significance
+
+This project reflects my work in GIS education leadership, K--12 outreach, student engagement, professional service, and public-facing geospatial communication.
+
+It is also a good example of the kind of behind-the-scenes coordination required to make geospatial education programs successful: recruiting participants, building infrastructure, coordinating partners, managing judging, supporting sponsors, and maintaining a clear public presence for the program.
