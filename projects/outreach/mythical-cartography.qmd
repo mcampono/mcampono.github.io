@@ -1,1 +1,47 @@
-don't delete me 
+---
+title: "Mythical Cartography"
+description: "A creative geography education workshop using art, topography, and physical geography concepts to help teachers explore mapping and landscape interpretation."
+date: 2024-01-01
+categories: [Tennessee Geographic Alliance, educator workshops, geography education, art integration, topography, physical geography, cartography]
+image: ../../assets/images/thumbnails/mythical-cartography.webp
+---
+
+The **Mythical Cartography** workshop is a creative geography education project developed through volunteer work with the Tennessee Geographic Alliance. The workshop uses art, imagination, topography, and physical geography concepts to help educators explore cartography and landscape interpretation in an engaging way.
+
+By combining creative expression with geographic thinking, the project helps teachers and students see maps not just as technical products, but as tools for understanding landforms, place, scale, and spatial relationships.
+
+## Project Role
+
+My role included helping develop the workshop, support the geospatial and physical geography components, and create public-facing resources that teachers could use in their own classrooms.
+
+Responsibilities included:
+
+- helping design the workshop structure and learning activities,
+- supporting the use of topography and physical geography concepts,
+- connecting artistic creation with cartographic and geographic thinking,
+- helping build public-facing online workshop resources,
+- contributing to a workshop model that made geography creative, accessible, and visually compelling.
+
+## Educational Goals
+
+The workshop was designed to help educators:
+
+- use art to teach geography and mapping concepts,
+- introduce topography and landform interpretation in creative ways,
+- help students think spatially about landscapes and terrain,
+- connect imagination and storytelling to map design,
+- build classroom activities that support physical geography and cartography.
+
+## Public Workshop Site
+
+- [Mythical Cartography](https://mythical-cartography-tga.hub.arcgis.com/)
+
+## Portfolio Significance
+
+This project is one of the most distinctive examples of my outreach work. It shows how geospatial education can be creative, interdisciplinary, and highly engaging while still building real geographic understanding.
+
+The project is also a good example of the way I think about teaching and outreach more broadly: the most meaningful learning experiences often connect technical ideas to human creativity, storytelling, and visual communication.
+
+## Related Work
+
+Additional Tennessee Geographic Alliance educator workshops and geography education resources are included elsewhere in this portfolio.
