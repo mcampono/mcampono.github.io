@@ -1,0 +1,70 @@
+---
+title: "MEGA:BITESS Academy Geospatial Education and Data Hub"
+description: "A multi-year Tennessee Geographic Alliance project supporting teacher GIS training, ovitrap data collection, data publishing, maps, dashboards, StoryMaps, and public-facing geospatial resources."
+date: 2024-06-01
+categories: [Tennessee Geographic Alliance, GIS education, teacher professional development, Survey123, dashboards, StoryMaps, data hub, public health, outreach]
+image: ../../assets/images/thumbnails/mega-bitess-academy.webp
+---
+
+The **MEGA:BITESS Academy** was a multi-year educator professional-development and geospatial outreach project focused on medical entomology, mosquito surveillance, geospatial analysis, science communication, and STEM education.
+
+Through my volunteer work with the Tennessee Geographic Alliance, I supported the geospatial components of the project by helping teachers learn basic GIS skills, collect and use ovitrap data, and share student-generated data through public-facing maps, dashboards, StoryMaps, and a data hub.
+
+The broader MEGA:BITESS Academy was designed to support innovative classroom teaching, build interest in entomology and geospatial sciences, and increase community awareness of La Crosse neuroinvasive disease. The project trained educators to develop STEM projects with middle- and high-school students by examining environmental factors related to mosquito oviposition. The project also emphasized geospatial technology, locally centered maps, science communication, and STEM learning. 
+
+## Project Role
+
+My role focused on the geospatial education, data collection, data publishing, and public-facing GIS components of the project.
+
+Responsibilities included:
+
+- teaching participating teachers basic GIS concepts and workflows,
+- developing an introduction to GIS and data visualization for MEGA:BITESS educators,
+- setting up Survey123 workflows for ovitrap data collection,
+- cleaning and publishing teacher and student ovitrap data,
+- building web maps, dashboards, and StoryMaps using project data,
+- creating and maintaining a MEGA:BITESS data hub to share project data and resources,
+- developing training videos and online support materials,
+- helping translate project data into maps and visualizations for teachers, students, and public audiences.
+
+## Geospatial Education Goals
+
+The geospatial components of the project were designed to help teachers and students:
+
+- understand how GIS can support public-health and environmental questions,
+- collect field data using structured digital forms,
+- explore mosquito surveillance data spatially,
+- connect local ovitrap observations to broader disease and environmental patterns,
+- use maps, dashboards, and StoryMaps to communicate scientific information,
+- build confidence using geospatial tools in classroom and community contexts.
+
+## Project Resources
+
+### StoryMap
+
+- [MEGA:BITESS StoryMap](https://arcg.is/5z5fT)
+
+### Data Hub
+
+- [MEGA:BITESS Data Hub](https://megabitess-tga.hub.arcgis.com/)
+
+### Training Videos
+
+- [MEGA:BITESS Training Videos](https://www.youtube.com/playlist?list=PLoBz14z31pl7W-FEbS8CcEUO995x1fY2X)
+
+### Example Web Maps and Data Resources
+
+- [Arthropod-Borne Viral Deaths by State, 1999–2017](https://data-tga.opendata.arcgis.com/datasets/arthropod-borne-viral-deaths-by-state-1999-2017/explore?location=45.136977%2C-119.377885%2C3)
+- [La Crosse Cases by County](https://data-tga.opendata.arcgis.com/datasets/la-crosse-cases-by-county/explore?location=35.215573%2C-82.855212%2C6)
+- [LACE Cases by State by Year](https://data-tga.opendata.arcgis.com/datasets/lace-cases-by-state-by-year/explore?location=-85.194788%2C70.993208%2C1)
+- [LACE Cases by State](https://data-tga.opendata.arcgis.com/datasets/lace-cases-by-state/explore?location=45.136977%2C-119.377885%2C3)
+
+## Portfolio Significance
+
+This project is one of the strongest examples of my work at the intersection of GIS education, teacher professional development, public-health communication, field data collection, and public-facing geospatial infrastructure.
+
+It demonstrates the full geospatial education workflow: teaching GIS concepts, designing data collection systems, cleaning and publishing data, building maps and dashboards, creating StoryMaps, and supporting educators as they use geospatial tools with students.
+
+## Related Work
+
+Additional MEGA:BITESS-related maps, dashboards, and instructional materials may be added as separate geospatial portfolio items if they are useful to highlight individually.

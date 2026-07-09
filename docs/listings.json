@@ -6,20 +6,8 @@
     ]
   },
   {
-    "listing": "/outreach.html",
+    "listing": "/geospatial-portfolio.html",
     "items": [
-      "/projects/outreach/tnga-emr-storymaps.html",
-      "/projects/outreach/decoding-part-107.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/projects/outreach/tnga-emr-storymaps.html",
-      "/projects/teaching/applied-gis-lab-design.html",
-      "/projects/service/tngic-education-outreach.html",
-      "/projects/outreach/decoding-part-107.html",
-      "/projects/community/westview-cemeteries.html",
       "/projects/geospatial/westview-geospatial-products.html",
       "/projects/geospatial/opioids-in-tennessee.html"
     ]
@@ -31,10 +19,24 @@
     ]
   },
   {
-    "listing": "/geospatial-portfolio.html",
+    "listing": "/index.html",
     "items": [
+      "/projects/outreach/tnga-emr-storymaps.html",
+      "/projects/teaching/applied-gis-lab-design.html",
+      "/projects/service/tngic-education-outreach.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/community/westview-cemeteries.html",
       "/projects/geospatial/westview-geospatial-products.html",
+      "/projects/outreach/mega-bitess-academy.html",
       "/projects/geospatial/opioids-in-tennessee.html"
+    ]
+  },
+  {
+    "listing": "/outreach.html",
+    "items": [
+      "/projects/outreach/tnga-emr-storymaps.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/outreach/mega-bitess-academy.html"
     ]
   },
   {
