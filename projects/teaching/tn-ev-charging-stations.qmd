@@ -1,0 +1,46 @@
+---
+title: "EV Charging Stations in Tennessee"
+description: "An instructor-created ArcGIS Dashboard example developed for a GEOG 311 lab on dashboard design, electric vehicle infrastructure, and geovisualization."
+date: 2023-07-01
+categories: [teaching, GIS, dashboards, ArcGIS Dashboards, electric vehicles, Tennessee, geovisualization]
+image: ../../assets/images/thumbnails/tn-ev-charging-station.webp
+---
+
+The **EV Charging Stations in Tennessee** dashboard is an instructor-created example developed for **GEOG 311: Introduction to Geovisualization and GIS**.
+
+The finished dashboard was created while testing a lab activity titled **Build an EV Charging Station Dashboard for Tennessee**. The lab introduces students to dashboard design, web GIS, data visualization, and geospatial communication through a real-world infrastructure topic.
+
+## Teaching Context
+
+This teaching example was developed for an introductory geovisualization and GIS course. The activity asks students to think about how spatial data, maps, charts, indicators, filters, and layout choices can help communicate patterns in electric vehicle charging infrastructure.
+
+The lab gives students practice building an interactive dashboard that presents geographic information in a way that is useful to a public or professional audience.
+
+## Project Role
+
+My role included designing the lab activity, testing the dashboard workflow, creating the instructor example, and developing a finished dashboard that demonstrates the type of product students could create through the assignment.
+
+The public dashboard linked below is my instructor-created example. The underlying lab instructions and instructional datasets are not shared publicly.
+
+## Skills and Concepts
+
+This lab supports student learning in:
+
+- ArcGIS Dashboards,
+- web GIS,
+- geovisualization,
+- dashboard layout and design,
+- interactive filtering and exploration,
+- Tennessee infrastructure data,
+- map-based communication,
+- translating spatial data into a public-facing information product.
+
+## Finished Example Product
+
+- [EV Charging Stations in Tennessee](https://myutk.maps.arcgis.com/apps/dashboards/ebd329687a75424eabdb87f24949decd#)
+
+## Teaching Significance
+
+This example reflects my approach to teaching GIS through realistic, applied products. Students are not only learning how to make a map; they are learning how to organize spatial information into an interactive dashboard that helps users explore a real infrastructure topic.
+
+The activity also helps students think critically about interface design, audience needs, and how charts, maps, indicators, and filters work together in a geospatial communication product.
