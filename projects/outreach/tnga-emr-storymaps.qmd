@@ -1,0 +1,40 @@
+---
+title: "Tennessee Geographic Alliance EMR StoryMaps"
+description: "A set of online educational StoryMaps developed for the Tennessee Geographic Alliance to help learners explore electromagnetic radiation, satellite imagery, wildfires, sea ice, and glaciers."
+date: 2026-07-01
+categories: [Tennessee Geographic Alliance, StoryMaps, remote sensing, EMR, educator resources, outreach]
+image: ../../assets/images/thumbnails/tnga-emr-storymaps.webp
+---
+
+The **Tennessee Geographic Alliance EMR StoryMaps** are online educational resources developed through volunteer work with the Tennessee Geographic Alliance. These StoryMaps help learners explore electromagnetic radiation, satellite imagery, and remote sensing concepts through real-world environmental examples.
+
+The resources connect abstract physical geography and remote sensing concepts to visible environmental phenomena such as wildfire activity, sea ice, and glaciers.
+
+## Project Role
+
+My role included developing online instructional materials, designing StoryMap-based learning experiences, selecting geospatial examples, organizing explanatory content, and creating resources that educators and learners can use to explore remote sensing concepts.
+
+## Educational Goals
+
+These StoryMaps are designed to help learners:
+
+- understand electromagnetic radiation as a foundation for remote sensing,
+- connect satellite imagery to real environmental patterns and processes,
+- interpret imagery related to wildfires, sea ice, and glaciers,
+- explore how different wavelengths and imagery products support geographic analysis,
+- use web-based geospatial tools to investigate Earth systems.
+
+## Featured StoryMaps
+
+- [Exploring EMR With Wildfire Satellite Imagery](https://storymaps.arcgis.com/stories/dec53e95ea5a4cdf94248848e9a12972)
+- [Exploring EMR with Sea Ice and Glaciers](https://storymaps.arcgis.com/stories/bc646ba2cbd543d78b012c175ddf4cbd)
+
+## Portfolio Significance
+
+This project reflects the intersection of geospatial outreach, remote sensing education, online learning design, and volunteer service. It also demonstrates how StoryMaps can be used to translate technical geospatial concepts into accessible, exploratory learning experiences.
+
+The project is a good example of using public-facing geospatial tools to support educators, students, and geography education beyond a traditional university classroom.
+
+## Related Work
+
+Additional Tennessee Geographic Alliance workshops, StoryMaps, and online applications will be added as separate portfolio items or grouped resources as the site develops.

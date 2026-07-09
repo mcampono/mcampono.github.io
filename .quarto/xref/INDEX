@@ -46,5 +46,8 @@
   },
   "projects/geospatial/westview-geospatial-products.qmd": {
     "westview-geospatial-products.html": "64f84b33"
+  },
+  "projects/outreach/tnga-emr-storymaps.qmd": {
+    "tnga-emr-storymaps.html": "c51d8f28"
   }
 }
