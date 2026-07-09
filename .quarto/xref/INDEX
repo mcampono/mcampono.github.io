@@ -70,5 +70,8 @@
   },
   "projects/outreach/tga-educator-geospatial-workshops.qmd": {
     "tga-educator-geospatial-workshops.html": "8f03a638"
+  },
+  "projects/geospatial/tga-open-data-hub.qmd": {
+    "tga-open-data-hub.html": "c2003ef6"
   }
 }

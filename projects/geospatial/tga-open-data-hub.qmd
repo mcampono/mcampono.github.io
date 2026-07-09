@@ -1,0 +1,64 @@
+---
+title: "Tennessee Geographic Alliance Open Data Hub"
+description: "An educator-facing open data and resource hub designed to help teachers access classroom-ready geospatial data, maps, dashboards, PDFs, and visual resources."
+date: 2024-01-01
+categories: [Tennessee Geographic Alliance, open data, dashboards, educator resources, GIS education, web GIS, data visualization]
+image: ../../assets/images/thumbnails/tga-open-data-hub.webp
+---
+
+The **Tennessee Geographic Alliance Open Data Hub** is an educator-facing geospatial resource site designed to help teachers find and use real data, maps, dashboards, PDFs, and classroom-ready visual resources.
+
+The project was developed in response to a common challenge in K--12 geography and GIS education: many teachers are interested in using real data in the classroom, but they often do not have time to find datasets, prepare them for mapping, build visualizations, or become GIS specialists before using them with students.
+
+The goal of the hub was to lower that barrier by creating more turnkey geospatial resources that teachers could use, adapt, and explore.
+
+## Project Role
+
+My role included building and organizing the open data hub, identifying useful datasets, publishing geospatial content, creating maps and dashboards, developing downloadable resources, and organizing materials in ways that would be more accessible to educators.
+
+Responsibilities included:
+
+- identifying datasets with potential classroom value,
+- preparing and publishing geospatial data,
+- creating pre-built maps, dashboards, documents, and visual resources,
+- organizing resources through a public-facing data hub,
+- supporting teacher access to real data without requiring advanced GIS expertise,
+- developing resources that could be used in workshops, classroom activities, and independent teacher exploration.
+
+## Educational Purpose
+
+The hub was designed to help teachers:
+
+- find real geospatial data more easily,
+- use pre-built maps and dashboards instead of starting from scratch,
+- connect data visualization to geography instruction,
+- access classroom-ready PDFs, apps, and online resources,
+- introduce students to real-world data and spatial patterns,
+- reduce the technical barriers associated with classroom GIS use.
+
+## Selected Resources
+
+### Open Data Hub
+
+- [Tennessee Geographic Alliance Open Data](https://data-tga.opendata.arcgis.com/)
+
+### Example Documents and Resources
+
+- [Sample classroom resource](https://data-tga.opendata.arcgis.com/documents/54ba87dd0d9843e484e7537dff960151/explore)
+- [Sample classroom resource](https://data-tga.opendata.arcgis.com/documents/0ac6b43e53584d35b7a9ecacc4c30662/explore)
+
+### Example Dashboards
+
+- [Example dashboard](https://tga.maps.arcgis.com/apps/dashboards/4d79cf609561434e84f5b8847990b0aa#)
+- [Example dashboard](https://tga.maps.arcgis.com/apps/dashboards/067a9f395bb84a3c8135ba7b0ea2c81e#)
+- [Example dashboard](https://tga.maps.arcgis.com/apps/dashboards/b78cfdea72f5468d9fe7f59fbfb0147e#)
+
+## Maintenance Note
+
+Some older standalone ArcGIS applications connected to this work have been deprecated and may no longer function as originally designed. The portfolio value of this project is the broader resource-development model: identifying teacher needs, preparing classroom-ready geospatial resources, publishing data and visual materials, and lowering barriers to classroom GIS use.
+
+## Portfolio Significance
+
+This project demonstrates my work in geospatial resource design, open data publishing, web GIS, educator support, and data visualization for non-specialist audiences.
+
+It is also a strong example of my broader outreach philosophy: teachers are more likely to use GIS when resources are accessible, organized, reliable, and connected to real classroom needs. The hub was designed to make geospatial data more usable for educators who may not have the time or technical background to build everything from scratch.

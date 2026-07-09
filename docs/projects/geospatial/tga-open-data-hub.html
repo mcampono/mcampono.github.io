@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-01-01">
+<meta name="description" content="An educator-facing open data and resource hub designed to help teachers access classroom-ready geospatial data, maps, dashboards, PDFs, and visual resources.">
 
-<title>Geospatial Portfolio – Michael Camponovo</title>
+<title>Tennessee Geographic Alliance Open Data Hub – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing-projects'] = new List('listing-listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Michael Camponovo</span>
     </a>
   </div>
@@ -152,43 +94,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
+    <a class="nav-link" href="../../outreach.html"> 
 <span class="menu-text">Workshops &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./community-projects.html"> 
+    <a class="nav-link" href="../../community-projects.html"> 
 <span class="menu-text">Community GIS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./geospatial-portfolio.html" aria-current="page"> 
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
 <span class="menu-text">Geospatial Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentoring.html"> 
+    <a class="nav-link" href="../../mentoring.html"> 
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./service.html"> 
+    <a class="nav-link" href="../../service.html"> 
 <span class="menu-text">Service</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recognition.html"> 
+    <a class="nav-link" href="../../recognition.html"> 
 <span class="menu-text">Awards &amp; Recognition</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV / Contact</span></a>
   </li>  
 </ul>
@@ -207,26 +149,52 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#portfolio-areas" id="toc-portfolio-areas" class="nav-link active" data-scroll-target="#portfolio-areas">Portfolio Areas</a></li>
-  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
-  <li><a href="#selected-work" id="toc-selected-work" class="nav-link" data-scroll-target="#selected-work">Selected Work</a></li>
-  <li><a href="#featured-maps-and-applications" id="toc-featured-maps-and-applications" class="nav-link" data-scroll-target="#featured-maps-and-applications">Featured Maps and Applications</a></li>
+  <li><a href="#project-role" id="toc-project-role" class="nav-link active" data-scroll-target="#project-role">Project Role</a></li>
+  <li><a href="#educational-purpose" id="toc-educational-purpose" class="nav-link" data-scroll-target="#educational-purpose">Educational Purpose</a></li>
+  <li><a href="#selected-resources" id="toc-selected-resources" class="nav-link" data-scroll-target="#selected-resources">Selected Resources</a>
+  <ul class="collapse">
+  <li><a href="#open-data-hub" id="toc-open-data-hub" class="nav-link" data-scroll-target="#open-data-hub">Open Data Hub</a></li>
+  <li><a href="#example-documents-and-resources" id="toc-example-documents-and-resources" class="nav-link" data-scroll-target="#example-documents-and-resources">Example Documents and Resources</a></li>
+  <li><a href="#example-dashboards" id="toc-example-dashboards" class="nav-link" data-scroll-target="#example-dashboards">Example Dashboards</a></li>
+  </ul></li>
+  <li><a href="#maintenance-note" id="toc-maintenance-note" class="nav-link" data-scroll-target="#maintenance-note">Maintenance Note</a></li>
+  <li><a href="#portfolio-significance" id="toc-portfolio-significance" class="nav-link" data-scroll-target="#portfolio-significance">Portfolio Significance</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Y2FydG9ncmFwaHk=">cartography <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGFzaGJvYXJkcw==">dashboards <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGF0YSUyMGh1Yg==">data hub <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YSUyMHZpc3VhbGl6YXRpb24=">data visualization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZWR1Y2F0b3IlMjByZXNvdXJjZXM=">educator resources <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z2Vvc3BhdGlhbCUyMGNvbW11bmljYXRpb24=">geospatial communication <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R0lT">GIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R0lTJTIwZWR1Y2F0aW9u">GIS education <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24=">historic preservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGlEQVI=">LiDAR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="b3BlbiUyMGRhdGE=">open data <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cHVibGljJTIwaGVhbHRo">public health <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cmVtb3RlJTIwc2Vuc2luZw==">remote sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2NpZW5jZSUyMGNvbW11bmljYXRpb24=">science communication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3BhdGlhbCUyMGFuYWx5c2lz">spatial analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RvcnlNYXBz">StoryMaps <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U3VydmV5MTIz">Survey123 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGVubmVzc2Vl">Tennessee <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGVubmVzc2VlJTIwR2VvZ3JhcGhpYyUyMEFsbGlhbmNl">Tennessee Geographic Alliance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUFW">UAV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d2ViJTIwR0lT">web GIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d2ViJTIwbWFwcw==">web maps <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Geospatial Portfolio</h1>
-</div>
+<h1 class="title">Tennessee Geographic Alliance Open Data Hub</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Tennessee Geographic Alliance</div>
+    <div class="quarto-category">open data</div>
+    <div class="quarto-category">dashboards</div>
+    <div class="quarto-category">educator resources</div>
+    <div class="quarto-category">GIS education</div>
+    <div class="quarto-category">web GIS</div>
+    <div class="quarto-category">data visualization</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    An educator-facing open data and resource hub designed to help teachers access classroom-ready geospatial data, maps, dashboards, PDFs, and visual resources.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 1, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -236,192 +204,66 @@ window.Quarto = {
 </header>
 
 
-<p>This page collects selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials. These examples represent work developed for teaching, outreach, community projects, professional service, and applied problem solving.</p>
-<p>My geospatial work emphasizes clear communication, appropriate methods, useful deliverables, and audience-centered design. Whether the final product is a printed map, web application, UAV-derived product, report figure, or workshop example, the goal is to help people understand spatial information and use it effectively.</p>
-<section id="portfolio-areas" class="level2">
-<h2 class="anchored" data-anchor-id="portfolio-areas">Portfolio Areas</h2>
+<p>The <strong>Tennessee Geographic Alliance Open Data Hub</strong> is an educator-facing geospatial resource site designed to help teachers find and use real data, maps, dashboards, PDFs, and classroom-ready visual resources.</p>
+<p>The project was developed in response to a common challenge in K–12 geography and GIS education: many teachers are interested in using real data in the classroom, but they often do not have time to find datasets, prepare them for mapping, build visualizations, or become GIS specialists before using them with students.</p>
+<p>The goal of the hub was to lower that barrier by creating more turnkey geospatial resources that teachers could use, adapt, and explore.</p>
+<section id="project-role" class="level2">
+<h2 class="anchored" data-anchor-id="project-role">Project Role</h2>
+<p>My role included building and organizing the open data hub, identifying useful datasets, publishing geospatial content, creating maps and dashboards, developing downloadable resources, and organizing materials in ways that would be more accessible to educators.</p>
+<p>Responsibilities included:</p>
 <ul>
-<li><strong>Cartography and Map Design:</strong> Static maps, thematic maps, reference maps, and visual communication products.</li>
-<li><strong>Web GIS and Interactive Applications:</strong> Web maps, dashboards, Experience Builder applications, StoryMaps, and other interactive tools.</li>
-<li><strong>UAV and Remote Sensing Products:</strong> Orthomosaics, surface models, inspection imagery, photogrammetry products, and remote-sensing outputs.</li>
-<li><strong>Spatial Analysis and GIS Workflows:</strong> Applied analyses developed for teaching, outreach, community partners, and student projects.</li>
-<li><strong>Geospatial Communication:</strong> Figures, reports, presentations, and visual materials that translate spatial information for specific audiences.</li>
+<li>identifying datasets with potential classroom value,</li>
+<li>preparing and publishing geospatial data,</li>
+<li>creating pre-built maps, dashboards, documents, and visual resources,</li>
+<li>organizing resources through a public-facing data hub,</li>
+<li>supporting teacher access to real data without requiring advanced GIS expertise,</li>
+<li>developing resources that could be used in workshops, classroom activities, and independent teacher exploration.</li>
 </ul>
 </section>
-<section id="approach" class="level2">
-<h2 class="anchored" data-anchor-id="approach">Approach</h2>
-<p>I think of geospatial products as communication tools, not just technical outputs. A good map or GIS product should be accurate, readable, purposeful, and appropriate for the audience using it.</p>
-<p>This means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support.</p>
+<section id="educational-purpose" class="level2">
+<h2 class="anchored" data-anchor-id="educational-purpose">Educational Purpose</h2>
+<p>The hub was designed to help teachers:</p>
+<ul>
+<li>find real geospatial data more easily,</li>
+<li>use pre-built maps and dashboards instead of starting from scratch,</li>
+<li>connect data visualization to geography instruction,</li>
+<li>access classroom-ready PDFs, apps, and online resources,</li>
+<li>introduce students to real-world data and spatial patterns,</li>
+<li>reduce the technical barriers associated with classroom GIS use.</li>
+</ul>
 </section>
-<section id="selected-work" class="level2">
-<h2 class="anchored" data-anchor-id="selected-work">Selected Work</h2>
-<p>The project pages below highlight selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.</p>
-<div id="listing-listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="VUFWJTJDTGlEQVIlMkNjYXJ0b2dyYXBoeSUyQ3JlbW90ZSUyMHNlbnNpbmclMkNoaXN0b3JpYyUyMHByZXNlcnZhdGlvbiUyQ2dlb3NwYXRpYWwlMjBjb21tdW5pY2F0aW9u" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1782756488699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="314">
-<div class="thumbnail"><a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/westview-cemeteries.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">Westview UAV and LiDAR Geospatial Products</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFW'); return false;">UAV</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGlEQVI='); return false;">LiDAR</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FydG9ncmFwaHk='); return false;">cartography</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVtb3RlJTIwc2Vuc2luZw=='); return false;">remote sensing</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24='); return false;">historic preservation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2Vvc3BhdGlhbCUyMGNvbW11bmljYXRpb24='); return false;">geospatial communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">
-<p>Selected UAV, LiDAR, mapping, and visualization products developed to support documentation and interpretation of historic cemetery landscapes.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/geospatial/westview-geospatial-products.html" class="no-external">
-<div class="listing-date">
-Apr 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="R0lTJTJDU3VydmV5MTIzJTJDZGF0YSUyMGh1YiUyQ3dlYiUyMG1hcHMlMkNkYXNoYm9hcmRzJTJDU3RvcnlNYXBzJTJDcHVibGljJTIwaGVhbHRoJTJDb3BlbiUyMGRhdGElMkNzY2llbmNlJTIwY29tbXVuaWNhdGlvbg==" data-listing-date-sort="1717214400000" data-listing-file-modified-sort="1783609724768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="430">
-<div class="thumbnail"><a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/mega-bitess-geospatial-data-hub.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">MEGA:BITESS Geospatial Data Hub and Mapping Resources</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lT'); return false;">GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3VydmV5MTIz'); return false;">Survey123</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YSUyMGh1Yg=='); return false;">data hub</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('d2ViJTIwbWFwcw=='); return false;">web maps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGFzaGJvYXJkcw=='); return false;">dashboards</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3RvcnlNYXBz'); return false;">StoryMaps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHVibGljJTIwaGVhbHRo'); return false;">public health</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b3BlbiUyMGRhdGE='); return false;">open data</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2NpZW5jZSUyMGNvbW11bmljYXRpb24='); return false;">science communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">
-<p>A geospatial data infrastructure project supporting teacher-collected ovitrap data, Survey123 workflows, open data publishing, web maps, dashboards, StoryMaps, and public-facing mosquito surveillance resources.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/geospatial/mega-bitess-geospatial-data-hub.html" class="no-external">
-<div class="listing-date">
-Jun 1, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="VGVubmVzc2VlJTIwR2VvZ3JhcGhpYyUyMEFsbGlhbmNlJTJDb3BlbiUyMGRhdGElMkNkYXNoYm9hcmRzJTJDZWR1Y2F0b3IlMjByZXNvdXJjZXMlMkNHSVMlMjBlZHVjYXRpb24lMkN3ZWIlMjBHSVMlMkNkYXRhJTIwdmlzdWFsaXphdGlvbg==" data-listing-date-sort="1704085200000" data-listing-file-modified-sort="1783611970812" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="399">
-<div class="thumbnail"><a href="./projects/geospatial/tga-open-data-hub.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/tga-open-data-hub.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/geospatial/tga-open-data-hub.html" class="no-external">Tennessee Geographic Alliance Open Data Hub</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGVubmVzc2VlJTIwR2VvZ3JhcGhpYyUyMEFsbGlhbmNl'); return false;">Tennessee Geographic Alliance</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('b3BlbiUyMGRhdGE='); return false;">open data</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGFzaGJvYXJkcw=='); return false;">dashboards</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZWR1Y2F0b3IlMjByZXNvdXJjZXM='); return false;">educator resources</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lTJTIwZWR1Y2F0aW9u'); return false;">GIS education</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('d2ViJTIwR0lT'); return false;">web GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YSUyMHZpc3VhbGl6YXRpb24='); return false;">data visualization</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/geospatial/tga-open-data-hub.html" class="no-external">
-<p>An educator-facing open data and resource hub designed to help teachers access classroom-ready geospatial data, maps, dashboards, PDFs, and visual resources.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/geospatial/tga-open-data-hub.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="U3RvcnlNYXBzJTJDcHVibGljJTIwaGVhbHRoJTJDVGVubmVzc2VlJTJDY2FydG9ncmFwaHklMkNzcGF0aWFsJTIwYW5hbHlzaXMlMkNnZW9zcGF0aWFsJTIwY29tbXVuaWNhdGlvbg==" data-listing-date-sort="1546318800000" data-listing-file-modified-sort="1783608791053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
-<div class="thumbnail"><a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/opioids-in-tennessee.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">Opioids in Tennessee</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3RvcnlNYXBz'); return false;">StoryMaps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHVibGljJTIwaGVhbHRo'); return false;">public health</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGVubmVzc2Vl'); return false;">Tennessee</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FydG9ncmFwaHk='); return false;">cartography</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3BhdGlhbCUyMGFuYWx5c2lz'); return false;">spatial analysis</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2Vvc3BhdGlhbCUyMGNvbW11bmljYXRpb24='); return false;">geospatial communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">
-<p>A StoryMap using geospatial data and narrative mapping to explore opioid-related patterns and impacts in Tennessee.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/geospatial/opioids-in-tennessee.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2019
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="selected-resources" class="level2">
+<h2 class="anchored" data-anchor-id="selected-resources">Selected Resources</h2>
+<section id="open-data-hub" class="level3">
+<h3 class="anchored" data-anchor-id="open-data-hub">Open Data Hub</h3>
+<ul>
+<li><a href="https://data-tga.opendata.arcgis.com/">Tennessee Geographic Alliance Open Data</a></li>
+</ul>
 </section>
-<section id="featured-maps-and-applications" class="level2">
-<h2 class="anchored" data-anchor-id="featured-maps-and-applications">Featured Maps and Applications</h2>
-<p>Content coming soon.</p>
-
+<section id="example-documents-and-resources" class="level3">
+<h3 class="anchored" data-anchor-id="example-documents-and-resources">Example Documents and Resources</h3>
+<ul>
+<li><a href="https://data-tga.opendata.arcgis.com/documents/54ba87dd0d9843e484e7537dff960151/explore">Sample classroom resource</a></li>
+<li><a href="https://data-tga.opendata.arcgis.com/documents/0ac6b43e53584d35b7a9ecacc4c30662/explore">Sample classroom resource</a></li>
+</ul>
+</section>
+<section id="example-dashboards" class="level3">
+<h3 class="anchored" data-anchor-id="example-dashboards">Example Dashboards</h3>
+<ul>
+<li><a href="https://tga.maps.arcgis.com/apps/dashboards/4d79cf609561434e84f5b8847990b0aa#">Example dashboard</a></li>
+<li><a href="https://tga.maps.arcgis.com/apps/dashboards/067a9f395bb84a3c8135ba7b0ea2c81e#">Example dashboard</a></li>
+<li><a href="https://tga.maps.arcgis.com/apps/dashboards/b78cfdea72f5468d9fe7f59fbfb0147e#">Example dashboard</a></li>
+</ul>
+</section>
+</section>
+<section id="maintenance-note" class="level2">
+<h2 class="anchored" data-anchor-id="maintenance-note">Maintenance Note</h2>
+<p>Some older standalone ArcGIS applications connected to this work have been deprecated and may no longer function as originally designed. The portfolio value of this project is the broader resource-development model: identifying teacher needs, preparing classroom-ready geospatial resources, publishing data and visual materials, and lowering barriers to classroom GIS use.</p>
+</section>
+<section id="portfolio-significance" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio-significance">Portfolio Significance</h2>
+<p>This project demonstrates my work in geospatial resource design, open data publishing, web GIS, educator support, and data visualization for non-specialist audiences.</p>
+<p>It is also a strong example of my broader outreach philosophy: teachers are more likely to use GIS when resources are accessible, organized, reliable, and connected to real classroom needs. The hub was designed to make geospatial data more usable for educators who may not have the time or technical background to build everything from scratch.</p>
 
 
 </section>
