@@ -1,1 +1,63 @@
-don't delete me
+---
+title: "NEH Summer 2022 Workshop Geospatial Resources"
+description: "A Tennessee Geographic Alliance educator workshop project using StoryMaps, web maps, and teacher-facing instructions to support humanities and geography education."
+date: 2022-06-01
+categories: [Tennessee Geographic Alliance, NEH, educator workshops, StoryMaps, web maps, humanities, geography education, teacher resources]
+image: ../../assets/images/thumbnails/neh-summer-2022-workshop.webp
+---
+
+The **NEH Summer 2022 Workshop Geospatial Resources** project was developed through volunteer work with the Tennessee Geographic Alliance to support teacher professional development, humanities education, geography instruction, and geospatial learning.
+
+This project included a public workshop resource site, StoryMap instruction, web maps, and detailed teacher-facing instructional materials. The resources were designed to help educators use maps, spatial thinking, and geospatial storytelling to explore historical and geographic themes with students.
+
+## Project Role
+
+My role included developing geospatial instructional materials, teaching teachers how to create StoryMaps, building web maps, writing teacher instructions, and supporting the use of geospatial tools in humanities-focused classroom activities.
+
+Responsibilities included:
+
+- teaching educators how to use StoryMaps for classroom instruction,
+- creating web maps to support workshop themes and activities,
+- developing detailed teacher instructions,
+- building public-facing online workshop resources,
+- supporting teachers as they connected maps, geography, history, and storytelling,
+- creating examples that teachers could adapt for their own classrooms.
+
+## Instructional and Geospatial Goals
+
+The project was designed to help educators:
+
+- use geospatial tools to support humanities instruction,
+- integrate maps and spatial thinking into historical inquiry,
+- create and use StoryMaps as instructional products,
+- explore migration, civil rights, place, movement, and landscape through maps,
+- connect geographic patterns to historical narratives,
+- develop classroom-ready activities using web maps and online resources.
+
+## Selected Resources
+
+### Workshop Resource Site
+
+- [NEH Summer 2022 Workshop](https://neh-summer-2022-workshop-tga.hub.arcgis.com/)
+
+### StoryMap Example
+
+- [Selma to Montgomery](https://storymaps.arcgis.com/stories/3d1d2cde9c5848479439298dd46f7b99)
+
+### Teacher Instructions
+
+- [Teacher instructions and activity guide](https://docs.google.com/document/d/13Sav49oW-uY7pKxbhrY5iKEvjJD-TioFVjIcqYyPuH8/edit?usp=sharing)
+
+### Great Migration Resources
+
+- [Great Migration workshop maps and resources](https://neh-summer-2022-workshop-tga.hub.arcgis.com/pages/great-migration)
+
+## Portfolio Significance
+
+This project is a strong example of using geospatial technology to support humanities education. It demonstrates how StoryMaps, web maps, and teacher-facing instructional materials can help educators connect historical narratives with spatial evidence and geographic context.
+
+It also reflects my broader outreach approach: geospatial tools are most effective when they are connected to meaningful questions, usable teaching materials, and clear guidance for educators.
+
+## Related Work
+
+Additional Tennessee Geographic Alliance educator workshops and StoryMap-based resources are included elsewhere in this portfolio.
