@@ -100,5 +100,8 @@
   },
   "projects/teaching/map-projection-poster.qmd": {
     "map-projection-poster.html": "c5cba690"
+  },
+  "projects/teaching/terrain-raster-analysis-lab-sequence.qmd": {
+    "terrain-raster-analysis-lab-sequence.html": "90b1fff2"
   }
 }
