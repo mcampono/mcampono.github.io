@@ -1,0 +1,77 @@
+---
+title: "Public Safety Proximity Analysis"
+description: "A GEOG 311 lab activity using public safety data to teach geocoding, proximity analysis, selections, buffers, near analysis, spatial joins, and table summaries."
+date: 2023-07-01
+categories: [teaching, GIS, ArcGIS Pro, public safety, proximity analysis, geocoding, vector analysis, spatial analysis]
+image: ../../assets/images/thumbnails/lab-photo.webp
+---
+
+The **Public Safety Proximity Analysis** lab is an applied GIS assignment developed for **GEOG 311: Introduction to Geovisualization and GIS**.
+
+The lab, titled **Clandestine Meth Labs**, asks students to use GIS tools to investigate proximity relationships between former clandestine meth lab locations and schools in Tennessee. The activity emphasizes practical GIS problem-solving with imperfect real-world data, including data conversion, geocoding, feature creation, proximity analysis, and table-based summaries.
+
+## Teaching Context
+
+This lab gives students experience with a realistic GIS workflow where the desired data are not already packaged in an ideal format. Students begin with public records in a PDF, convert those records into a usable table, geocode locations, create GIS features, and conduct spatial analysis to answer specific public-safety questions.
+
+The activity is designed to help students understand that real GIS work often begins before the first map is made. Students must organize data, convert formats, create usable spatial layers, evaluate proximity relationships, and summarize results in a lab report.
+
+## Guiding Questions
+
+This lab asks students to consider:
+
+- How close are things together?
+- How many features are located inside a particular area?
+- What should I do when the data I need are not available in a GIS-ready format?
+- How can I convert tabular locations into spatial data?
+- How can I convert points to polygons to support choropleth mapping?
+- How can proximity tools help answer applied public-safety questions?
+
+## Project Role
+
+My role included designing the lab activity, identifying and preparing data sources, testing the full workflow, creating the supporting instructions, and developing the analytical questions students answer in their final lab report.
+
+The underlying lab instructions and instructional datasets are not shared publicly.
+
+## Skills and Tools
+
+This lab supports student learning in:
+
+- ArcGIS Pro,
+- Tabula,
+- creating an empty workspace,
+- converting PDF data to CSV,
+- geocoding tabular data,
+- creating feature classes,
+- adding data to a geodatabase,
+- Select by Attribute,
+- creating data from selections,
+- Select by Location,
+- buffer analysis,
+- Near analysis,
+- adding data from ArcGIS Online,
+- table summary statistics,
+- spatial joins,
+- lab-report writing.
+
+## Data Sources
+
+The lab uses public datasets, including:
+
+- clandestine meth lab records from the DEA,
+- school location data from DHS,
+- county boundary data from the U.S. Census Bureau,
+- state boundary data from the U.S. Census Bureau.
+
+## Student Deliverable
+
+Students complete a lab report that uses GIS analysis to answer applied questions, including:
+
+- How many schools in Anderson, Blount, and Knox counties are located within 0.30 miles of a former clandestine meth lab?
+- Which school in Tennessee is located nearest to a former clandestine meth lab?
+
+## Teaching Significance
+
+This example reflects my approach to teaching GIS as a practical problem-solving process. The lab requires students to move from messy source data to usable spatial data, then apply multiple GIS tools to answer specific analytical questions.
+
+It also helps students see that spatial analysis depends on a chain of decisions: how data are obtained, how locations are created, how features are selected, how distances are measured, and how results are summarized. By completing the lab report, students practice not only GIS operations, but also explaining the analytical process and interpreting results clearly.
