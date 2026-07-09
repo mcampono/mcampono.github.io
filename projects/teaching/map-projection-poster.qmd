@@ -1,0 +1,68 @@
+---
+title: "Map Projection Poster"
+description: "A GEOG 311 lab activity where students create a 24 × 36 inch poster comparing how map projections preserve and distort spatial data."
+date: 2023-07-01
+categories: [teaching, GIS, cartography, map projections, ArcGIS Pro, poster design, geovisualization]
+image: ../../assets/images/thumbnails/projection-poster.webp
+---
+
+The **Map Projection Poster** lab is a cartography-focused assignment developed for **GEOG 311: Introduction to Geovisualization and GIS**.
+
+In this lab, students create a **24 × 36 inch poster** that compares how different map projections change the appearance of spatial data. The activity helps students move beyond memorizing projection terminology and instead visually evaluate how projection choices affect distance, area, shape, direction, and overall map interpretation.
+
+## Teaching Context
+
+Map projections are often difficult for students because the concepts can feel abstract. This lab turns projection distortion into a visual comparison exercise. Students work with the same datasets across multiple projections and use poster design to explain how those projections change the appearance of the mapped world.
+
+The assignment also gives students practice creating a large-format cartographic layout in ArcGIS Pro, including maps, tables, explanatory text, and visual organization.
+
+## Guiding Questions
+
+This lab asks students to consider:
+
+- How do map projections change the appearance of map data?
+- What map properties are preserved or distorted by common map projections?
+- What are the common map projection families?
+- What are some common named map projections?
+- How can a poster be used to explain cartographic concepts clearly?
+
+## Project Role
+
+My role included designing the lab activity, testing the poster workflow, preparing the instructional structure, and developing the assignment around a finished cartographic deliverable.
+
+The underlying lab instructions and instructional datasets are not shared publicly.
+
+## Skills and Tools
+
+This lab supports student learning in:
+
+- ArcGIS Pro,
+- Windows File Explorer,
+- working with GIS data,
+- changing map projections,
+- comparing projection properties,
+- creating large-format map layouts,
+- adding tables to ArcGIS Pro layouts,
+- poster design,
+- cartographic explanation.
+
+## Data Sources
+
+The lab uses data from the **Esri Cartography MOOC**, including:
+
+- latitude and longitude lines,
+- country boundary polygons,
+- imaginary circular island polygons,
+- hurricane tracks.
+
+These layers allow students to compare how different projections affect graticules, global boundaries, circular shapes, and linear features.
+
+## Student Deliverable
+
+Students create a **24 × 36 inch map projection poster** that visually compares multiple projections and explains how each projection preserves or distorts spatial properties.
+
+## Teaching Significance
+
+This lab reflects my approach to teaching cartography through visual comparison and applied design. Instead of treating projections as a list of definitions, the activity asks students to observe, compare, explain, and communicate what projection choices do to spatial data.
+
+The poster format also gives students experience producing a polished cartographic communication product. Students must think about layout, hierarchy, explanation, and audience understanding while demonstrating their technical understanding of map projections.
