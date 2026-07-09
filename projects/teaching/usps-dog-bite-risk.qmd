@@ -1,0 +1,46 @@
+---
+title: "Exploring USPS Dog Bite Data"
+description: "An instructor-created StoryMap example developed for a GEOG 311 lab on geovisualization, public data, risk communication, and spatial storytelling."
+date: 2023-07-01
+categories: [teaching, GIS, StoryMaps, geovisualization, public data, risk communication, USPS]
+image: ../../assets/images/thumbnails/usps-dog-bite.webp
+---
+
+The **Exploring USPS Dog Bite Data** StoryMap is an instructor-created example developed for **GEOG 311: Introduction to Geovisualization and GIS**.
+
+The finished StoryMap was created while testing a lab activity titled **USPS Dog Bites Risk**. The lab uses USPS dog bite data to help students explore how maps, charts, rankings, and narrative explanation can be used to communicate risk patterns across states.
+
+## Teaching Context
+
+This teaching example was developed for an introductory geovisualization and GIS course. The activity asks students to examine a real public dataset and consider how geographic patterns can be communicated clearly to a public audience.
+
+The guiding question — **which state is the highest risk for letter carriers?** — gives students a focused problem that requires them to think about data, normalization, map design, interpretation, and communication.
+
+## Project Role
+
+My role included designing the lab activity, testing the full workflow, creating the instructor example, and developing a finished StoryMap that demonstrates the type of product students could create through the assignment.
+
+The public StoryMap linked below is my instructor-created example. The underlying lab instructions and instructional datasets are not shared publicly.
+
+## Skills and Concepts
+
+This lab supports student learning in:
+
+- StoryMap design,
+- public data interpretation,
+- geovisualization,
+- risk communication,
+- thematic mapping,
+- comparing places using spatial data,
+- developing a clear geographic argument,
+- translating data into a public-facing narrative.
+
+## Finished Example Product
+
+- [Exploring USPS Dog Bite Data](https://storymaps.arcgis.com/stories/52f68311eebb49dcbc4da8c3106088ad)
+
+## Teaching Significance
+
+This example reflects my approach to teaching GIS through focused, real-world questions. Students are not simply making a map; they are using spatial data and visual communication to investigate a practical question and explain their findings.
+
+The activity also helps students think critically about how “highest risk” should be measured, how data choices affect interpretation, and how maps and narrative text can work together to communicate results.

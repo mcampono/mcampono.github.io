@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2023-07-01">
+<meta name="description" content="An instructor-created StoryMap example developed for a GEOG 311 lab on geovisualization, public data, risk communication, and spatial storytelling.">
 
-<title>Teaching – Michael Camponovo</title>
+<title>Exploring USPS Dog Bite Data – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing-projects'] = new List('listing-listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Michael Camponovo</span>
     </a>
   </div>
@@ -152,43 +94,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./teaching.html" aria-current="page"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
+    <a class="nav-link" href="../../outreach.html"> 
 <span class="menu-text">Workshops &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./community-projects.html"> 
+    <a class="nav-link" href="../../community-projects.html"> 
 <span class="menu-text">Community GIS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./geospatial-portfolio.html"> 
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
 <span class="menu-text">Geospatial Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentoring.html"> 
+    <a class="nav-link" href="../../mentoring.html"> 
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./service.html"> 
+    <a class="nav-link" href="../../service.html"> 
 <span class="menu-text">Service</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recognition.html"> 
+    <a class="nav-link" href="../../recognition.html"> 
 <span class="menu-text">Awards &amp; Recognition</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV / Contact</span></a>
   </li>  
 </ul>
@@ -207,26 +149,47 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#teaching-areas" id="toc-teaching-areas" class="nav-link active" data-scroll-target="#teaching-areas">Teaching Areas</a></li>
-  <li><a href="#teaching-approach" id="toc-teaching-approach" class="nav-link" data-scroll-target="#teaching-approach">Teaching Approach</a></li>
-  <li><a href="#selected-courses-and-learning-experiences" id="toc-selected-courses-and-learning-experiences" class="nav-link" data-scroll-target="#selected-courses-and-learning-experiences">Selected Courses and Learning Experiences</a></li>
-  <li><a href="#example-teaching-materials" id="toc-example-teaching-materials" class="nav-link" data-scroll-target="#example-teaching-materials">Example Teaching Materials</a></li>
+  <li><a href="#teaching-context" id="toc-teaching-context" class="nav-link active" data-scroll-target="#teaching-context">Teaching Context</a></li>
+  <li><a href="#project-role" id="toc-project-role" class="nav-link" data-scroll-target="#project-role">Project Role</a></li>
+  <li><a href="#skills-and-concepts" id="toc-skills-and-concepts" class="nav-link" data-scroll-target="#skills-and-concepts">Skills and Concepts</a></li>
+  <li><a href="#finished-example-product" id="toc-finished-example-product" class="nav-link" data-scroll-target="#finished-example-product">Finished Example Product</a></li>
+  <li><a href="#teaching-significance" id="toc-teaching-significance" class="nav-link" data-scroll-target="#teaching-significance">Teaching Significance</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="YXBwbGllZCUyMGxlYXJuaW5n">applied learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXJjR0lTJTIwRGFzaGJvYXJkcw==">ArcGIS Dashboards <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGFzaGJvYXJkcw==">dashboards <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZWxlY3RyaWMlMjB2ZWhpY2xlcw==">electric vehicles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z2VvdmlzdWFsaXphdGlvbg==">geovisualization <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R0lT">GIS <span class="quarto-category-count">(4)</span></div><div class="category" data-category="bGFiJTIwZGVzaWdu">lab design <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9kZWxCdWlsZGVy">ModelBuilder <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJvZmVzc2lvbmFsJTIwcHJlcGFyYXRpb24=">professional preparation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHVibGljJTIwZGF0YQ==">public data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmlzayUyMGNvbW11bmljYXRpb24=">risk communication <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3BhdGlhbCUyMGFuYWx5c2lz">spatial analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RvcnlNYXBz">StoryMaps <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dGVhY2hpbmc=">teaching <span class="quarto-category-count">(4)</span></div><div class="category" data-category="VGVubmVzc2Vl">Tennessee <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dXJiYW4lMjBoZWF0JTIwaXNsYW5k">urban heat island <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VVNQUw==">USPS <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Teaching</h1>
-</div>
+<h1 class="title">Exploring USPS Dog Bite Data</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">teaching</div>
+    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">StoryMaps</div>
+    <div class="quarto-category">geovisualization</div>
+    <div class="quarto-category">public data</div>
+    <div class="quarto-category">risk communication</div>
+    <div class="quarto-category">USPS</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    An instructor-created StoryMap example developed for a GEOG 311 lab on geovisualization, public data, risk communication, and spatial storytelling.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 1, 2023</p>
+    </div>
+  </div>
   
     
   </div>
@@ -236,188 +199,42 @@ window.Quarto = {
 </header>
 
 
-<p>My teaching focuses on helping students use geospatial tools to solve real problems, communicate clearly, and build professional confidence. I teach GIS, cartography, uncrewed aerial systems, remote sensing, spatial analysis, and professional-development topics through applied projects and realistic workflows.</p>
-<p>Rather than treating GIS as a collection of disconnected tools, I try to help students understand the full problem-solving process: defining the question, identifying useful data, evaluating limitations, choosing appropriate methods, producing clear deliverables, and explaining results to an audience.</p>
-<section id="teaching-areas" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-areas">Teaching Areas</h2>
+<p>The <strong>Exploring USPS Dog Bite Data</strong> StoryMap is an instructor-created example developed for <strong>GEOG 311: Introduction to Geovisualization and GIS</strong>.</p>
+<p>The finished StoryMap was created while testing a lab activity titled <strong>USPS Dog Bites Risk</strong>. The lab uses USPS dog bite data to help students explore how maps, charts, rankings, and narrative explanation can be used to communicate risk patterns across states.</p>
+<section id="teaching-context" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-context">Teaching Context</h2>
+<p>This teaching example was developed for an introductory geovisualization and GIS course. The activity asks students to examine a real public dataset and consider how geographic patterns can be communicated clearly to a public audience.</p>
+<p>The guiding question — <strong>which state is the highest risk for letter carriers?</strong> — gives students a focused problem that requires them to think about data, normalization, map design, interpretation, and communication.</p>
+</section>
+<section id="project-role" class="level2">
+<h2 class="anchored" data-anchor-id="project-role">Project Role</h2>
+<p>My role included designing the lab activity, testing the full workflow, creating the instructor example, and developing a finished StoryMap that demonstrates the type of product students could create through the assignment.</p>
+<p>The public StoryMap linked below is my instructor-created example. The underlying lab instructions and instructional datasets are not shared publicly.</p>
+</section>
+<section id="skills-and-concepts" class="level2">
+<h2 class="anchored" data-anchor-id="skills-and-concepts">Skills and Concepts</h2>
+<p>This lab supports student learning in:</p>
 <ul>
-<li><strong>Geographic Information Systems:</strong> Applied GIS workflows, spatial analysis, data management, and problem solving.</li>
-<li><strong>Cartography and Geovisualization:</strong> Map design, visual communication, audience awareness, and effective geospatial storytelling.</li>
-<li><strong>Uncrewed Aerial Systems:</strong> FAA Part 107 concepts, flight planning, data collection, photogrammetry, safety, and applied UAV workflows.</li>
-<li><strong>Remote Sensing:</strong> Image interpretation, sensor characteristics, data products, and applications.</li>
-<li><strong>Professional Preparation:</strong> Portfolio development, conference preparation, project communication, career pathways, and professional expectations.</li>
+<li>StoryMap design,</li>
+<li>public data interpretation,</li>
+<li>geovisualization,</li>
+<li>risk communication,</li>
+<li>thematic mapping,</li>
+<li>comparing places using spatial data,</li>
+<li>developing a clear geographic argument,</li>
+<li>translating data into a public-facing narrative.</li>
 </ul>
 </section>
-<section id="teaching-approach" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-approach">Teaching Approach</h2>
-<p>I design courses and labs around realistic scenarios. Students are often asked to work through problems similar to those they might encounter in professional practice: identifying what data are needed, determining whether the data are appropriate, choosing tools and methods, producing deliverables, and communicating results clearly.</p>
-<p>This approach helps students see GIS as a process rather than a button-clicking exercise. The goal is not simply to complete a tutorial, but to understand how geospatial analysis supports decision-making.</p>
+<section id="finished-example-product" class="level2">
+<h2 class="anchored" data-anchor-id="finished-example-product">Finished Example Product</h2>
+<ul>
+<li><a href="https://storymaps.arcgis.com/stories/52f68311eebb49dcbc4da8c3106088ad">Exploring USPS Dog Bite Data</a></li>
+</ul>
 </section>
-<section id="selected-courses-and-learning-experiences" class="level2">
-<h2 class="anchored" data-anchor-id="selected-courses-and-learning-experiences">Selected Courses and Learning Experiences</h2>
-<p>The project pages below highlight selected teaching approaches, course materials, learning experiences, and examples of applied geospatial education.</p>
-<div id="listing-listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNHSVMlMkNsYWIlMjBkZXNpZ24lMkNwcm9mZXNzaW9uYWwlMjBwcmVwYXJhdGlvbiUyQ2FwcGxpZWQlMjBsZWFybmluZw==" data-listing-date-sort="1780286400000" data-listing-file-modified-sort="1782754469833" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
-<div class="thumbnail"><a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/applied-gis-lab-design.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">Applied GIS Lab Design</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lT'); return false;">GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGFiJTIwZGVzaWdu'); return false;">lab design</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvZmVzc2lvbmFsJTIwcHJlcGFyYXRpb24='); return false;">professional preparation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXBwbGllZCUyMGxlYXJuaW5n'); return false;">applied learning</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">
-<p>A teaching approach that frames GIS labs around realistic problems, complete workflows, and professional-style deliverables.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/teaching/applied-gis-lab-design.html" class="no-external">
-<div class="listing-date">
-Jun 1, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="dGVhY2hpbmclMkNHSVMlMkNNb2RlbEJ1aWxkZXIlMkN1cmJhbiUyMGhlYXQlMjBpc2xhbmQlMkNTdG9yeU1hcHMlMkNnZW92aXN1YWxpemF0aW9uJTJDc3BhdGlhbCUyMGFuYWx5c2lz" data-listing-date-sort="1688184000000" data-listing-file-modified-sort="1783614088214" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="288">
-<div class="thumbnail"><a href="./projects/teaching/knox-urban-heat-island.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/knox-urban-heat-island.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/teaching/knox-urban-heat-island.html" class="no-external">Exploring Urban Heat Island in Knox County, Tennessee</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lT'); return false;">GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TW9kZWxCdWlsZGVy'); return false;">ModelBuilder</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dXJiYW4lMjBoZWF0JTIwaXNsYW5k'); return false;">urban heat island</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3RvcnlNYXBz'); return false;">StoryMaps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2VvdmlzdWFsaXphdGlvbg=='); return false;">geovisualization</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3BhdGlhbCUyMGFuYWx5c2lz'); return false;">spatial analysis</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/teaching/knox-urban-heat-island.html" class="no-external">
-<p>An instructor-created StoryMap example developed for a GEOG 311 lab introducing ModelBuilder through an urban heat island analysis.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/teaching/knox-urban-heat-island.html" class="no-external">
-<div class="listing-date">
-Jul 1, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="dGVhY2hpbmclMkNHSVMlMkNkYXNoYm9hcmRzJTJDQXJjR0lTJTIwRGFzaGJvYXJkcyUyQ2VsZWN0cmljJTIwdmVoaWNsZXMlMkNUZW5uZXNzZWUlMkNnZW92aXN1YWxpemF0aW9u" data-listing-date-sort="1688184000000" data-listing-file-modified-sort="1783614707595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="280">
-<div class="thumbnail"><a href="./projects/teaching/tn-ev-charging-stations.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/tn-ev-charging-station.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/teaching/tn-ev-charging-stations.html" class="no-external">EV Charging Stations in Tennessee</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lT'); return false;">GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGFzaGJvYXJkcw=='); return false;">dashboards</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXJjR0lTJTIwRGFzaGJvYXJkcw=='); return false;">ArcGIS Dashboards</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZWxlY3RyaWMlMjB2ZWhpY2xlcw=='); return false;">electric vehicles</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGVubmVzc2Vl'); return false;">Tennessee</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2VvdmlzdWFsaXphdGlvbg=='); return false;">geovisualization</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/teaching/tn-ev-charging-stations.html" class="no-external">
-<p>An instructor-created ArcGIS Dashboard example developed for a GEOG 311 lab on dashboard design, electric vehicle infrastructure, and geovisualization.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/teaching/tn-ev-charging-stations.html" class="no-external">
-<div class="listing-date">
-Jul 1, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="dGVhY2hpbmclMkNHSVMlMkNTdG9yeU1hcHMlMkNnZW92aXN1YWxpemF0aW9uJTJDcHVibGljJTIwZGF0YSUyQ3Jpc2slMjBjb21tdW5pY2F0aW9uJTJDVVNQUw==" data-listing-date-sort="1688184000000" data-listing-file-modified-sort="1783615096196" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
-<div class="thumbnail"><a href="./projects/teaching/usps-dog-bite-risk.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/usps-dog-bite.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/teaching/usps-dog-bite-risk.html" class="no-external">Exploring USPS Dog Bite Data</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0lT'); return false;">GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U3RvcnlNYXBz'); return false;">StoryMaps</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2VvdmlzdWFsaXphdGlvbg=='); return false;">geovisualization</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cHVibGljJTIwZGF0YQ=='); return false;">public data</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmlzayUyMGNvbW11bmljYXRpb24='); return false;">risk communication</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VVNQUw=='); return false;">USPS</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/teaching/usps-dog-bite-risk.html" class="no-external">
-<p>An instructor-created StoryMap example developed for a GEOG 311 lab on geovisualization, public data, risk communication, and spatial storytelling.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/teaching/usps-dog-bite-risk.html" class="no-external">
-<div class="listing-date">
-Jul 1, 2023
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="example-teaching-materials" class="level2">
-<h2 class="anchored" data-anchor-id="example-teaching-materials">Example Teaching Materials</h2>
-<p>Content coming soon.</p>
-
+<section id="teaching-significance" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-significance">Teaching Significance</h2>
+<p>This example reflects my approach to teaching GIS through focused, real-world questions. Students are not simply making a map; they are using spatial data and visual communication to investigate a practical question and explain their findings.</p>
+<p>The activity also helps students think critically about how “highest risk” should be measured, how data choices affect interpretation, and how maps and narrative text can work together to communicate results.</p>
 
 
 </section>
