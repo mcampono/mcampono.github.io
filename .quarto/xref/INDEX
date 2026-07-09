@@ -49,5 +49,8 @@
   },
   "projects/outreach/tnga-emr-storymaps.qmd": {
     "tnga-emr-storymaps.html": "c51d8f28"
+  },
+  "projects/geospatial/opioids-in-tennessee.qmd": {
+    "opioids-in-tennessee.html": "6f3428cd"
   }
 }

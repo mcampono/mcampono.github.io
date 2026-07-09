@@ -1,0 +1,37 @@
+---
+title: "Opioids in Tennessee"
+description: "A StoryMap using geospatial data and narrative mapping to explore opioid-related patterns and impacts in Tennessee."
+date: 2019-01-01
+categories: [StoryMaps, public health, Tennessee, cartography, spatial analysis, geospatial communication]
+image: ../../assets/images/thumbnails/opioids-in-tennessee.webp
+---
+
+The **Opioids in Tennessee** StoryMap uses geospatial data, maps, and narrative explanation to explore opioid-related patterns and impacts across Tennessee.
+
+This project reflects the use of GIS and cartographic storytelling to communicate a complex public-health issue to a broader audience. By combining spatial data, contextual explanation, and interactive web mapping, the StoryMap helps viewers understand how opioid-related impacts vary across places and communities.
+
+## Project Role
+
+My role included developing the StoryMap, organizing the spatial narrative, selecting and preparing data, creating maps and visualizations, and translating the results into a public-facing geospatial communication product.
+
+## Geospatial Focus
+
+This project emphasized:
+
+- public-health data visualization,
+- county-level or regional spatial patterns,
+- web-based cartographic storytelling,
+- communication of complex social and health data,
+- Tennessee-focused spatial analysis and interpretation.
+
+## Communication Goals
+
+The StoryMap was designed to help viewers explore opioid-related patterns in Tennessee through maps, narrative text, and contextual information. The goal was not only to display data, but to make spatial patterns understandable and meaningful for public audiences.
+
+## Portfolio Significance
+
+This project is an example of geospatial storytelling applied to a major public issue. It demonstrates how GIS, web mapping, and narrative cartography can be used to communicate patterns, raise awareness, and support public understanding of complex geographic problems.
+
+## Related Link
+
+- [Opioids in Tennessee](https://storymaps.arcgis.com/stories/92678e77f9f9467bbad17c06f68ac67b)
