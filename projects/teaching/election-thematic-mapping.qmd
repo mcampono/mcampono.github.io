@@ -1,0 +1,72 @@
+---
+title: "Exploring Election Data with Thematic Maps"
+description: "An instructor-created StoryMap example developed for a GEOG 311 lab on thematic mapping, cartographic choices, and how map design influences interpretation."
+date: 2023-07-01
+categories: [teaching, GIS, cartography, thematic mapping, StoryMaps, ArcGIS Online, electoral geography, geovisualization]
+image: ../../assets/images/thumbnails/election-mapping.webp
+---
+
+The **Exploring Election Data with Thematic Maps** StoryMap is an instructor-created example developed for **GEOG 311: Introduction to Geovisualization and GIS**.
+
+The finished StoryMap was created while testing a lab activity focused on thematic mapping, cartographic design, and visual interpretation. The lab uses county-level presidential election data and demographic data as an applied dataset for comparing different map types and evaluating how design choices influence what readers see.
+
+## Teaching Context
+
+This lab introduces students to common thematic map styles and asks them to think critically about when different approaches are useful, misleading, or inappropriate. Students compare traditional choropleth maps with alternative approaches that can address some of the limitations of county-level election mapping.
+
+The election data provides a familiar and data-rich context, but the purpose of the lab is cartographic rather than political. The emphasis is on map design, data normalization, visual framing, and how thematic maps shape interpretation.
+
+## Guiding Questions
+
+This lab asks students to consider:
+
+- What are the most common thematic map styles?
+- What limitations do these thematic maps have?
+- When should certain thematic map styles be avoided?
+- How can a specific thematic map style influence the map reader’s understanding of the data?
+- How do you build a StoryMap to communicate cartographic findings?
+
+## Project Role
+
+My role included designing the lab activity, selecting and preparing the data sources, testing the workflow, creating the instructor example, and developing a finished StoryMap that demonstrates the type of product students could create through the assignment.
+
+The public StoryMap linked below is my instructor-created example. The underlying lab instructions and instructional datasets are not shared publicly.
+
+## Skills and Tools
+
+This lab supports student learning in:
+
+- ArcGIS Online,
+- ArcGIS StoryMaps,
+- thematic mapping,
+- choropleth mapping,
+- cartograms,
+- tilegrams,
+- electoral geography,
+- county-level data interpretation,
+- map comparison,
+- cartographic critique,
+- visual storytelling.
+
+Students also work with external thematic mapping tools, including:
+
+- [go-cart.io](https://go-cart.io/)
+- [Pitch Interactive Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/)
+
+## Data Sources
+
+The lab uses public datasets, including:
+
+- 2020 presidential election results by county from MIT,
+- 2016 and 2020 demographic estimates from NHGIS,
+- 2016 presidential election results by county from Esri.
+
+## Finished Example Product
+
+- [Exploring 2020 Presidential Election Data with Thematic Maps](https://storymaps.arcgis.com/stories/99297717332b42f8bf32ea6434c03629)
+
+## Teaching Significance
+
+This example reflects my approach to teaching cartography as a form of critical communication. Students learn that thematic maps are not neutral containers for data; they are designed arguments shaped by classification, normalization, geography, symbolization, and layout.
+
+By comparing multiple thematic map styles, students can see how the same dataset can support different visual interpretations. The activity helps students move beyond making a technically correct map and toward evaluating whether a map is appropriate, ethical, and understandable for its intended audience.
