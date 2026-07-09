@@ -10,6 +10,8 @@ The **Mythical Cartography** workshop is a creative geography education project 
 
 By combining creative expression with geographic thinking, the project helps teachers and students see maps not just as technical products, but as tools for understanding landforms, place, scale, and spatial relationships.
 
+The project was later featured on the National Geographic Education Blog as an example of creative geography education and Explorer Mindset teaching.
+
 ## Project Role
 
 My role included helping develop the workshop, support the geospatial and physical geography components, and create public-facing resources that teachers could use in their own classrooms.
@@ -35,6 +37,10 @@ The workshop was designed to help educators:
 ## Public Workshop Site
 
 - [Mythical Cartography](https://mythical-cartography-tga.hub.arcgis.com/)
+
+## External Recognition
+
+This workshop was featured on the National Geographic Education Blog in the post [Mythical Cartography: A Creative Way to Foster an Explorer Mindset](https://blog.education.nationalgeographic.org/2022/06/30/mythical-cartography-a-creative-way-to-foster-an-explorer-mindset/). The post was co-written with Nate Vanderzee and Lauren Sinclair and describes the workshop’s connection to cartography, physical geography, creative mapmaking, and National Geographic’s Explorer Mindset.
 
 ## Portfolio Significance
 
