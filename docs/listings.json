@@ -3,20 +3,27 @@
     "listing": "/teaching.html",
     "items": [
       "/projects/teaching/applied-gis-lab-design.html",
+      "/projects/teaching/in-class-gis-skill-building.html",
       "/projects/teaching/knox-urban-heat-island.html",
       "/projects/teaching/tn-ev-charging-stations.html",
       "/projects/teaching/usps-dog-bite-risk.html"
     ]
   },
   {
-    "listing": "/outreach.html",
+    "listing": "/geospatial-portfolio.html",
     "items": [
-      "/projects/outreach/tnga-emr-storymaps.html",
-      "/projects/outreach/decoding-part-107.html",
-      "/projects/outreach/mega-bitess-academy.html",
-      "/projects/outreach/tga-educator-geospatial-workshops.html",
-      "/projects/outreach/mythical-cartography.html",
-      "/projects/outreach/neh-summer-2022-workshop.html"
+      "/projects/geospatial/westview-geospatial-products.html",
+      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
+      "/projects/geospatial/tga-open-data-hub.html",
+      "/projects/geospatial/choose-your-truth.html",
+      "/projects/geospatial/data-classification-in-mapping.html",
+      "/projects/geospatial/opioids-in-tennessee.html"
+    ]
+  },
+  {
+    "listing": "/community-projects.html",
+    "items": [
+      "/projects/community/westview-cemeteries.html"
     ]
   },
   {
@@ -34,6 +41,7 @@
       "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
       "/projects/outreach/mythical-cartography.html",
       "/projects/geospatial/tga-open-data-hub.html",
+      "/projects/teaching/in-class-gis-skill-building.html",
       "/projects/teaching/knox-urban-heat-island.html",
       "/projects/teaching/tn-ev-charging-stations.html",
       "/projects/teaching/usps-dog-bite-risk.html",
@@ -44,20 +52,14 @@
     ]
   },
   {
-    "listing": "/community-projects.html",
+    "listing": "/outreach.html",
     "items": [
-      "/projects/community/westview-cemeteries.html"
-    ]
-  },
-  {
-    "listing": "/geospatial-portfolio.html",
-    "items": [
-      "/projects/geospatial/westview-geospatial-products.html",
-      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
-      "/projects/geospatial/tga-open-data-hub.html",
-      "/projects/geospatial/choose-your-truth.html",
-      "/projects/geospatial/data-classification-in-mapping.html",
-      "/projects/geospatial/opioids-in-tennessee.html"
+      "/projects/outreach/tnga-emr-storymaps.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/outreach/mega-bitess-academy.html",
+      "/projects/outreach/tga-educator-geospatial-workshops.html",
+      "/projects/outreach/mythical-cartography.html",
+      "/projects/outreach/neh-summer-2022-workshop.html"
     ]
   },
   {
