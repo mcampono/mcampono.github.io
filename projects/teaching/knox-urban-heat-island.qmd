@@ -1,0 +1,46 @@
+---
+title: "Exploring Urban Heat Island in Knox County, Tennessee"
+description: "An instructor-created StoryMap example developed for a GEOG 311 lab introducing ModelBuilder through an urban heat island analysis."
+date: 2023-07-01
+categories: [teaching, GIS, ModelBuilder, urban heat island, StoryMaps, geovisualization, spatial analysis]
+image: ../../assets/images/thumbnails/knox-urban-heat-island.webp
+---
+
+The **Exploring Urban Heat Island in Knox County, Tennessee** StoryMap is an instructor-created example developed for **GEOG 311: Introduction to Geovisualization and GIS**.
+
+The finished StoryMap was created while testing a lab activity titled **Introduction to ModelBuilder Using Urban Heat Island**. The lab introduces students to GIS workflow automation and spatial analysis through a real-world environmental question focused on urban heat patterns in Knox County, Tennessee.
+
+## Teaching Context
+
+This teaching example was developed for an introductory geovisualization and GIS course. The activity uses the urban heat island concept to help students connect GIS tools, environmental data, workflow design, and public-facing communication.
+
+Rather than asking students to complete isolated software steps, the lab is structured around a complete workflow: investigating a geographic problem, processing spatial data, using ModelBuilder, interpreting results, and communicating findings through a finished geospatial product.
+
+## Project Role
+
+My role included designing the lab activity, testing the full workflow, creating the instructor example, and developing the finished StoryMap that demonstrates the type of product students could create through the assignment.
+
+The public StoryMap linked below is my instructor-created example. The underlying lab instructions and instructional datasets are not shared publicly.
+
+## Skills and Concepts
+
+This lab supports student learning in:
+
+- GIS workflow design,
+- ModelBuilder,
+- urban heat island analysis,
+- environmental geospatial data,
+- spatial analysis,
+- geovisualization,
+- StoryMap-based communication,
+- translating GIS results for a public audience.
+
+## Finished Example Product
+
+- [Exploring Urban Heat Island in Knox County, Tennessee](https://storymaps.arcgis.com/stories/5aeb7b9f84e04eaf97af4e19735fd2e8)
+
+## Teaching Significance
+
+This example reflects my approach to teaching GIS as a problem-solving process. Students are not simply learning a tool; they are learning how to use a GIS workflow to investigate a real environmental issue, evaluate spatial patterns, and communicate results clearly.
+
+The activity also gives students a practical introduction to ModelBuilder by connecting automation and workflow logic to a meaningful geographic question.
