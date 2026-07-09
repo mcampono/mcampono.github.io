@@ -1,0 +1,57 @@
+---
+title: "TGA Educator Geospatial Workshops"
+description: "A collection of short-format Tennessee Geographic Alliance workshops introducing K–12 educators to geospatial technology, GIS applications, natural hazards, AP Human Geography, CTE connections, and 4-H applications."
+date: 2024-06-01
+categories: [Tennessee Geographic Alliance, educator workshops, K-12, GIS education, professional development, geospatial technology]
+image: ../../assets/images/thumbnails/tga-educator-geospatial-workshops.webp
+---
+
+The **TGA Educator Geospatial Workshops** are a collection of short-format professional-development resources developed through volunteer work with the Tennessee Geographic Alliance. These workshops introduce teachers to geospatial technology, GIS applications, mapping, spatial thinking, and classroom-ready resources for different educational audiences.
+
+The workshops vary in length and format, from one-hour in-service sessions to focused professional-development activities for specific teacher groups. Together, they demonstrate how geospatial tools can be adapted for natural hazards instruction, career and technical education, AP Human Geography, and 4-H programming.
+
+## Project Role
+
+My role included developing workshop content, building public-facing resource sites, selecting geospatial examples, designing teacher-facing activities, and helping educators connect GIS and mapping tools to their own instructional contexts.
+
+## Workshop Collection
+
+### Natural Disaster District Learning Day
+
+A short-format educator workshop focused on using geospatial tools and resources to explore natural disasters and related geographic concepts.
+
+- [Natural Disaster District Learning Day](https://natural-disaster-district-learning-day-tga.hub.arcgis.com/)
+
+### GIS Applications for TN CTE Educators
+
+A workshop designed to help Tennessee career and technical education teachers explore practical GIS applications and connections to workforce pathways.
+
+- [GIS Applications for TN CTE Educators](https://gis-applications-for-tn-cte-educators-tga.hub.arcgis.com/)
+
+### TN APHG
+
+A workshop resource supporting AP Human Geography educators through geospatial tools, maps, and spatial thinking.
+
+- [TN APHG](https://tn-aphg-tga.hub.arcgis.com/)
+
+### Geospatial Technology Applications for Tennessee 4-H
+
+A workshop resource connecting geospatial technology with Tennessee 4-H educational programming.
+
+- [Geospatial Technology Applications for Tennessee 4-H](https://geospatial-technology-applications-for-tennessee-4-h-tga.hub.arcgis.com/)
+
+## Educational Goals
+
+These workshops were designed to help educators:
+
+- explore classroom uses of GIS and geospatial technology,
+- connect maps and spatial thinking to existing curriculum areas,
+- identify practical examples that fit their students and instructional goals,
+- use public-facing online resources after the workshop,
+- see geospatial technology as accessible rather than intimidating.
+
+## Portfolio Significance
+
+This collection demonstrates the range of my educator-outreach work through the Tennessee Geographic Alliance. It shows how GIS and geospatial technology can be adapted for different teacher audiences, timeframes, subject areas, and professional-development needs.
+
+Rather than treating GIS as a standalone technical topic, these workshops connect geospatial tools to real instructional contexts such as natural hazards, human geography, career and technical education, and youth development programming.
