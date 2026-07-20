@@ -26,13 +26,9 @@ I try to design workshops around what participants actually need to do after the
 
 This approach is especially important in geospatial outreach because participants often need to apply what they learn in complex, real-world settings. A useful workshop should help people understand not only which buttons to press, but also why the workflow matters, what limitations to watch for, and how to communicate results clearly.
 
-## Selected Workshops and Outreach Activities
+## Selected Outreach Examples
 
-The project pages below highlight selected workshops, outreach programs, professional-development activities, and public-facing geospatial education efforts.
+The examples below highlight public-facing workshops, educator resources, professional-development programs, StoryMaps, data hubs, and geospatial learning materials developed for K–12 educators, students, and professional audiences.
 
 ::: {#listing-projects}
 :::
-
-## Example Materials and Resources
-
-Content coming soon.

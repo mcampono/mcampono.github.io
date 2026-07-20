@@ -26,14 +26,9 @@ I think of geospatial products as communication tools, not just technical output
 
 This means paying attention to data quality, cartographic design, uncertainty, context, accessibility, and the decisions the product is meant to support.
 
-## Selected Work
+## Selected Geospatial Projects
 
-The project pages below highlight selected examples of maps, web applications, UAV products, cartographic outputs, spatial analyses, and geospatial communication materials.
-
+The examples below include independent geospatial products, StoryMaps, dashboards, open data resources, cartographic communication projects, and applied mapping products.
 
 ::: {#listing-projects}
 :::
-
-## Featured Maps and Applications
-
-Content coming soon.
