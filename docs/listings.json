@@ -15,14 +15,20 @@
     ]
   },
   {
-    "listing": "/outreach.html",
+    "listing": "/geospatial-portfolio.html",
     "items": [
-      "/projects/outreach/tnga-emr-storymaps.html",
-      "/projects/outreach/decoding-part-107.html",
-      "/projects/outreach/mega-bitess-academy.html",
-      "/projects/outreach/tga-educator-geospatial-workshops.html",
-      "/projects/outreach/mythical-cartography.html",
-      "/projects/outreach/neh-summer-2022-workshop.html"
+      "/projects/geospatial/westview-geospatial-products.html",
+      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
+      "/projects/geospatial/tga-open-data-hub.html",
+      "/projects/geospatial/choose-your-truth.html",
+      "/projects/geospatial/data-classification-in-mapping.html",
+      "/projects/geospatial/opioids-in-tennessee.html"
+    ]
+  },
+  {
+    "listing": "/community-projects.html",
+    "items": [
+      "/projects/community/westview-cemeteries.html"
     ]
   },
   {
@@ -53,25 +59,20 @@
       "/projects/outreach/neh-summer-2022-workshop.html",
       "/projects/geospatial/choose-your-truth.html",
       "/projects/geospatial/data-classification-in-mapping.html",
+      "/projects/service/tngic-professional-service.html",
       "/projects/service/gist-program-leadership.html",
       "/projects/geospatial/opioids-in-tennessee.html"
     ]
   },
   {
-    "listing": "/community-projects.html",
+    "listing": "/outreach.html",
     "items": [
-      "/projects/community/westview-cemeteries.html"
-    ]
-  },
-  {
-    "listing": "/geospatial-portfolio.html",
-    "items": [
-      "/projects/geospatial/westview-geospatial-products.html",
-      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
-      "/projects/geospatial/tga-open-data-hub.html",
-      "/projects/geospatial/choose-your-truth.html",
-      "/projects/geospatial/data-classification-in-mapping.html",
-      "/projects/geospatial/opioids-in-tennessee.html"
+      "/projects/outreach/tnga-emr-storymaps.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/outreach/mega-bitess-academy.html",
+      "/projects/outreach/tga-educator-geospatial-workshops.html",
+      "/projects/outreach/mythical-cartography.html",
+      "/projects/outreach/neh-summer-2022-workshop.html"
     ]
   },
   {
@@ -80,6 +81,7 @@
       "/projects/service/tngic-education-outreach.html",
       "/projects/service/tn-arcgis-online-mapping-contest.html",
       "/projects/service/career-mingle-alumni-engagement.html",
+      "/projects/service/tngic-professional-service.html",
       "/projects/service/gist-program-leadership.html"
     ]
   }
