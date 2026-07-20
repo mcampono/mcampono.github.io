@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-01-01">
+<meta name="description" content="A community GIS project using drone-collected LiDAR to create high-resolution topographic products for Rockwood Forest Trails in Rockwood, Tennessee.">
 
-<title>Community GIS Projects – Michael Camponovo</title>
+<title>Rockwood Forest LiDAR – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing-projects'] = new List('listing-listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Michael Camponovo</span>
     </a>
   </div>
@@ -152,43 +94,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
+    <a class="nav-link" href="../../outreach.html"> 
 <span class="menu-text">Workshops &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./community-projects.html" aria-current="page"> 
+    <a class="nav-link" href="../../community-projects.html"> 
 <span class="menu-text">Community GIS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./geospatial-portfolio.html"> 
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
 <span class="menu-text">Geospatial Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentoring.html"> 
+    <a class="nav-link" href="../../mentoring.html"> 
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./service.html"> 
+    <a class="nav-link" href="../../service.html"> 
 <span class="menu-text">Service</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recognition.html"> 
+    <a class="nav-link" href="../../recognition.html"> 
 <span class="menu-text">Awards &amp; Recognition</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV / Contact</span></a>
   </li>  
 </ul>
@@ -207,26 +149,48 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-areas" id="toc-project-areas" class="nav-link active" data-scroll-target="#project-areas">Project Areas</a></li>
-  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
-  <li><a href="#selected-projects" id="toc-selected-projects" class="nav-link" data-scroll-target="#selected-projects">Selected Projects</a></li>
-  <li><a href="#project-deliverables" id="toc-project-deliverables" class="nav-link" data-scroll-target="#project-deliverables">Project Deliverables</a></li>
+  <li><a href="#community-context" id="toc-community-context" class="nav-link active" data-scroll-target="#community-context">Community Context</a></li>
+  <li><a href="#project-role" id="toc-project-role" class="nav-link" data-scroll-target="#project-role">Project Role</a></li>
+  <li><a href="#methods-and-tools" id="toc-methods-and-tools" class="nav-link" data-scroll-target="#methods-and-tools">Methods and Tools</a></li>
+  <li><a href="#deliverables" id="toc-deliverables" class="nav-link" data-scroll-target="#deliverables">Deliverables</a></li>
+  <li><a href="#community-gis-significance" id="toc-community-gis-significance" class="nav-link" data-scroll-target="#community-gis-significance">Community GIS Significance</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Y2FtcHVzJTIwR0lT">campus GIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaXR5JTIwR0lT">community GIS <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q29zdGElMjBSaWNh">Costa Rica <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZHJvbmUlMjBpbnNwZWN0aW9u">drone inspection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWFzdCUyMFRlbm5lc3NlZQ==">East Tennessee <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZW52aXJvbm1lbnRhbCUyMG1vbml0b3Jpbmc=">environmental monitoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmFjaWxpdGllcw==">facilities <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R0VPRyUyMDQyMA==">GEOG 420 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWMlMjBsYW5kc2NhcGVz">historic landscapes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24=">historic preservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW5mcmFzdHJ1Y3R1cmU=">infrastructure <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGlkYXI=">lidar <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGlEQVI=">LiDAR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVtb3RlJTIwc2Vuc2luZw==">remote sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Um9ja3dvb2Q=">Rockwood <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZGVudCUyMGVuZ2FnZW1lbnQ=">student engagement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZGVudCUyMGZpZWxkd29yaw==">student fieldwork <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZHklMjBhYnJvYWQ=">study abroad <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dG9wb2dyYXBoeQ==">topography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dHJhaWxz">trails <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUFT">UAS <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VUFW">UAV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VXZpdGE=">Uvita <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmlkZW8=">video <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Community GIS Projects</h1>
-</div>
+<h1 class="title">Rockwood Forest LiDAR</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">community GIS</div>
+    <div class="quarto-category">UAS</div>
+    <div class="quarto-category">LiDAR</div>
+    <div class="quarto-category">topography</div>
+    <div class="quarto-category">historic landscapes</div>
+    <div class="quarto-category">trails</div>
+    <div class="quarto-category">Rockwood</div>
+    <div class="quarto-category">East Tennessee</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    A community GIS project using drone-collected LiDAR to create high-resolution topographic products for Rockwood Forest Trails in Rockwood, Tennessee.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 1, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -236,192 +200,55 @@ window.Quarto = {
 </header>
 
 
-<p>My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.</p>
-<p>Many of these projects also serve as learning opportunities for students. They provide a way to connect technical GIS skills with professional expectations, partner communication, project management, data limitations, and public-facing deliverables.</p>
-<section id="project-areas" class="level2">
-<h2 class="anchored" data-anchor-id="project-areas">Project Areas</h2>
+<p>The <strong>Rockwood Forest LiDAR</strong> project supported the City of Rockwood and the East Tennessee Development District by creating high-resolution topographic products for Rockwood Forest Trails in Rockwood, Tennessee.</p>
+<p>Rockwood Forest is a densely vegetated, city-owned landscape that includes hiking and biking trails, steep terrain, and historic features connected to mining, railroads, community development, and the historic Walton Road. The forest setting makes many landscape features difficult to see from the ground or through standard aerial imagery, making LiDAR a valuable tool for understanding the terrain beneath the canopy.</p>
+<section id="community-context" class="level2">
+<h2 class="anchored" data-anchor-id="community-context">Community Context</h2>
+<p>The City of Rockwood owns forested land that contains hiking and biking trails as well as cultural and historical features, including abandoned mines, abandoned railroad grades, abandoned building sites, and the historic Walton Road.</p>
+<p>The City of Rockwood describes Rockwood Forest Trails as a place where history, conservation, and community intersect. The trail system includes more than four miles of trail and interpretive kiosks focused on Walton Road, local schools, iron and coal mining, and community life. <a href="https://cityofrockwood.com/hike-through-history-on-rockwood-forest-trails">Learn more about Rockwood Forest Trails</a>.</p>
+</section>
+<section id="project-role" class="level2">
+<h2 class="anchored" data-anchor-id="project-role">Project Role</h2>
+<p>My role included:</p>
 <ul>
-<li><strong>Historic Preservation and Cultural Landscapes:</strong> Mapping and documenting cemeteries, historic sites, and community landscapes.</li>
-<li><strong>Environmental and Conservation Mapping:</strong> Supporting conservation, land management, trail planning, and natural-resource questions.</li>
-<li><strong>Public Infrastructure and Facilities:</strong> Using GIS and UAV data to support inspection, documentation, planning, and communication.</li>
-<li><strong>Community Partner Support:</strong> Developing maps, analyses, and geospatial products for organizations with specific applied needs.</li>
-<li><strong>Student-Engaged Applied GIS:</strong> Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom.</li>
+<li>visual observer support during UAS operations,</li>
+<li>ground control collection,</li>
+<li>project planning,</li>
+<li>outreach and communication with project partners.</li>
 </ul>
+<p>Tim Kane, GIS Lab Manager, served as Remote Pilot in Command and completed the LiDAR processing and topographic product development.</p>
+<p>Special thanks to <strong>Tom Carson</strong> and <strong>Steve Scarborough</strong>, historians and community advocates, for their knowledge, guidance, and commitment to Rockwood Forest.</p>
 </section>
-<section id="approach" class="level2">
-<h2 class="anchored" data-anchor-id="approach">Approach</h2>
-<p>Community GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.</p>
-<p>I try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions.</p>
+<section id="methods-and-tools" class="level2">
+<h2 class="anchored" data-anchor-id="methods-and-tools">Methods and Tools</h2>
+<p>The project used a high-resolution UAS LiDAR workflow to document the landscape and generate topographic products.</p>
+<p><strong>Tools and equipment included:</strong></p>
+<ul>
+<li>Inspired Flight 1200A heavy-lift UAS,</li>
+<li>GeoCue TrueView LiDAR sensor,</li>
+<li>Emlid RTK GNSS receivers,</li>
+<li>ground control targets,</li>
+<li>LP360,</li>
+<li>ArcGIS Pro.</li>
+</ul>
+<p>The team collected high-density LiDAR data using the Inspired Flight 1200A and GeoCue TrueView sensor. Ground control points were collected with Emlid GNSS receivers and targets. The raw LiDAR data were processed in LP360, then ArcGIS Pro was used to process the point cloud and generate topographic products.</p>
 </section>
-<section id="selected-projects" class="level2">
-<h2 class="anchored" data-anchor-id="selected-projects">Selected Projects</h2>
-<p>The project pages below highlight selected community-engaged GIS, UAV, mapping, remote sensing, and spatial analysis projects developed with partners, students, colleagues, and public audiences.</p>
-<div id="listing-listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDVUFWJTJDbGlkYXIlMkNoaXN0b3JpYyUyMHByZXNlcnZhdGlvbiUyQ3N0dWRlbnQlMjBlbmdhZ2VtZW50" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1782753520632" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
-<div class="thumbnail"><a href="./projects/community/westview-cemeteries.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/westview-cemeteries.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/westview-cemeteries.html" class="no-external">Westview Historic Cemeteries Mapping Project</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFW'); return false;">UAV</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGlkYXI='); return false;">lidar</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24='); return false;">historic preservation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZGVudCUyMGVuZ2FnZW1lbnQ='); return false;">student engagement</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/westview-cemeteries.html" class="no-external">
-<p>A community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/westview-cemeteries.html" class="no-external">
-<div class="listing-date">
-Apr 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDc3R1ZHklMjBhYnJvYWQlMkNDb3N0YSUyMFJpY2ElMkNVdml0YSUyQ0dFT0clMjA0MjAlMkNlbnZpcm9ubWVudGFsJTIwbW9uaXRvcmluZyUyQ3JlbW90ZSUyMHNlbnNpbmclMkNzdHVkZW50JTIwZmllbGR3b3Jr" data-listing-date-sort="1740805200000" data-listing-file-modified-sort="1784579094565" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="525">
-<div class="thumbnail"><a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/undergraduate-research-presentation-mentoring.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">GIS in the Community in Uvita, Costa Rica</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZHklMjBhYnJvYWQ='); return false;">study abroad</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29zdGElMjBSaWNh'); return false;">Costa Rica</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VXZpdGE='); return false;">Uvita</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0VPRyUyMDQyMA=='); return false;">GEOG 420</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZW52aXJvbm1lbnRhbCUyMG1vbml0b3Jpbmc='); return false;">environmental monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVtb3RlJTIwc2Vuc2luZw=='); return false;">remote sensing</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZGVudCUyMGZpZWxkd29yaw=='); return false;">student fieldwork</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">
-<p>A community-engaged study abroad project where GEOG 420 students collected, analyzed, and presented geospatial and environmental data for community stakeholders in Uvita, Costa Rica.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">
-<div class="listing-date">
-Mar 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDVUFTJTJDTGlEQVIlMkN0b3BvZ3JhcGh5JTJDaGlzdG9yaWMlMjBsYW5kc2NhcGVzJTJDdHJhaWxzJTJDUm9ja3dvb2QlMkNFYXN0JTIwVGVubmVzc2Vl" data-listing-date-sort="1735707600000" data-listing-file-modified-sort="1784578684423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="456">
-<div class="thumbnail"><a href="./projects/community/rockwood-forest-lidar.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/rockwood-lidar.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/rockwood-forest-lidar.html" class="no-external">Rockwood Forest LiDAR</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFT'); return false;">UAS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGlEQVI='); return false;">LiDAR</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dG9wb2dyYXBoeQ=='); return false;">topography</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWMlMjBsYW5kc2NhcGVz'); return false;">historic landscapes</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dHJhaWxz'); return false;">trails</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Um9ja3dvb2Q='); return false;">Rockwood</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWFzdCUyMFRlbm5lc3NlZQ=='); return false;">East Tennessee</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/rockwood-forest-lidar.html" class="no-external">
-<p>A community GIS project using drone-collected LiDAR to create high-resolution topographic products for Rockwood Forest Trails in Rockwood, Tennessee.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/rockwood-forest-lidar.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDVUFTJTJDZHJvbmUlMjBpbnNwZWN0aW9uJTJDaW5mcmFzdHJ1Y3R1cmUlMkNjYW1wdXMlMjBHSVMlMkNmYWNpbGl0aWVzJTJDdmlkZW8=" data-listing-date-sort="1735707600000" data-listing-file-modified-sort="1784578741409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
-<div class="thumbnail"><a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/campus-community-partnerships.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">UAV Drone Utility Inspection</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFT'); return false;">UAS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZHJvbmUlMjBpbnNwZWN0aW9u'); return false;">drone inspection</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW5mcmFzdHJ1Y3R1cmU='); return false;">infrastructure</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FtcHVzJTIwR0lT'); return false;">campus GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZmFjaWxpdGllcw=='); return false;">facilities</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dmlkZW8='); return false;">video</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">
-<p>A campus infrastructure inspection project using UAS imagery and video to document fiber optic cable damage over Third Creek for UTK Facilities Services.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="deliverables" class="level2">
+<h2 class="anchored" data-anchor-id="deliverables">Deliverables</h2>
+<p>The project produced a series of topographic products derived from drone-collected LiDAR, including:</p>
+<ul>
+<li>bare-earth digital elevation model,</li>
+<li>multi-directional hillshade,</li>
+<li>slope,</li>
+<li>aspect,</li>
+<li>contour lines.</li>
+</ul>
+<p>These products help reveal terrain patterns that are difficult to interpret in a densely vegetated forest.</p>
 </section>
-<section id="project-deliverables" class="level2">
-<h2 class="anchored" data-anchor-id="project-deliverables">Project Deliverables</h2>
-<p>Content coming soon.</p>
-
+<section id="community-gis-significance" class="level2">
+<h2 class="anchored" data-anchor-id="community-gis-significance">Community GIS Significance</h2>
+<p>This project demonstrates how UAS LiDAR can support community planning, recreation, and historic landscape interpretation. In places like Rockwood Forest, the most important features are not always visible in standard imagery or from the trail surface. High-resolution LiDAR can help reveal subtle topographic patterns, old transportation corridors, mining-related landforms, and other features beneath the canopy.</p>
+<p>The project also reflects the value of partnerships between local governments, regional planning organizations, historians, community advocates, and university geospatial professionals. By combining local knowledge with high-resolution geospatial data, the project created products that can support trail planning, interpretation, historic preservation, and long-term stewardship of Rockwood Forest.</p>
 
 
 </section>

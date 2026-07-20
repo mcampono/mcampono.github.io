@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-03-01">
+<meta name="description" content="A community-engaged study abroad project where GEOG 420 students collected, analyzed, and presented geospatial and environmental data for community stakeholders in Uvita, Costa Rica.">
 
-<title>Community GIS Projects – Michael Camponovo</title>
+<title>GIS in the Community in Uvita, Costa Rica – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing-projects .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing-projects'] = new List('listing-listing-projects', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -141,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Michael Camponovo</span>
     </a>
   </div>
@@ -152,43 +94,43 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./outreach.html"> 
+    <a class="nav-link" href="../../outreach.html"> 
 <span class="menu-text">Workshops &amp; Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./community-projects.html" aria-current="page"> 
+    <a class="nav-link" href="../../community-projects.html"> 
 <span class="menu-text">Community GIS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./geospatial-portfolio.html"> 
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
 <span class="menu-text">Geospatial Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentoring.html"> 
+    <a class="nav-link" href="../../mentoring.html"> 
 <span class="menu-text">Mentoring</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./service.html"> 
+    <a class="nav-link" href="../../service.html"> 
 <span class="menu-text">Service</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recognition.html"> 
+    <a class="nav-link" href="../../recognition.html"> 
 <span class="menu-text">Awards &amp; Recognition</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV / Contact</span></a>
   </li>  
 </ul>
@@ -207,26 +149,50 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-areas" id="toc-project-areas" class="nav-link active" data-scroll-target="#project-areas">Project Areas</a></li>
-  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
-  <li><a href="#selected-projects" id="toc-selected-projects" class="nav-link" data-scroll-target="#selected-projects">Selected Projects</a></li>
-  <li><a href="#project-deliverables" id="toc-project-deliverables" class="nav-link" data-scroll-target="#project-deliverables">Project Deliverables</a></li>
+  <li><a href="#community-context" id="toc-community-context" class="nav-link active" data-scroll-target="#community-context">Community Context</a></li>
+  <li><a href="#project-planning-and-role" id="toc-project-planning-and-role" class="nav-link" data-scroll-target="#project-planning-and-role">Project Planning and Role</a></li>
+  <li><a href="#student-role" id="toc-student-role" class="nav-link" data-scroll-target="#student-role">Student Role</a></li>
+  <li><a href="#methods-and-tools" id="toc-methods-and-tools" class="nav-link" data-scroll-target="#methods-and-tools">Methods and Tools</a></li>
+  <li><a href="#deliverables" id="toc-deliverables" class="nav-link" data-scroll-target="#deliverables">Deliverables</a></li>
+  <li><a href="#community-gis-significance" id="toc-community-gis-significance" class="nav-link" data-scroll-target="#community-gis-significance">Community GIS Significance</a></li>
+  <li><a href="#external-recognition" id="toc-external-recognition" class="nav-link" data-scroll-target="#external-recognition">External Recognition</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Y2FtcHVzJTIwR0lT">campus GIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaXR5JTIwR0lT">community GIS <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q29zdGElMjBSaWNh">Costa Rica <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZHJvbmUlMjBpbnNwZWN0aW9u">drone inspection <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWFzdCUyMFRlbm5lc3NlZQ==">East Tennessee <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZW52aXJvbm1lbnRhbCUyMG1vbml0b3Jpbmc=">environmental monitoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmFjaWxpdGllcw==">facilities <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R0VPRyUyMDQyMA==">GEOG 420 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWMlMjBsYW5kc2NhcGVz">historic landscapes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24=">historic preservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW5mcmFzdHJ1Y3R1cmU=">infrastructure <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bGlkYXI=">lidar <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGlEQVI=">LiDAR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVtb3RlJTIwc2Vuc2luZw==">remote sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Um9ja3dvb2Q=">Rockwood <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZGVudCUyMGVuZ2FnZW1lbnQ=">student engagement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZGVudCUyMGZpZWxkd29yaw==">student fieldwork <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZHklMjBhYnJvYWQ=">study abroad <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dG9wb2dyYXBoeQ==">topography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dHJhaWxz">trails <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUFT">UAS <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VUFW">UAV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VXZpdGE=">Uvita <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmlkZW8=">video <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Community GIS Projects</h1>
-</div>
+<h1 class="title">GIS in the Community in Uvita, Costa Rica</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">community GIS</div>
+    <div class="quarto-category">study abroad</div>
+    <div class="quarto-category">Costa Rica</div>
+    <div class="quarto-category">Uvita</div>
+    <div class="quarto-category">GEOG 420</div>
+    <div class="quarto-category">environmental monitoring</div>
+    <div class="quarto-category">remote sensing</div>
+    <div class="quarto-category">student fieldwork</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    A community-engaged study abroad project where GEOG 420 students collected, analyzed, and presented geospatial and environmental data for community stakeholders in Uvita, Costa Rica.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page-left">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 1, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -236,192 +202,76 @@ window.Quarto = {
 </header>
 
 
-<p>My community-engaged GIS work focuses on using geospatial tools to support partner organizations, public-facing projects, applied research, and student learning. These projects often combine mapping, spatial analysis, UAV data collection, remote sensing, cartography, and communication with real-world questions and community needs.</p>
-<p>Many of these projects also serve as learning opportunities for students. They provide a way to connect technical GIS skills with professional expectations, partner communication, project management, data limitations, and public-facing deliverables.</p>
-<section id="project-areas" class="level2">
-<h2 class="anchored" data-anchor-id="project-areas">Project Areas</h2>
+<p><strong>GIS in the Community in Uvita, Costa Rica</strong> was a community-engaged study abroad project connected to <strong>GEOG 420: GIS in the Community</strong>.</p>
+<p>The project partnered with <strong>GISetc</strong>, a nonprofit GIS education organization, and community stakeholders in Uvita, Costa Rica. Undergraduate students collected data, processed data, created final deliverables, and presented their findings to community stakeholders at the end of the study abroad experience.</p>
+<section id="community-context" class="level2">
+<h2 class="anchored" data-anchor-id="community-context">Community Context</h2>
+<p>Uvita is a small but rapidly growing community experiencing pressure from tourism, development, and environmental change. The same natural resources that attract visitors, coastal landscapes, forests, water resources, and coral reefs, are also vulnerable to the impacts of development, deforestation, water quality degradation, freshwater stress, and reef decline.</p>
+<p>The project gave students an opportunity to use GIS, remote sensing, field data collection, and community engagement to investigate issues identified by community partners.</p>
+</section>
+<section id="project-planning-and-role" class="level2">
+<h2 class="anchored" data-anchor-id="project-planning-and-role">Project Planning and Role</h2>
+<p>This study abroad experience required more than a year of planning, including stakeholder coordination, fundraising, student recruitment, pre-mission planning, equipment preparation, and community outreach.</p>
+<p>My role included:</p>
 <ul>
-<li><strong>Historic Preservation and Cultural Landscapes:</strong> Mapping and documenting cemeteries, historic sites, and community landscapes.</li>
-<li><strong>Environmental and Conservation Mapping:</strong> Supporting conservation, land management, trail planning, and natural-resource questions.</li>
-<li><strong>Public Infrastructure and Facilities:</strong> Using GIS and UAV data to support inspection, documentation, planning, and communication.</li>
-<li><strong>Community Partner Support:</strong> Developing maps, analyses, and geospatial products for organizations with specific applied needs.</li>
-<li><strong>Student-Engaged Applied GIS:</strong> Creating opportunities for students to participate in meaningful geospatial projects beyond the classroom.</li>
+<li>trip organization,</li>
+<li>project leadership,</li>
+<li>community outreach,</li>
+<li>equipment planning and support,</li>
+<li>supporting student fieldwork,</li>
+<li>helping students connect geospatial methods to community-identified needs.</li>
+</ul>
+<p>The University of Tennessee College of Arts and Sciences wrote an article about the trip featuring quotes from me and GIS Lab Manager Tim Kane. We helped ensure students had the drones, sensors, cameras, and other equipment needed for data collection. <a href="https://artsci.utk.edu/students-geographic-data-aids-costa-rican-village/">Read the article</a>.</p>
+</section>
+<section id="student-role" class="level2">
+<h2 class="anchored" data-anchor-id="student-role">Student Role</h2>
+<p>Undergraduate students were central to the project. Students collected the data, processed the data, created the final deliverables, and presented the results to community stakeholders.</p>
+<p>Student project areas included:</p>
+<ul>
+<li>remotely sensed analysis of coastal vegetation retreat,</li>
+<li>water quality and temperature analysis related to coral reef health,</li>
+<li>bathymetric data collection and coral reef mapping,</li>
+<li>air and water quality monitoring,</li>
+<li>tourism and development information,</li>
+<li>environmental and urban planning analysis.</li>
 </ul>
 </section>
-<section id="approach" class="level2">
-<h2 class="anchored" data-anchor-id="approach">Approach</h2>
-<p>Community GIS projects require more than technical analysis. A successful project depends on understanding the partner’s question, identifying appropriate data, communicating limitations, and producing deliverables that are useful to the intended audience.</p>
-<p>I try to approach these projects as collaborative problem-solving efforts. The goal is not simply to create a map or dataset, but to help partners better understand places, patterns, conditions, and decisions.</p>
+<section id="methods-and-tools" class="level2">
+<h2 class="anchored" data-anchor-id="methods-and-tools">Methods and Tools</h2>
+<p>Students used a wide range of geospatial, environmental, and field data collection tools.</p>
+<p><strong>GIS and analysis tools included:</strong></p>
+<ul>
+<li>Survey123,</li>
+<li>ArcGIS Online,</li>
+<li>Google Earth Engine,</li>
+<li>ReefMaster,</li>
+<li>remote sensing workflows,</li>
+<li>drone imagery workflows.</li>
+</ul>
+<p><strong>Field data and equipment included:</strong></p>
+<ul>
+<li>PASCO Scientific sensors for air and water quality,</li>
+<li>Landsat imagery,</li>
+<li>Sentinel imagery,</li>
+<li>bathymetric data collected with a Humminbird fish finder,</li>
+<li>DJI drone imagery,</li>
+<li>socioeconomic and tourism data.</li>
+</ul>
 </section>
-<section id="selected-projects" class="level2">
-<h2 class="anchored" data-anchor-id="selected-projects">Selected Projects</h2>
-<p>The project pages below highlight selected community-engaged GIS, UAV, mapping, remote sensing, and spatial analysis projects developed with partners, students, colleagues, and public audiences.</p>
-<div id="listing-listing-projects" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDVUFWJTJDbGlkYXIlMkNoaXN0b3JpYyUyMHByZXNlcnZhdGlvbiUyQ3N0dWRlbnQlMjBlbmdhZ2VtZW50" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1782753520632" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
-<div class="thumbnail"><a href="./projects/community/westview-cemeteries.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/westview-cemeteries.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/westview-cemeteries.html" class="no-external">Westview Historic Cemeteries Mapping Project</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFW'); return false;">UAV</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGlkYXI='); return false;">lidar</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWMlMjBwcmVzZXJ2YXRpb24='); return false;">historic preservation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZGVudCUyMGVuZ2FnZW1lbnQ='); return false;">student engagement</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/westview-cemeteries.html" class="no-external">
-<p>A community-engaged geospatial project using UAV imagery, lidar, mapping, and student participation to support documentation of historic cemetery landscapes.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/westview-cemeteries.html" class="no-external">
-<div class="listing-date">
-Apr 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDc3R1ZHklMjBhYnJvYWQlMkNDb3N0YSUyMFJpY2ElMkNVdml0YSUyQ0dFT0clMjA0MjAlMkNlbnZpcm9ubWVudGFsJTIwbW9uaXRvcmluZyUyQ3JlbW90ZSUyMHNlbnNpbmclMkNzdHVkZW50JTIwZmllbGR3b3Jr" data-listing-date-sort="1740805200000" data-listing-file-modified-sort="1784579094565" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="525">
-<div class="thumbnail"><a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/undergraduate-research-presentation-mentoring.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">GIS in the Community in Uvita, Costa Rica</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZHklMjBhYnJvYWQ='); return false;">study abroad</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29zdGElMjBSaWNh'); return false;">Costa Rica</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VXZpdGE='); return false;">Uvita</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R0VPRyUyMDQyMA=='); return false;">GEOG 420</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZW52aXJvbm1lbnRhbCUyMG1vbml0b3Jpbmc='); return false;">environmental monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVtb3RlJTIwc2Vuc2luZw=='); return false;">remote sensing</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZGVudCUyMGZpZWxkd29yaw=='); return false;">student fieldwork</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">
-<p>A community-engaged study abroad project where GEOG 420 students collected, analyzed, and presented geospatial and environmental data for community stakeholders in Uvita, Costa Rica.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/gis-in-the-community-uvita-costa-rica.html" class="no-external">
-<div class="listing-date">
-Mar 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDVUFTJTJDTGlEQVIlMkN0b3BvZ3JhcGh5JTJDaGlzdG9yaWMlMjBsYW5kc2NhcGVzJTJDdHJhaWxzJTJDUm9ja3dvb2QlMkNFYXN0JTIwVGVubmVzc2Vl" data-listing-date-sort="1735707600000" data-listing-file-modified-sort="1784578684423" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="456">
-<div class="thumbnail"><a href="./projects/community/rockwood-forest-lidar.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/rockwood-lidar.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/rockwood-forest-lidar.html" class="no-external">Rockwood Forest LiDAR</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFT'); return false;">UAS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGlEQVI='); return false;">LiDAR</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dG9wb2dyYXBoeQ=='); return false;">topography</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWMlMjBsYW5kc2NhcGVz'); return false;">historic landscapes</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dHJhaWxz'); return false;">trails</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Um9ja3dvb2Q='); return false;">Rockwood</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWFzdCUyMFRlbm5lc3NlZQ=='); return false;">East Tennessee</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/rockwood-forest-lidar.html" class="no-external">
-<p>A community GIS project using drone-collected LiDAR to create high-resolution topographic products for Rockwood Forest Trails in Rockwood, Tennessee.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/rockwood-forest-lidar.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Y29tbXVuaXR5JTIwR0lTJTJDVUFTJTJDZHJvbmUlMjBpbnNwZWN0aW9uJTJDaW5mcmFzdHJ1Y3R1cmUlMkNjYW1wdXMlMjBHSVMlMkNmYWNpbGl0aWVzJTJDdmlkZW8=" data-listing-date-sort="1735707600000" data-listing-file-modified-sort="1784578741409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
-<div class="thumbnail"><a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">
-
-<img loading="lazy" src="./assets/images/thumbnails/campus-community-partnerships.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">UAV Drone Utility Inspection</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaXR5JTIwR0lT'); return false;">community GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUFT'); return false;">UAS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZHJvbmUlMjBpbnNwZWN0aW9u'); return false;">drone inspection</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aW5mcmFzdHJ1Y3R1cmU='); return false;">infrastructure</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2FtcHVzJTIwR0lT'); return false;">campus GIS</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZmFjaWxpdGllcw=='); return false;">facilities</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dmlkZW8='); return false;">video</div>
-
-</div>
-<div class="delink listing-description"><a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">
-<p>A campus infrastructure inspection project using UAS imagery and video to document fiber optic cable damage over Third Creek for UTK Facilities Services.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projects/community/uav-drone-utility-inspection.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<section id="deliverables" class="level2">
+<h2 class="anchored" data-anchor-id="deliverables">Deliverables</h2>
+<p>Students created multiple products and deliverables for community stakeholders, including maps, data summaries, geospatial analyses, environmental datasets, and presentations.</p>
+<p>The work included coastal vegetation analysis, reef-related water temperature and turbidity analysis, bathymetric mapping, air and water quality data collection, tourism information, and development-related spatial analysis.</p>
+<p>At the end of the trip, students presented their findings to community stakeholders, including local government officials, nonprofit organizations, and business owners.</p>
 </section>
-<section id="project-deliverables" class="level2">
-<h2 class="anchored" data-anchor-id="project-deliverables">Project Deliverables</h2>
-<p>Content coming soon.</p>
-
+<section id="community-gis-significance" class="level2">
+<h2 class="anchored" data-anchor-id="community-gis-significance">Community GIS Significance</h2>
+<p>This project demonstrates the power of community GIS as a service-learning and applied research model. Students used geospatial tools to investigate real environmental and planning concerns in partnership with community stakeholders.</p>
+<p>The project also shows the value of combining local knowledge, student fieldwork, remote sensing, environmental sensors, UAS imagery, and public presentation. Rather than treating GIS as a purely technical exercise, students used geospatial data to support community conversations about sustainability, tourism, development, coral reef health, and environmental change.</p>
+</section>
+<section id="external-recognition" class="level2">
+<h2 class="anchored" data-anchor-id="external-recognition">External Recognition</h2>
+<p>The project was featured by the University of Tennessee College of Arts and Sciences in the article <a href="https://artsci.utk.edu/students-geographic-data-aids-costa-rican-village/">Students’ Geographic Data Aids Costa Rican Village</a>.</p>
 
 
 </section>

@@ -1,0 +1,85 @@
+---
+title: "GIS in the Community in Uvita, Costa Rica"
+description: "A community-engaged study abroad project where GEOG 420 students collected, analyzed, and presented geospatial and environmental data for community stakeholders in Uvita, Costa Rica."
+date: 2025-03-01
+categories: [community GIS, study abroad, Costa Rica, Uvita, GEOG 420, environmental monitoring, remote sensing, student fieldwork]
+image: ../../assets/images/thumbnails/undergraduate-research-presentation-mentoring.webp
+---
+
+**GIS in the Community in Uvita, Costa Rica** was a community-engaged study abroad project connected to **GEOG 420: GIS in the Community**.
+
+The project partnered with **GISetc**, a nonprofit GIS education organization, and community stakeholders in Uvita, Costa Rica. Undergraduate students collected data, processed data, created final deliverables, and presented their findings to community stakeholders at the end of the study abroad experience.
+
+## Community Context
+
+Uvita is a small but rapidly growing community experiencing pressure from tourism, development, and environmental change. The same natural resources that attract visitors, coastal landscapes, forests, water resources, and coral reefs, are also vulnerable to the impacts of development, deforestation, water quality degradation, freshwater stress, and reef decline.
+
+The project gave students an opportunity to use GIS, remote sensing, field data collection, and community engagement to investigate issues identified by community partners.
+
+## Project Planning and Role
+
+This study abroad experience required more than a year of planning, including stakeholder coordination, fundraising, student recruitment, pre-mission planning, equipment preparation, and community outreach.
+
+My role included:
+
+- trip organization,
+- project leadership,
+- community outreach,
+- equipment planning and support,
+- supporting student fieldwork,
+- helping students connect geospatial methods to community-identified needs.
+
+The University of Tennessee College of Arts and Sciences wrote an article about the trip featuring quotes from me and GIS Lab Manager Tim Kane. We helped ensure students had the drones, sensors, cameras, and other equipment needed for data collection. [Read the article](https://artsci.utk.edu/students-geographic-data-aids-costa-rican-village/).
+
+## Student Role
+
+Undergraduate students were central to the project. Students collected the data, processed the data, created the final deliverables, and presented the results to community stakeholders.
+
+Student project areas included:
+
+- remotely sensed analysis of coastal vegetation retreat,
+- water quality and temperature analysis related to coral reef health,
+- bathymetric data collection and coral reef mapping,
+- air and water quality monitoring,
+- tourism and development information,
+- environmental and urban planning analysis.
+
+## Methods and Tools
+
+Students used a wide range of geospatial, environmental, and field data collection tools.
+
+**GIS and analysis tools included:**
+
+- Survey123,
+- ArcGIS Online,
+- Google Earth Engine,
+- ReefMaster,
+- remote sensing workflows,
+- drone imagery workflows.
+
+**Field data and equipment included:**
+
+- PASCO Scientific sensors for air and water quality,
+- Landsat imagery,
+- Sentinel imagery,
+- bathymetric data collected with a Humminbird fish finder,
+- DJI drone imagery,
+- socioeconomic and tourism data.
+
+## Deliverables
+
+Students created multiple products and deliverables for community stakeholders, including maps, data summaries, geospatial analyses, environmental datasets, and presentations.
+
+The work included coastal vegetation analysis, reef-related water temperature and turbidity analysis, bathymetric mapping, air and water quality data collection, tourism information, and development-related spatial analysis.
+
+At the end of the trip, students presented their findings to community stakeholders, including local government officials, nonprofit organizations, and business owners.
+
+## Community GIS Significance
+
+This project demonstrates the power of community GIS as a service-learning and applied research model. Students used geospatial tools to investigate real environmental and planning concerns in partnership with community stakeholders.
+
+The project also shows the value of combining local knowledge, student fieldwork, remote sensing, environmental sensors, UAS imagery, and public presentation. Rather than treating GIS as a purely technical exercise, students used geospatial data to support community conversations about sustainability, tourism, development, coral reef health, and environmental change.
+
+## External Recognition
+
+The project was featured by the University of Tennessee College of Arts and Sciences in the article [Students’ Geographic Data Aids Costa Rican Village](https://artsci.utk.edu/students-geographic-data-aids-costa-rican-village/).

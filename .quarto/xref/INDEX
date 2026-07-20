@@ -133,5 +133,14 @@
   },
   "projects/mentoring/undergraduate-research-presentation-mentoring.qmd": {
     "undergraduate-research-presentation-mentoring.html": "a4a0fee6"
+  },
+  "projects/community/gis-in-the-community-uvita-costa-rica.qmd": {
+    "gis-in-the-community-uvita-costa-rica.html": "e4ff9391"
+  },
+  "projects/community/rockwood-forest-lidar.qmd": {
+    "rockwood-forest-lidar.html": "2539bfe0"
+  },
+  "projects/community/uav-drone-utility-inspection.qmd": {
+    "uav-drone-utility-inspection.html": "f3ee1f2c"
   }
 }

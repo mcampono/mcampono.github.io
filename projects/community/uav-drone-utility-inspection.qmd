@@ -1,0 +1,58 @@
+---
+title: "UAV Drone Utility Inspection"
+description: "A campus infrastructure inspection project using UAS imagery and video to document fiber optic cable damage over Third Creek for UTK Facilities Services."
+date: 2025-01-01
+categories: [community GIS, UAS, drone inspection, infrastructure, campus GIS, facilities, video]
+image: ../../assets/images/thumbnails/campus-community-partnerships.webp
+---
+
+The **UAV Drone Utility Inspection** project supported **UTK Facilities Services** by using drone imagery and video to inspect a fiber optic cable spanning Third Creek.
+
+The project provided visual documentation of damage to the cable so Facilities Services could better understand the extent of the problem and determine whether the full cable span needed to be replaced or whether targeted repairs would be sufficient.
+
+## Community Context
+
+UTK Facilities Services needed to assess damage to a fiber optic cable running over Third Creek. Squirrels had been chewing through the cable, but the damaged sections were difficult to inspect safely and efficiently from the ground.
+
+A UAS inspection provided a way to collect detailed photos and video of the cable without requiring personnel to physically access the span over the creek.
+
+## Project Role
+
+My role included:
+
+- visual observer support during UAS operations,
+- project planning,
+- outreach and communication with Facilities Services.
+
+Tim Kane, GIS Lab Manager, served as Remote Pilot in Command and completed the video editing.
+
+Special thanks to **Adam Trent** with **UTK Facilities Services** for coordinating the project and identifying the inspection need.
+
+## Methods and Tools
+
+The project used a small UAS inspection workflow to collect imagery and video of the damaged utility line.
+
+**Tools included:**
+
+- Parrot Anafi USA,
+- drone photography,
+- drone video collection,
+- DaVinci Resolve.
+
+The Parrot Anafi USA was used to collect digital photos and videos of the fiber optic cable. DaVinci Resolve was used to edit the inspection video and prepare the deliverable for Facilities Services.
+
+## Deliverables
+
+The project produced:
+
+- digital photos of the fiber optic cable,
+- video documentation of the damaged cable span,
+- edited video files for review by Facilities Services.
+
+These deliverables helped document how far the damage extended across the creek and supported decision-making about repair versus replacement.
+
+## Community GIS Significance
+
+This project demonstrates how UAS technology can support practical campus infrastructure work. Drone-based inspection can help document hard-to-reach assets, reduce unnecessary risk, and provide visual evidence for maintenance decisions.
+
+Although this was a small project, it reflects an important applied use of UAS: helping operational partners answer a specific question quickly and safely. In this case, drone imagery helped Facilities Services evaluate damage to critical campus infrastructure and plan the appropriate repair response.

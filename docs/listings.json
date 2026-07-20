@@ -15,14 +15,31 @@
     ]
   },
   {
-    "listing": "/outreach.html",
+    "listing": "/mentoring.html",
     "items": [
-      "/projects/outreach/tnga-emr-storymaps.html",
-      "/projects/outreach/decoding-part-107.html",
-      "/projects/outreach/mega-bitess-academy.html",
-      "/projects/outreach/tga-educator-geospatial-workshops.html",
-      "/projects/outreach/mythical-cartography.html",
-      "/projects/outreach/neh-summer-2022-workshop.html"
+      "/projects/mentoring/applied-student-project-mentoring.html",
+      "/projects/mentoring/career-coaching-professional-advising.html",
+      "/projects/mentoring/undergraduate-research-presentation-mentoring.html"
+    ]
+  },
+  {
+    "listing": "/geospatial-portfolio.html",
+    "items": [
+      "/projects/geospatial/westview-geospatial-products.html",
+      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
+      "/projects/geospatial/tga-open-data-hub.html",
+      "/projects/geospatial/choose-your-truth.html",
+      "/projects/geospatial/data-classification-in-mapping.html",
+      "/projects/geospatial/opioids-in-tennessee.html"
+    ]
+  },
+  {
+    "listing": "/community-projects.html",
+    "items": [
+      "/projects/community/westview-cemeteries.html",
+      "/projects/community/gis-in-the-community-uvita-costa-rica.html",
+      "/projects/community/rockwood-forest-lidar.html",
+      "/projects/community/uav-drone-utility-inspection.html"
     ]
   },
   {
@@ -36,6 +53,9 @@
       "/projects/teaching/introduction-to-uncrewed-aerial-systems.html",
       "/projects/community/westview-cemeteries.html",
       "/projects/geospatial/westview-geospatial-products.html",
+      "/projects/community/gis-in-the-community-uvita-costa-rica.html",
+      "/projects/community/rockwood-forest-lidar.html",
+      "/projects/community/uav-drone-utility-inspection.html",
       "/projects/service/career-mingle-alumni-engagement.html",
       "/projects/outreach/mega-bitess-academy.html",
       "/projects/outreach/tga-educator-geospatial-workshops.html",
@@ -61,28 +81,14 @@
     ]
   },
   {
-    "listing": "/community-projects.html",
+    "listing": "/outreach.html",
     "items": [
-      "/projects/community/westview-cemeteries.html"
-    ]
-  },
-  {
-    "listing": "/geospatial-portfolio.html",
-    "items": [
-      "/projects/geospatial/westview-geospatial-products.html",
-      "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
-      "/projects/geospatial/tga-open-data-hub.html",
-      "/projects/geospatial/choose-your-truth.html",
-      "/projects/geospatial/data-classification-in-mapping.html",
-      "/projects/geospatial/opioids-in-tennessee.html"
-    ]
-  },
-  {
-    "listing": "/mentoring.html",
-    "items": [
-      "/projects/mentoring/applied-student-project-mentoring.html",
-      "/projects/mentoring/career-coaching-professional-advising.html",
-      "/projects/mentoring/undergraduate-research-presentation-mentoring.html"
+      "/projects/outreach/tnga-emr-storymaps.html",
+      "/projects/outreach/decoding-part-107.html",
+      "/projects/outreach/mega-bitess-academy.html",
+      "/projects/outreach/tga-educator-geospatial-workshops.html",
+      "/projects/outreach/mythical-cartography.html",
+      "/projects/outreach/neh-summer-2022-workshop.html"
     ]
   },
   {

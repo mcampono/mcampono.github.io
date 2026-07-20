@@ -1,0 +1,63 @@
+---
+title: "Rockwood Forest LiDAR"
+description: "A community GIS project using drone-collected LiDAR to create high-resolution topographic products for Rockwood Forest Trails in Rockwood, Tennessee."
+date: 2025-01-01
+categories: [community GIS, UAS, LiDAR, topography, historic landscapes, trails, Rockwood, East Tennessee]
+image: ../../assets/images/thumbnails/rockwood-lidar.webp
+---
+
+The **Rockwood Forest LiDAR** project supported the City of Rockwood and the East Tennessee Development District by creating high-resolution topographic products for Rockwood Forest Trails in Rockwood, Tennessee.
+
+Rockwood Forest is a densely vegetated, city-owned landscape that includes hiking and biking trails, steep terrain, and historic features connected to mining, railroads, community development, and the historic Walton Road. The forest setting makes many landscape features difficult to see from the ground or through standard aerial imagery, making LiDAR a valuable tool for understanding the terrain beneath the canopy.
+
+## Community Context
+
+The City of Rockwood owns forested land that contains hiking and biking trails as well as cultural and historical features, including abandoned mines, abandoned railroad grades, abandoned building sites, and the historic Walton Road.
+
+The City of Rockwood describes Rockwood Forest Trails as a place where history, conservation, and community intersect. The trail system includes more than four miles of trail and interpretive kiosks focused on Walton Road, local schools, iron and coal mining, and community life. [Learn more about Rockwood Forest Trails](https://cityofrockwood.com/hike-through-history-on-rockwood-forest-trails).
+
+## Project Role
+
+My role included:
+
+- visual observer support during UAS operations,
+- ground control collection,
+- project planning,
+- outreach and communication with project partners.
+
+Tim Kane, GIS Lab Manager, served as Remote Pilot in Command and completed the LiDAR processing and topographic product development.
+
+Special thanks to **Tom Carson** and **Steve Scarborough**, historians and community advocates, for their knowledge, guidance, and commitment to Rockwood Forest.
+
+## Methods and Tools
+
+The project used a high-resolution UAS LiDAR workflow to document the landscape and generate topographic products.
+
+**Tools and equipment included:**
+
+- Inspired Flight 1200A heavy-lift UAS,
+- GeoCue TrueView LiDAR sensor,
+- Emlid RTK GNSS receivers,
+- ground control targets,
+- LP360,
+- ArcGIS Pro.
+
+The team collected high-density LiDAR data using the Inspired Flight 1200A and GeoCue TrueView sensor. Ground control points were collected with Emlid GNSS receivers and targets. The raw LiDAR data were processed in LP360, then ArcGIS Pro was used to process the point cloud and generate topographic products.
+
+## Deliverables
+
+The project produced a series of topographic products derived from drone-collected LiDAR, including:
+
+- bare-earth digital elevation model,
+- multi-directional hillshade,
+- slope,
+- aspect,
+- contour lines.
+
+These products help reveal terrain patterns that are difficult to interpret in a densely vegetated forest.
+
+## Community GIS Significance
+
+This project demonstrates how UAS LiDAR can support community planning, recreation, and historic landscape interpretation. In places like Rockwood Forest, the most important features are not always visible in standard imagery or from the trail surface. High-resolution LiDAR can help reveal subtle topographic patterns, old transportation corridors, mining-related landforms, and other features beneath the canopy.
+
+The project also reflects the value of partnerships between local governments, regional planning organizations, historians, community advocates, and university geospatial professionals. By combining local knowledge with high-resolution geospatial data, the project created products that can support trail planning, interpretation, historic preservation, and long-term stewardship of Rockwood Forest.
