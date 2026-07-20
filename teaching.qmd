@@ -26,16 +26,9 @@ I design courses and labs around realistic scenarios. Students are often asked t
 
 This approach helps students see GIS as a process rather than a button-clicking exercise. The goal is not simply to complete a tutorial, but to understand how geospatial analysis supports decision-making.
 
-## Related Teaching Examples
+## Selected Teaching Examples
 
-The examples below show how this applied lab-design approach appears across specific GEOG 311 and GEOG 314 teaching materials.
+The examples below include course spotlights, lab assignments, in-class skill-building activities, and instructor-created sample products developed for GIS, geovisualization, UAS, cartography, and spatial analysis courses.
 
-- [In-Class GIS Skill-Building Activities](../../projects/teaching/in-class-gis-skill-building.html)
-- [Exploring Urban Heat Island in Knox County, Tennessee](../../projects/teaching/knox-urban-heat-island.html)
-- [EV Charging Stations in Tennessee](../../projects/teaching/tn-ev-charging-stations.html)
-- [Exploring USPS Dog Bite Data](../../projects/teaching/usps-dog-bite-risk.html)
-- [Exploring Election Data with Thematic Maps](../../projects/teaching/election-thematic-mapping.html)
-- [Map Projection Poster](../../projects/teaching/map-projection-poster.html)
-- [Terrain and Raster Analysis Lab Sequence](../../projects/teaching/terrain-raster-analysis-lab-sequence.html)
-- [Public Safety Proximity Analysis](../../projects/teaching/public-safety-proximity-analysis.html)
-- [Introduction to Uncrewed Aerial Systems](../../projects/teaching/introduction-to-uncrewed-aerial-systems.html)
+::: {#listing-projects}
+:::

@@ -35,6 +35,16 @@ The goal is not only to complete a tutorial. The goal is to understand what the 
 
 This teaching approach connects directly to my broader work in geospatial education, professional development, community-engaged GIS, and student mentoring. It reflects the idea that GIS students need both technical competence and the ability to reason through complex spatial problems.
 
-## Related Materials
+## Related Teaching Examples
 
-Examples of selected labs, course materials, or public teaching resources will be added here after review.
+The examples below show how this applied lab-design approach appears across specific GEOG 311 and GEOG 314 teaching materials.
+
+- [In-Class GIS Skill-Building Activities](...)
+- [Exploring Urban Heat Island in Knox County, Tennessee](...)
+- [EV Charging Stations in Tennessee](...)
+- [Exploring USPS Dog Bite Data](...)
+- [Exploring Election Data with Thematic Maps](...)
+- [Map Projection Poster](...)
+- [Terrain and Raster Analysis Lab Sequence](...)
+- [Public Safety Proximity Analysis](...)
+- [Introduction to Uncrewed Aerial Systems](...)

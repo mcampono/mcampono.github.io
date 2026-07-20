@@ -33,9 +33,3 @@ The project pages below highlight selected professional service, leadership role
 ::: {#listing-projects}
 :::
 
-## Selected Service Examples
-
-The examples below highlight service across department leadership, student career development, statewide professional organizations, campus partnerships, communications, events, and geospatial infrastructure.
-
-::: {#listing-projects}
-:::

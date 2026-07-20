@@ -33,6 +33,3 @@ The project pages below highlight selected community-engaged GIS, UAV, mapping, 
 ::: {#listing-projects}
 :::
 
-## Project Deliverables
-
-Content coming soon.
