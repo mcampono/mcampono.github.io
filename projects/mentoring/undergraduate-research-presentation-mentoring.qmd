@@ -1,0 +1,75 @@
+---
+title: "Undergraduate Research and Presentation Mentoring"
+description: "Mentoring students as they develop research questions, create posters and presentations, and share geospatial work through campus and professional venues."
+date: 2024-01-01
+categories: [mentoring, undergraduate research, student presentations, posters, EUReCA, ASUREs, AURA, TNGIC, professional development]
+image: ../../assets/images/thumbnails/undergraduate-research-presentation-mentoring.webp
+---
+
+The **Undergraduate Research and Presentation Mentoring** page highlights my work helping students turn applied geospatial projects, class work, and independent research into public presentations, posters, and professional communication products.
+
+This mentoring helps students move beyond completing an assignment. Students learn how to frame a question, explain a workflow, design a poster, present results, and communicate the value of their work to academic, professional, and public audiences.
+
+## Mentoring Context
+
+Many students complete strong GIS projects in courses, internships, independent studies, and community-engaged work, but they often need support turning those projects into polished research presentations.
+
+My role is to help students identify what is worth sharing, clarify the research or applied question, organize their results, design visual materials, practice explaining their work, and prepare for presentation settings.
+
+## Presentation and Research Venues
+
+I support students preparing work for venues such as:
+
+- EUReCA,
+- ASUREs,
+- AURA,
+- TNGIC,
+- SEDAAG,
+- AAG,
+- class presentations,
+- community partner presentations,
+- undergraduate research showcases,
+- professional conferences.
+
+This support often includes both intellectual mentoring and practical help with poster design, printing, visual communication, and presentation preparation.
+
+## Mentoring Activities
+
+My undergraduate research and presentation mentoring includes helping students:
+
+- identify a research or applied project question,
+- turn class projects into presentation-ready work,
+- organize methods and results,
+- select effective maps, charts, screenshots, and visuals,
+- write clear poster text,
+- design conference posters,
+- prepare short oral presentations,
+- practice explaining GIS workflows to non-specialists,
+- anticipate questions from judges or audience members,
+- connect their work to future academic or professional goals.
+
+## Poster and Visual Communication Support
+
+A major part of this mentoring involves helping students communicate visually. GIS students often produce maps, dashboards, StoryMaps, and spatial analyses, but they still need help deciding what belongs on a poster or in a short presentation.
+
+I help students think through visual hierarchy, map clarity, captions, legends, methods diagrams, layout, and how to explain complex geospatial workflows in a way that makes sense to the audience.
+
+I also support the practical side of student presentation work by helping maintain the department plotter and printing student posters for research events, conferences, and class projects.
+
+## Student Development Goals
+
+This mentoring is designed to help students:
+
+- gain confidence presenting their work,
+- understand how to explain geospatial methods,
+- practice professional communication,
+- build research and presentation experience,
+- strengthen resumes and graduate school applications,
+- connect with professional communities,
+- see themselves as capable contributors to GIS and geography.
+
+## Mentoring Significance
+
+Undergraduate research and presentation mentoring helps students make the transition from completing coursework to participating in a broader professional and academic community.
+
+When students present their work, they practice explaining why their project matters, how they approached the problem, what they found, and what they learned. Those experiences help students build confidence, develop professional identities, and recognize the value of their geospatial skills beyond the classroom.

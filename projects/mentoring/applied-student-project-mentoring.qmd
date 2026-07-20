@@ -1,0 +1,79 @@
+---
+title: "Applied Student Project Mentoring"
+description: "Mentoring students through applied GIS, UAS, community-engaged, and environmental data projects that build technical skills, professional habits, and confidence."
+date: 2024-01-01
+categories: [mentoring, advising, student projects, community GIS, applied GIS, undergraduate students, professional development]
+image: ../../assets/images/thumbnails/applied-student-project-mentoring.webp
+---
+
+The **Applied Student Project Mentoring** page highlights my work supporting students as they move from coursework into applied geospatial projects, community-engaged work, field data collection, and professional deliverables.
+
+This mentoring focuses on helping students build both technical and soft skills: GIS workflows, data collection, project scoping, communication, teamwork, problem-solving, professionalism, and confidence working with real partners.
+
+## Mentoring Context
+
+Applied geospatial projects give students an opportunity to use what they have learned in class to solve real problems. These projects also require students to practice skills that are difficult to teach through traditional assignments alone, including communication with partners, managing ambiguity, documenting decisions, troubleshooting workflows, and presenting results to non-technical audiences.
+
+My role is often to help students understand the project need, break the work into manageable steps, identify appropriate tools, stay organized, communicate clearly, and turn technical work into useful deliverables.
+
+## Types of Projects
+
+I mentor students across a range of applied project types, including:
+
+- community GIS projects,
+- environmental monitoring projects,
+- UAS and field data collection projects,
+- web maps and dashboards,
+- StoryMaps and public-facing communication products,
+- geospatial data development,
+- partner-facing reports and presentations,
+- educational geospatial products.
+
+## Selected Examples
+
+Examples of applied student project mentoring include:
+
+- **3D Anaglyph Tennessee Education Project:** mentoring students developing 3D anaglyph elevation maps, 3D printed terrain products, and interactive educational geospatial resources for Tennessee classrooms.
+- **UTIA Tick Management Platform and Tools:** supervising undergraduate students developing geospatial tools and online resources connected to tick monitoring and medical entomology.
+- **Trail Access for Tennesseans:** supporting student work focused on trail access, spatial data, and public-facing geospatial communication.
+- **GEOG 420 GIS in the Community projects:** mentoring students as they work with community partners, collect and analyze data, create deliverables, and present results.
+- **UAS and field-based projects:** helping students connect drone imagery, RTK ground control, field data collection, and geospatial analysis to applied project goals.
+
+## Mentoring Approach
+
+My mentoring approach emphasizes scaffolding and professional growth. Students often begin with a technical task, but the broader goal is to help them understand how to think through a project from start to finish.
+
+This includes helping students:
+
+- define a project goal,
+- identify data needs,
+- select appropriate GIS tools,
+- organize project files,
+- document workflows,
+- troubleshoot technical problems,
+- communicate with partners,
+- create useful deliverables,
+- present results clearly,
+- reflect on what they learned.
+
+## Technical and Professional Skills
+
+Students develop technical skills such as GIS data management, web mapping, dashboard design, UAS data collection, remote sensing, spatial analysis, and cartographic communication.
+
+They also develop professional skills, including:
+
+- project planning,
+- teamwork,
+- communication,
+- meeting deadlines,
+- partner communication,
+- problem-solving,
+- public presentation,
+- professional writing,
+- confidence working with uncertainty.
+
+## Mentoring Significance
+
+This mentoring work reflects my belief that students learn GIS most deeply when they apply it to meaningful projects. Applied projects help students see that geospatial work is not just about tools or software; it is about using data, methods, and communication to help people understand places, solve problems, and make decisions.
+
+By mentoring students through real projects, I help them build portfolios, professional confidence, and experiences they can discuss in interviews, graduate school applications, conference presentations, and early-career opportunities.

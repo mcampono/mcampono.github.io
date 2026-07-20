@@ -124,5 +124,14 @@
   },
   "projects/service/campus-community-partnerships.qmd": {
     "campus-community-partnerships.html": "001608b3"
+  },
+  "projects/mentoring/applied-student-project-mentoring.qmd": {
+    "applied-student-project-mentoring.html": "46cdacf7"
+  },
+  "projects/mentoring/career-coaching-professional-advising.qmd": {
+    "career-coaching-professional-advising.html": "a3943f22"
+  },
+  "projects/mentoring/undergraduate-research-presentation-mentoring.qmd": {
+    "undergraduate-research-presentation-mentoring.html": "a4a0fee6"
   }
 }
