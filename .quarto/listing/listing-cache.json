@@ -13,6 +13,9 @@
       "projects/geospatial/*.qmd",
       "projects/service/*.qmd"
     ],
+    "mentoring.qmd": [
+      "projects/mentoring/*.qmd"
+    ],
     "outreach.qmd": [
       "projects/outreach/*.qmd"
     ],

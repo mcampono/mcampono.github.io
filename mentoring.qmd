@@ -1,29 +1,34 @@
 ---
-title: "Mentoring & Student Success"
+title: "Mentoring & Advising"
+listing:
+  id: listing-projects
+  contents: "projects/mentoring/*.qmd"
+  type: grid
+  sort: "date desc"
+  categories: true
 ---
 
-My mentoring work focuses on helping students build confidence, develop professional skills, and identify meaningful pathways in GIS, geography, sustainability, remote sensing, UAVs, and related fields. This includes supporting students as they prepare for research opportunities, internships, conferences, graduate school, professional networking, and careers.
+My mentoring and advising work focuses on helping students move from coursework into applied practice, research communication, professional development, and career planning.
 
-I see mentoring as part of geospatial education. Technical skills matter, but students also need help understanding how to talk about their work, connect with professional communities, evaluate opportunities, and imagine possible futures for themselves.
+Rather than treating mentoring as a single type of interaction, I approach it as a progression: helping students build skills, apply those skills in real projects, communicate their work, and connect their experiences to future opportunities.
 
 ## Mentoring Areas
 
-- **Undergraduate Research:** Supporting students as they develop project ideas, prepare posters and presentations, and share their work with academic and professional audiences.
-- **Conference Preparation:** Helping students prepare for events such as TNGIC, ASPRS, SEDAAG, EUReCA, ASUReS, and other professional or academic meetings.
-- **Career Pathways:** Helping students explore GIS, planning, environmental, UAV, public-sector, private-sector, nonprofit, and graduate-school options.
-- **Professional Communication:** Supporting students as they build resumes, portfolios, abstracts, presentations, posters, and professional introductions.
-- **Community and Professional Connection:** Encouraging students to participate in professional organizations, outreach events, applied projects, and networking opportunities.
+My mentoring work generally falls into three overlapping areas:
+
+- **Applied student project mentoring:** supporting students as they work on community GIS, UAS, environmental data, dashboards, StoryMaps, field data collection, and partner-facing deliverables.
+- **Undergraduate research and presentation mentoring:** helping students turn class projects, independent work, and applied projects into posters, presentations, conference submissions, and research communication products.
+- **Career coaching and professional advising:** helping students and alumni connect coursework, technical skills, capstone projects, internships, portfolios, and professional goals.
 
 ## Approach
 
 I try to help students see themselves as emerging professionals, not just students completing assignments. This means helping them recognize the value of their work, explain their skills clearly, and connect classroom experiences to real opportunities.
 
-Mentoring often involves translating between academic requirements, professional expectations, and individual student goals. The goal is to help students make informed choices and build confidence through experience.
+Mentoring often involves translating between academic requirements, professional expectations, and individual student goals. The goal is to help students make informed choices, build confidence through experience, and develop the technical and professional skills they need for meaningful next steps.
 
-## Selected Student Success Examples
+## Selected Mentoring and Advising Examples
 
-Content coming soon.
+The examples below highlight different ways I support students as they build applied skills, present their work, and prepare for professional pathways.
 
-## Student Research and Professional Development
-
-Content coming soon.
+::: {#listing-projects}
+:::

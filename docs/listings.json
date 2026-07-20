@@ -78,6 +78,14 @@
     ]
   },
   {
+    "listing": "/mentoring.html",
+    "items": [
+      "/projects/mentoring/applied-student-project-mentoring.html",
+      "/projects/mentoring/career-coaching-professional-advising.html",
+      "/projects/mentoring/undergraduate-research-presentation-mentoring.html"
+    ]
+  },
+  {
     "listing": "/service.html",
     "items": [
       "/projects/service/tngic-education-outreach.html",
