@@ -1,0 +1,91 @@
+---
+title: "Campus and Community Partnership Development"
+description: "Service work connecting students, faculty, staff, alumni, campus units, community partners, and external organizations through applied geospatial projects and professional opportunities."
+date: 2024-01-01
+categories: [service, partnerships, community engagement, campus service, GIS, UAS, student opportunities, outreach]
+image: ../../assets/images/thumbnails/campus-community-partnerships.webp
+---
+
+The **Campus and Community Partnership Development** page highlights service work focused on building connections among students, faculty, staff, alumni, campus units, community partners, and external organizations.
+
+This work often begins with a conversation: a community partner has a need, a faculty member has an idea, a student needs an opportunity, or a campus unit needs technical support. My role is frequently to connect people, clarify the opportunity, identify useful geospatial tools, and help move the idea toward a project, event, class partnership, field experience, or professional-development opportunity.
+
+## Service Context
+
+Geospatial work is highly collaborative. GIS, UAS, remote sensing, and field data collection often require partnerships across departments, organizations, technical experts, community stakeholders, and students.
+
+My partnership-development service focuses on identifying those connections and helping make them productive. This includes supporting community-engaged classes, building campus partnerships, coordinating with professional organizations, connecting faculty with external partners, and helping students access applied experiences.
+
+## Campus Partnerships
+
+I support partnerships across the University of Tennessee campus, especially when geospatial tools, UAS operations, sustainability, student career development, or applied data collection are involved.
+
+Examples include:
+
+- establishing a UT System UAV Working Group to address changes in federal legislation, purchasing, and institutional UAS needs,
+- supporting the UTK Office of Sustainability Green Career Fair,
+- coordinating with the Center for Career Exploration and Development on career events, Lunch and Learns, job fairs, and student opportunities,
+- supporting ArcGIS Online administration in partnership with OIT,
+- coordinating UAS flight permissions at Lakeshore Park for GEOG 314,
+- connecting faculty with external partners for field trips and applied learning experiences.
+
+## Community-Engaged Course Partnerships
+
+A major part of this service work is finding and supporting partners for **GEOG 420: GIS in the Community** and other applied geospatial learning opportunities.
+
+Recent partnership work has included:
+
+- identifying and recruiting community partners for GIS in the Community projects,
+- supporting the Costa Rica study abroad partnership with GISetc and community stakeholders in Uvita,
+- connecting with Bad Elf, TNGIC, and Woolpert to support GEOG 420-related opportunities,
+- helping coordinate student projects that produce useful data, maps, dashboards, and presentations for partners,
+- supporting student engagement with real community questions and professional expectations.
+
+## Applied Research and Student Opportunities
+
+This partnership work also helps create applied research and professional-development opportunities for students.
+
+Examples include:
+
+- supporting TNView by promoting opportunities through TNGIC,
+- hosting fellowships and competitions,
+- recruiting student participants,
+- supervising undergraduate research projects,
+- supporting the UTIA Medical Entomology tick-monitoring dashboard and online portal,
+- supporting student work related to trail access and environmental data projects,
+- connecting students with conferences, employers, alumni, and professional organizations.
+
+## External and Community Partnerships
+
+I also help develop relationships with external organizations and community partners whose work intersects with GIS, UAS, remote sensing, environmental monitoring, planning, and education.
+
+Examples include:
+
+- starting conversations around potential LiDAR projects at Cataloochee and Cades Cove with Great Smoky Mountains National Park contacts,
+- helping expand those conversations to include faculty, staff, and geospatial partners,
+- connecting physical geography faculty with a department alumnus at TVA to support River Forecast Center field trip opportunities,
+- hosting tours and demonstrations for high school students, Tennessee Governor’s School students, and other visitors,
+- providing career coaching support for local AmeriCorps members affected by changes in federal policy and funding,
+- supporting Tennessee Geographic Alliance events and planning efforts.
+
+## Role as Connector
+
+A common thread across this work is connection. I help identify who needs to be in the room, what resources are available, what constraints need to be considered, and how a project or partnership can move from idea to implementation.
+
+This work often includes:
+
+- stakeholder communication,
+- partner recruitment,
+- project scoping,
+- student recruitment,
+- equipment and logistics planning,
+- campus coordination,
+- outreach,
+- follow-up communication,
+- helping translate technical geospatial capacity into useful support for partners.
+
+## Service Significance
+
+This service work reflects my commitment to making geospatial education more connected to real people, real places, and real problems. Partnerships give students meaningful applied experiences, help faculty and staff expand their work, support campus and community needs, and strengthen relationships between the department and external organizations.
+
+By helping build and maintain these partnerships, I support a broader geospatial ecosystem that connects teaching, service, research, outreach, career development, and community engagement.
