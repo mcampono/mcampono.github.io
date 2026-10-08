@@ -25,6 +25,7 @@
   {
     "listing": "/geospatial-portfolio.html",
     "items": [
+      "/projects/geospatial/tennessee-tornado-map.html",
       "/projects/geospatial/westview-geospatial-products.html",
       "/projects/geospatial/mega-bitess-geospatial-data-hub.html",
       "/projects/geospatial/tga-open-data-hub.html",
@@ -45,6 +46,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/projects/geospatial/tennessee-tornado-map.html",
       "/projects/outreach/tnga-emr-storymaps.html",
       "/projects/teaching/applied-gis-lab-design.html",
       "/projects/service/tngic-education-outreach.html",

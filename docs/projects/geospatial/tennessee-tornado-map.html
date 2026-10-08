@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2026-10-08">
+<meta name="description" content="How GIS, laser engraving, hand stamping, nails, and string became a tactile map of Tennessee tornado frequency and extreme tracks.">
+
+<title>Tennessee Tornadoes: From GIS to a Physical Map – Michael Camponovo</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Michael Camponovo</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../outreach.html"> 
+<span class="menu-text">Workshops &amp; Outreach</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../community-projects.html"> 
+<span class="menu-text">Community GIS</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../geospatial-portfolio.html"> 
+<span class="menu-text">Geospatial Portfolio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../mentoring.html"> 
+<span class="menu-text">Mentoring</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../service.html"> 
+<span class="menu-text">Service</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../recognition.html"> 
+<span class="menu-text">Awards &amp; Recognition</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../cv.html"> 
+<span class="menu-text">CV / Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-cartographic-idea" id="toc-the-cartographic-idea" class="nav-link active" data-scroll-target="#the-cartographic-idea">The cartographic idea</a></li>
+  <li><a href="#designing-a-gis-map-for-fabrication" id="toc-designing-a-gis-map-for-fabrication" class="nav-link" data-scroll-target="#designing-a-gis-map-for-fabrication">Designing a GIS map for fabrication</a>
+  <ul class="collapse">
+  <li><a href="#generalizing-the-shortest-tracks" id="toc-generalizing-the-shortest-tracks" class="nav-link" data-scroll-target="#generalizing-the-shortest-tracks">Generalizing the shortest tracks</a></li>
+  </ul></li>
+  <li><a href="#moving-from-gis-to-the-laser-cutter" id="toc-moving-from-gis-to-the-laser-cutter" class="nav-link" data-scroll-target="#moving-from-gis-to-the-laser-cutter">Moving from GIS to the laser cutter</a></li>
+  <li><a href="#building-the-frequency-symbology-by-hand" id="toc-building-the-frequency-symbology-by-hand" class="nav-link" data-scroll-target="#building-the-frequency-symbology-by-hand">Building the frequency symbology by hand</a></li>
+  <li><a href="#turning-extreme-tornado-tracks-into-string" id="toc-turning-extreme-tornado-tracks-into-string" class="nav-link" data-scroll-target="#turning-extreme-tornado-tracks-into-string">Turning extreme tornado tracks into string</a></li>
+  <li><a href="#when-the-legend-needed-a-second-pass" id="toc-when-the-legend-needed-a-second-pass" class="nav-link" data-scroll-target="#when-the-legend-needed-a-second-pass">When the legend needed a second pass</a></li>
+  <li><a href="#explore-the-tornado-data" id="toc-explore-the-tornado-data" class="nav-link" data-scroll-target="#explore-the-tornado-data">Explore the tornado data</a></li>
+  <li><a href="#what-the-physical-map-changed" id="toc-what-the-physical-map-changed" class="nav-link" data-scroll-target="#what-the-physical-map-changed">What the physical map changed</a></li>
+  <li><a href="#final-result" id="toc-final-result" class="nav-link" data-scroll-target="#final-result">Final result</a></li>
+  <li><a href="#tools-and-materials" id="toc-tools-and-materials" class="nav-link" data-scroll-target="#tools-and-materials">Tools and materials</a></li>
+  <li><a href="#data-and-credits" id="toc-data-and-credits" class="nav-link" data-scroll-target="#data-and-credits">Data and credits</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Tennessee Tornadoes: From GIS to a Physical Map</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">Cartography</div>
+    <div class="quarto-category">Data Visualization</div>
+    <div class="quarto-category">Fabrication</div>
+    <div class="quarto-category">Outreach</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    How GIS, laser engraving, hand stamping, nails, and string became a tactile map of Tennessee tornado frequency and extreme tracks.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 8, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<style>
+.image-placeholder {
+  border: 2px dashed #b8b8b8;
+  border-radius: 0.4rem;
+  padding: 2.5rem 1rem;
+  margin: 1.5rem 0;
+  text-align: center;
+  color: #666;
+  background: #f7f7f7;
+  font-size: 0.95rem;
+}
+
+.map-embed {
+  position: relative;
+  width: 100%;
+  min-height: 620px;
+  margin: 1.5rem 0;
+  overflow: hidden;
+  border-radius: 0.4rem;
+}
+.map-embed iframe {
+  width: 100%;
+  height: 620px;
+  border: 0;
+}
+
+@media (max-width: 700px) {
+  .map-embed arcgis-embedded-map {
+    height: 520px !important;
+  }
+}
+
+.project-facts {
+  margin: 1.25rem 0 2rem 0;
+}
+</style>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/tornado-map-hero.webp" class="img-fluid figure-img"></p>
+<figcaption>Finished Tennessee tornado map showing stamped hexagons and red string tornado tracks.</figcaption>
+</figure>
+</div>
+<p>This project began with a question: <strong>what happens when a GIS map has to become a physical object?</strong></p>
+<p>The finished map shows the frequency of recorded tornado tracks across Tennessee using stamped hexagons, while the strongest tornadoes—F/EF4 and F/EF5 events—are represented with nails and red string. What began as a digital cartographic design became an experiment in translating GIS geometry, classification, and symbology into wood, ink, metal, and thread.</p>
+<p>The project was developed collaboratively by <strong>Michael Campanovo</strong> and <strong>Tracy Homer</strong>, combining GIS/cartographic design with fabrication expertise.</p>
+<section id="the-cartographic-idea" class="level2">
+<h2 class="anchored" data-anchor-id="the-cartographic-idea">The cartographic idea</h2>
+<p>The physical map communicates two aspects of Tennessee tornado history:</p>
+<ol type="1">
+<li><strong>Frequency</strong> — where tornado tracks have occurred most often.</li>
+<li><strong>Extreme events</strong> — where the strongest F/EF4 and F/EF5 tracks occurred.</li>
+</ol>
+<p>The final hexagon classes are:</p>
+<ul>
+<li><strong>1–5 tornadoes</strong></li>
+<li><strong>6–10 tornadoes</strong></li>
+<li><strong>11–20 tornadoes</strong></li>
+<li><strong>21–30 tornadoes</strong></li>
+<li><strong>31–59 tornadoes</strong></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/digital-map-design.webp" class="img-fluid figure-img"></p>
+<figcaption>ArcGIS Pro map design showing the Tennessee hexagon frequency surface and extreme tornado tracks before fabrication.</figcaption>
+</figure>
+</div>
+</section>
+<section id="designing-a-gis-map-for-fabrication" class="level2">
+<h2 class="anchored" data-anchor-id="designing-a-gis-map-for-fabrication">Designing a GIS map for fabrication</h2>
+<p>Designing for fabrication changed decisions that would normally be trivial in a digital map. A line on a screen can be arbitrarily short. A physical tornado track represented by two nails and string cannot.</p>
+<section id="generalizing-the-shortest-tracks" class="level3">
+<h3 class="anchored" data-anchor-id="generalizing-the-shortest-tracks">Generalizing the shortest tracks</h3>
+<p>Several very short tornado tracks did not provide enough physical distance for two pilot holes, nails, and string. Those tracks were selectively lengthened for fabrication while preserving their general location and orientation.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/short-track-generalization.webp" class="img-fluid figure-img"></p>
+<figcaption>Close-up of a short tornado track that required selective lengthening for physical fabrication.</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p><strong>Design challenge:</strong> A cartographic symbol that works perfectly on screen may be physically impossible to build at the final map scale.</p>
+</blockquote>
+</section>
+</section>
+<section id="moving-from-gis-to-the-laser-cutter" class="level2">
+<h2 class="anchored" data-anchor-id="moving-from-gis-to-the-laser-cutter">Moving from GIS to the laser cutter</h2>
+<p>ArcGIS Pro remained the geographic and cartographic master. The final geometry was exported as <strong>SVG</strong>, preserving vector linework for fabrication.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/laser-engraving-map.webp" class="img-fluid figure-img"></p>
+<figcaption>Large plywood Tennessee tornado map being engraved in the laser cutter.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/fresh-from-laser.webp" class="img-fluid figure-img"></p>
+<figcaption>Freshly laser-engraved plywood tornado map before color, nails, and string were added.</figcaption>
+</figure>
+</div>
+<p>A small flying-cow reference was engraved into the marginalia as an Easter egg.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/flying-cow-easter-egg.webp" class="img-fluid figure-img"></p>
+<figcaption>Small engraved flying cow Easter egg included in the map marginalia.</figcaption>
+</figure>
+</div>
+</section>
+<section id="building-the-frequency-symbology-by-hand" class="level2">
+<h2 class="anchored" data-anchor-id="building-the-frequency-symbology-by-hand">Building the frequency symbology by hand</h2>
+<p>The hexagon classes were applied manually using archival inks. Tracy fabricated a custom <strong>hexagon-donut stamp</strong> and clear registration jig so each stamp could be centered consistently.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/creating-the-stamping-guide.gif" class="img-fluid figure-img"></p>
+<figcaption>Custom hexagon stamp and clear registration jig used to apply frequency classes to the map.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/stamping-in-progress.webp" class="img-fluid figure-img"></p>
+<figcaption>Hand stamping colored tornado-frequency hexagons onto the engraved plywood map.</figcaption>
+</figure>
+</div>
+<p>Approximately <strong>155 hexagons</strong> were stamped individually.</p>
+</section>
+<section id="turning-extreme-tornado-tracks-into-string" class="level2">
+<h2 class="anchored" data-anchor-id="turning-extreme-tornado-tracks-into-string">Turning extreme tornado tracks into string</h2>
+<p>Pilot holes were drilled at track endpoints, nails were installed, and red embroidery floss was stretched between them. Two red values distinguish <strong>F/EF4</strong> from <strong>F/EF5</strong> tornadoes.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/pilot-holes-and-nails.webp" class="img-fluid figure-img"></p>
+<figcaption>Pilot holes and small nails marking the endpoints of extreme tornado tracks.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/stringing-tracks.gif" class="img-fluid figure-img"></p>
+<figcaption>Red embroidery floss being stretched between nails to create physical tornado tracks.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/extreme-tracks-detail.webp" class="img-fluid figure-img"></p>
+<figcaption>Close-up of completed red string tracks showing two shades for F/EF4 and F/EF5 tornadoes.</figcaption>
+</figure>
+</div>
+</section>
+<section id="when-the-legend-needed-a-second-pass" class="level2">
+<h2 class="anchored" data-anchor-id="when-the-legend-needed-a-second-pass">When the legend needed a second pass</h2>
+<p>The first engraved legend revealed a late-stage problem: the class-break numbers were visibly misaligned. Rather than re-engraving the entire map, a revised legend was engraved and cut from <strong>1/4-inch plywood</strong>, finished, stamped, and glued over the original.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/original-legend-problem.webp" class="img-fluid figure-img"></p>
+<figcaption>Original engraved legend showing misaligned class-break numbers.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/replacement-legend-fabrication.webp" class="img-fluid figure-img"></p>
+<figcaption>Replacement plywood legend being engraved, finished, or stamped before installation.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/replacement-legend-installed.webp" class="img-fluid figure-img"></p>
+<figcaption>Completed replacement legend installed over the original engraved legend.</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p><strong>Design challenge:</strong> Fabrication errors do not always require restarting a project. Sometimes the best solution is to redesign the problem into a new physical layer.</p>
+</blockquote>
+</section>
+<section id="explore-the-tornado-data" class="level2">
+<h2 class="anchored" data-anchor-id="explore-the-tornado-data">Explore the tornado data</h2>
+<p>The physical map deliberately reduces a complex tornado dataset into tangible symbols. The interactive web map provides access to the underlying geography and additional detail.</p>
+<div class="map-embed">
+<iframe title="Tornadoes in Tennessee Supplement to Physical Map" src="https://myutk.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&amp;webmap=69af2b0977fd4239a47c9da4a8708189&amp;theme=light&amp;scroll=false&amp;center=-85.69934398467406,34.73015386670354&amp;scale=4622324.434309" allow="local-network-access; geolocation" loading="lazy">
+</iframe>
+</div>
+<p><a href="https://arcg.is/11ryO97" target="_blank">Open the interactive map in a new window</a></p>
+</section>
+<section id="what-the-physical-map-changed" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-physical-map-changed">What the physical map changed</h2>
+<p>The most important lesson from the project was that <strong>a map stops behaving like a GIS layout once every symbol has to become a physical object</strong>.</p>
+<p>The transition from digital cartography to fabrication required decisions about minimum feature size, material behavior, registration, tolerances, repair strategies, and how much geographic detail could survive translation into a tactile object.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/tornado-map-finished-detail.webp" class="img-fluid figure-img"></p>
+<figcaption>Oblique close-up of the finished tornado map showing engraving, stamped hexagons, string tracks, and the raised legend.</figcaption>
+</figure>
+</div>
+</section>
+<section id="final-result" class="level2">
+<h2 class="anchored" data-anchor-id="final-result">Final result</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/tornado-map-final-context.webp" class="img-fluid figure-img"></p>
+<figcaption>Finished Tennessee tornado map displayed for viewing.</figcaption>
+</figure>
+</div>
+<p>The completed project combines GIS analysis and cartographic design with laser fabrication, custom tooling, hand-applied color, and string art. The digital companion map preserves access to the underlying tornado data, while the physical version emphasizes the material decisions required to turn geographic information into an object.</p>
+</section>
+<section id="tools-and-materials" class="level2">
+<h2 class="anchored" data-anchor-id="tools-and-materials">Tools and materials</h2>
+<p><strong>GIS and design</strong></p>
+<ul>
+<li>ArcGIS Pro</li>
+<li>ArcGIS Online / Map Viewer</li>
+<li>SVG vector workflow</li>
+</ul>
+<p><strong>Fabrication</strong></p>
+<ul>
+<li>18 × 36 inch plywood map surface</li>
+<li>CO₂ laser cutter/engraver</li>
+<li>Custom hexagon-donut stamp</li>
+<li>Clear registration jig</li>
+<li>Archival inks</li>
+<li>Pilot holes and 4D nails</li>
+<li>Red embroidery floss</li>
+<li>1/4-inch plywood replacement legend</li>
+</ul>
+</section>
+<section id="data-and-credits" class="level2">
+<h2 class="anchored" data-anchor-id="data-and-credits">Data and credits</h2>
+<p><strong>Tornado data:</strong> National Weather Service / Storm Prediction Center tornado-track data.<br>
+<strong>Boundary data:</strong> NHGIS.<br>
+<strong>GIS and cartographic design:</strong> Michael Campanovo.<br>
+<strong>Fabrication and fabrication problem-solving:</strong> Michael Campanovo and Tracy Homer.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

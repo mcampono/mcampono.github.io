@@ -142,5 +142,8 @@
   },
   "projects/community/uav-drone-utility-inspection.qmd": {
     "uav-drone-utility-inspection.html": "f3ee1f2c"
+  },
+  "projects/geospatial/tennessee-tornado-map.qmd": {
+    "tennessee-tornado-map.html": "04b94d06"
   }
 }
