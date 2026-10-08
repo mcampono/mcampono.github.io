@@ -8,7 +8,7 @@ categories:
   - Data Visualization
   - Fabrication
   - Outreach
-image: "../../assets/images/projects/tornado-map/"
+image: "../../assets/images/projects/tornado-map/tornado-map-hero.webp"
 toc: true
 toc-title: "On this page"
 toc-location: right
