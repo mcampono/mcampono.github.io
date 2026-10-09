@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2023-07-01">
-<meta name="description" content="A two-part GEOG 311 lab sequence where students use elevation data to create terrain products, then apply raster reclassification and raster calculator workflows to identify suitable solar-panel locations on campus.">
+<meta name="dcterms.date" content="2026-10-08">
+<meta name="description" content="How GIS, laser engraving, hand stamping, nails, and string became a tactile map of Tennessee tornado frequency and extreme tracks.">
 
-<title>Terrain and Raster Analysis Lab Sequence – Michael Camponovo</title>
+<title>Tennessee Tornadoes: From GIS to a Physical Map – Michael Camponovo</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -144,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -152,51 +152,52 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#teaching-context" id="toc-teaching-context" class="nav-link active" data-scroll-target="#teaching-context">Teaching Context</a></li>
-  <li><a href="#analytical-question" id="toc-analytical-question" class="nav-link" data-scroll-target="#analytical-question">Analytical Question</a></li>
-  <li><a href="#part-1-introduction-to-terrain-analysis" id="toc-part-1-introduction-to-terrain-analysis" class="nav-link" data-scroll-target="#part-1-introduction-to-terrain-analysis">Part 1: Introduction to Terrain Analysis</a></li>
-  <li><a href="#part-2-raster-analysis" id="toc-part-2-raster-analysis" class="nav-link" data-scroll-target="#part-2-raster-analysis">Part 2: Raster Analysis</a></li>
-  <li><a href="#project-role" id="toc-project-role" class="nav-link" data-scroll-target="#project-role">Project Role</a></li>
-  <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
-  <li><a href="#data-sources" id="toc-data-sources" class="nav-link" data-scroll-target="#data-sources">Data Sources</a></li>
-  <li><a href="#student-deliverables" id="toc-student-deliverables" class="nav-link" data-scroll-target="#student-deliverables">Student Deliverables</a></li>
-  <li><a href="#teaching-significance" id="toc-teaching-significance" class="nav-link" data-scroll-target="#teaching-significance">Teaching Significance</a></li>
+  <li><a href="#the-cartographic-idea" id="toc-the-cartographic-idea" class="nav-link active" data-scroll-target="#the-cartographic-idea">The cartographic idea</a></li>
+  <li><a href="#designing-a-gis-map-for-fabrication" id="toc-designing-a-gis-map-for-fabrication" class="nav-link" data-scroll-target="#designing-a-gis-map-for-fabrication">Designing a GIS map for fabrication</a>
+  <ul class="collapse">
+  <li><a href="#generalizing-the-shortest-tracks" id="toc-generalizing-the-shortest-tracks" class="nav-link" data-scroll-target="#generalizing-the-shortest-tracks">Generalizing the shortest tracks</a></li>
+  </ul></li>
+  <li><a href="#moving-from-gis-to-the-laser-cutter" id="toc-moving-from-gis-to-the-laser-cutter" class="nav-link" data-scroll-target="#moving-from-gis-to-the-laser-cutter">Moving from GIS to the laser cutter</a></li>
+  <li><a href="#building-the-frequency-symbology-by-hand" id="toc-building-the-frequency-symbology-by-hand" class="nav-link" data-scroll-target="#building-the-frequency-symbology-by-hand">Building the frequency symbology by hand</a></li>
+  <li><a href="#turning-extreme-tornado-tracks-into-string" id="toc-turning-extreme-tornado-tracks-into-string" class="nav-link" data-scroll-target="#turning-extreme-tornado-tracks-into-string">Turning extreme tornado tracks into string</a></li>
+  <li><a href="#when-the-legend-needed-a-second-pass" id="toc-when-the-legend-needed-a-second-pass" class="nav-link" data-scroll-target="#when-the-legend-needed-a-second-pass">When the legend needed a second pass</a></li>
+  <li><a href="#explore-the-tornado-data" id="toc-explore-the-tornado-data" class="nav-link" data-scroll-target="#explore-the-tornado-data">Explore the tornado data</a></li>
+  <li><a href="#what-the-physical-map-changed" id="toc-what-the-physical-map-changed" class="nav-link" data-scroll-target="#what-the-physical-map-changed">What the physical map changed</a></li>
+  <li><a href="#final-result" id="toc-final-result" class="nav-link" data-scroll-target="#final-result">Final result</a></li>
+  <li><a href="#tools-and-materials" id="toc-tools-and-materials" class="nav-link" data-scroll-target="#tools-and-materials">Tools and materials</a></li>
+  <li><a href="#data-and-credits" id="toc-data-and-credits" class="nav-link" data-scroll-target="#data-and-credits">Data and credits</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Terrain and Raster Analysis Lab Sequence</h1>
+<h1 class="title">Tennessee Tornadoes: From GIS to a Physical Map</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">teaching</div>
     <div class="quarto-category">GIS</div>
-    <div class="quarto-category">ArcGIS Pro</div>
-    <div class="quarto-category">terrain analysis</div>
-    <div class="quarto-category">raster analysis</div>
-    <div class="quarto-category">Spatial Analyst</div>
-    <div class="quarto-category">solar suitability</div>
-    <div class="quarto-category">raster calculator</div>
-    <div class="quarto-category">map algebra</div>
+    <div class="quarto-category">Cartography</div>
+    <div class="quarto-category">Data Visualization</div>
+    <div class="quarto-category">Fabrication</div>
+    <div class="quarto-category">Outreach</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    A two-part GEOG 311 lab sequence where students use elevation data to create terrain products, then apply raster reclassification and raster calculator workflows to identify suitable solar-panel locations on campus.
+    How GIS, laser engraving, hand stamping, nails, and string became a tactile map of Tennessee tornado frequency and extreme tracks.
   </div>
 </div>
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">July 1, 2023</p>
+      <p class="date">October 8, 2026</p>
     </div>
   </div>
   
@@ -208,97 +209,234 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The <strong>Terrain and Raster Analysis Lab Sequence</strong> is a two-part lab assignment developed for <strong>GEOG 311: Introduction to Geovisualization and GIS</strong>.</p>
-<p>In the first lab, <strong>Introduction to Terrain Analysis</strong>, students use lidar-derived elevation data to create terrain products for the University of Tennessee, Knoxville campus. In the second lab, <strong>Raster Analysis</strong>, students use the outputs from the first lab to identify hypothetical locations suitable for solar-panel installation.</p>
-<section id="teaching-context" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-context">Teaching Context</h2>
-<p>Raster analysis can be challenging for students because it requires them to think differently about GIS data. Instead of working with discrete features such as points, lines, and polygons, students must learn to interpret continuous surfaces, cell values, derived rasters, and map algebra.</p>
-<p>This two-part lab sequence is designed to scaffold that transition. Students first learn how elevation data can be transformed into meaningful terrain products. They then use those same products in the following lab to practice reclassification, raster calculator workflows, and suitability-style analysis.</p>
-<p>The scenario places students in the role of a sustainability coordinator asked to identify campus locations that may be suitable for solar panels. This gives the technical workflow a practical purpose and helps students connect raster analysis to a real-world planning question.</p>
-</section>
-<section id="analytical-question" class="level2">
-<h2 class="anchored" data-anchor-id="analytical-question">Analytical Question</h2>
-<p>The two-part lab sequence is organized around one central question:</p>
-<p><strong>What parts of campus are most suitable for solar panels?</strong></p>
-<p>Students evaluate potential locations using terrain-derived criteria, including slope, aspect, and visibility from Ayers Hall. The lab introduces the idea that suitability analysis often requires converting several different types of spatial information into comparable criteria, then combining those criteria to identify locations that meet the desired conditions.</p>
-</section>
-<section id="part-1-introduction-to-terrain-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="part-1-introduction-to-terrain-analysis">Part 1: Introduction to Terrain Analysis</h2>
-<p>The first lab introduces students to terrain analysis using a 1-meter digital elevation model derived from USGS 3DEP lidar data. Students use ArcGIS Pro to generate several terrain products that describe the physical characteristics of the campus landscape.</p>
-<p>Students create an <strong>11 × 17 inch layout</strong> containing six small-multiple maps:</p>
-<ul>
-<li>DEM,</li>
-<li>hillshade,</li>
-<li>slope,</li>
-<li>aspect,</li>
-<li>contours,</li>
-<li>viewshed.</li>
-</ul>
-<p>These outputs help students understand how a single elevation dataset can be used to produce several different analytical layers.</p>
+<style>
+.image-placeholder {
+  border: 2px dashed #b8b8b8;
+  border-radius: 0.4rem;
+  padding: 2.5rem 1rem;
+  margin: 1.5rem 0;
+  text-align: center;
+  color: #666;
+  background: #f7f7f7;
+  font-size: 0.95rem;
+}
+
+.map-embed {
+  position: relative;
+  width: 100%;
+  min-height: 620px;
+  margin: 1.5rem 0;
+  overflow: hidden;
+  border-radius: 0.4rem;
+}
+.map-embed iframe {
+  width: 100%;
+  height: 620px;
+  border: 0;
+}
+
+@media (max-width: 700px) {
+  .map-embed arcgis-embedded-map {
+    height: 520px !important;
+  }
+}
+
+.project-facts {
+  margin: 1.25rem 0 2rem 0;
+}
+</style>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../../assets/images/projects/terrain-analysis-small-multiples.webp" class="img-fluid figure-img" style="width:85.0%"></p>
-<figcaption>Screenshot from the terrain analysis layout.</figcaption>
+<p><img src="../../assets/images/projects/tornado-map/tornado-map-hero.webp" class="img-fluid figure-img"></p>
+<figcaption>Finished Tennessee tornado map showing stamped hexagons and red string tornado tracks.</figcaption>
 </figure>
 </div>
-<p><strong>Skills and tools:</strong> ArcGIS Pro, empty workspace creation, ZIP extraction, DEM interpretation, slope, aspect, hillshade, contours, viewshed, tool environment settings, metadata review, multi-map layout design.</p>
-</section>
-<section id="part-2-raster-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="part-2-raster-analysis">Part 2: Raster Analysis</h2>
-<p>The second lab builds directly on the outputs from the terrain analysis lab. Students use the hillshade, aspect, slope, viewshed, and Ayers Hall layers from Part 1 to identify areas that meet the hypothetical solar-panel suitability criteria.</p>
-<p>Students reclassify raster layers into binary values of <strong>1</strong> and <strong>0</strong>, where 1 represents cells that meet a suitability criterion and 0 represents cells that do not. They then use raster calculator workflows to combine the criteria and identify locations that meet all conditions.</p>
-<p>The analysis considers whether locations are:</p>
-<ul>
-<li>south-facing,</li>
-<li>within an appropriate slope range,</li>
-<li>visible from Ayers Hall.</li>
-</ul>
-<p>The final output is an <strong>8.5 × 11 inch map layout</strong> showing areas around campus that are suitable for solar-panel installation, including the total number of square meters identified as suitable.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../../assets/images/projects/solar-suitability-raster-analysis.webp" class="img-fluid figure-img" style="width:85.0%"></p>
-<figcaption>Screenshot from the raster analysis solar suitability output.</figcaption>
-</figure>
-</div>
-<p><strong>Skills and tools:</strong> ArcGIS Pro, Spatial Analyst, raster reclassification, binary suitability criteria, Raster Calculator, map algebra, cell values, raster overlays, suitability analysis, calculating suitable area.</p>
-</section>
-<section id="project-role" class="level2">
-<h2 class="anchored" data-anchor-id="project-role">Project Role</h2>
-<p>My role included designing the two-part lab sequence, creating the applied campus solar-panel scenario, preparing and testing the terrain and raster workflows, selecting and preparing the data, and structuring the assignments so students could build from one week’s outputs into the next week’s analysis.</p>
-<p>The underlying lab instructions and instructional datasets are not shared publicly.</p>
-</section>
-<section id="software" class="level2">
-<h2 class="anchored" data-anchor-id="software">Software</h2>
-<p>Students use:</p>
-<ul>
-<li>ArcGIS Pro,</li>
-<li>ArcGIS Spatial Analyst extension,</li>
-<li>Windows File Explorer.</li>
-</ul>
-</section>
-<section id="data-sources" class="level2">
-<h2 class="anchored" data-anchor-id="data-sources">Data Sources</h2>
-<p>The lab sequence uses:</p>
-<ul>
-<li>a 1-meter DEM derived from USGS 3DEP lidar data downloaded from The National Map,</li>
-<li>a point shapefile representing Ayers Hall,</li>
-<li>a polygon shapefile defining the campus analysis area.</li>
-</ul>
-<p>The Ayers Hall point layer and campus boundary polygon were created for the lab to support the viewshed analysis and limit the processing extent.</p>
-</section>
-<section id="student-deliverables" class="level2">
-<h2 class="anchored" data-anchor-id="student-deliverables">Student Deliverables</h2>
-<p>Students complete two connected deliverables:</p>
+<p>After watching my former student and Maker Extradoirare Tracy Homer dominate the mapping contest at various TNGIC conferences over the last few years, I knew I’d never be able to match her expertise and creativity in creating physical map objects. So I did the obvious thing and asked if she’d like to work on a project together for the Fall 2026 TNGIC East Fall Forum with me. Combining Tracy’s expertise in laser engraving and middle-school memories of making sgtring art, this project combines both concepts to map tornado data for Tennessee as a physical mapping product. As a novice in making physical maps, there were plenty of challenges that I did not initially anticipate, but thankfully Tracy was always there with her no-fear attitude and confidence that we would find a solution.</p>
+<p>The finished map shows the frequency of recorded tornado tracks across Tennessee using stamped hexagons, while the strongest tornadoes, F/EF4 and F/EF5 events, are represented with nails and red string. I am indebted to Tracy for helping me translate what began as a digital cartographic design through an iterative experimentatino process converting GIS geometry, classification, and symbology into wood, ink, metal, and thread.</p>
+<p>The project was developed collaboratively by <strong>Michael Campanovo</strong> and <strong>Tracy Homer</strong>, combining GIS/cartographic design with fabrication expertise.</p>
+<section id="the-cartographic-idea" class="level2">
+<h2 class="anchored" data-anchor-id="the-cartographic-idea">The cartographic idea</h2>
+<p>The physical map communicates two aspects of Tennessee tornado history:</p>
 <ol type="1">
-<li>An <strong>11 × 17 inch terrain analysis layout</strong> showing the DEM, hillshade, slope, aspect, contours, and viewshed.</li>
-<li>An <strong>8.5 × 11 inch raster analysis layout</strong> showing campus areas suitable for solar panels, including the total number of square meters identified as suitable.</li>
+<li><strong>Frequency</strong> — where tornado tracks have occurred most often.</li>
+<li><strong>Extreme events</strong> — where the strongest F/EF4 and F/EF5 tracks occurred.</li>
 </ol>
+<p>The final hexagon classes are:</p>
+<ul>
+<li><strong>1–5 tornadoes</strong></li>
+<li><strong>6–10 tornadoes</strong></li>
+<li><strong>11–20 tornadoes</strong></li>
+<li><strong>21–30 tornadoes</strong></li>
+<li><strong>31–59 tornadoes</strong></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/digital-map-design.webp" class="img-fluid figure-img"></p>
+<figcaption>ArcGIS Pro map design showing the Tennessee hexagon frequency surface and extreme tornado tracks before fabrication. Note that some ideas from the digital version did not make it to the final, physical map.</figcaption>
+</figure>
+</div>
 </section>
-<section id="teaching-significance" class="level2">
-<h2 class="anchored" data-anchor-id="teaching-significance">Teaching Significance</h2>
-<p>This lab sequence reflects my approach to teaching GIS as a connected analytical workflow. Students do not simply run terrain tools in isolation. They first create meaningful terrain products from elevation data, then use those products as inputs for a second analysis.</p>
-<p>The sequence helps students understand that raster analysis often involves transforming, reclassifying, and combining layers to answer a spatial question. It also gives students a practical introduction to suitability analysis by connecting slope, aspect, visibility, and raster calculator workflows to a realistic campus sustainability scenario.</p>
-<p>By the end of the two-part lab, students have practiced both the technical mechanics of raster GIS and the larger analytical process of turning elevation data into evidence for a planning recommendation.</p>
+<section id="designing-a-gis-map-for-fabrication" class="level2">
+<h2 class="anchored" data-anchor-id="designing-a-gis-map-for-fabrication">Designing a GIS map for fabrication</h2>
+<p>Designing for fabrication changed decisions that would normally be trivial in a digital map. A line on a screen can be arbitrarily short. A physical tornado track represented by two nails and string cannot.</p>
+<section id="generalizing-the-shortest-tracks" class="level3">
+<h3 class="anchored" data-anchor-id="generalizing-the-shortest-tracks">Generalizing the shortest tracks</h3>
+<p>Several very short tornado tracks did not provide enough physical distance for two pilot holes, nails, and string. Those tracks were selectively lengthened for fabrication while preserving their general location and orientation. In addition, the starting and ending points of some tornado tracks were moved slightly to avoid overlapping with the labels inside each hexagon. The final map is a compromise between geographic accuracy and physical feasibility.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/short-track-generalization.webp" class="img-fluid figure-img"></p>
+<figcaption>Close-up of a short tornado track that required selective lengthening for physical fabrication.</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p><strong>Design challenge:</strong> A cartographic symbol that works perfectly on screen may be physically impossible to build at the final map scale.</p>
+</blockquote>
+</section>
+</section>
+<section id="moving-from-gis-to-the-laser-cutter" class="level2">
+<h2 class="anchored" data-anchor-id="moving-from-gis-to-the-laser-cutter">Moving from GIS to the laser cutter</h2>
+<p>ArcGIS Pro remained the geographic and cartographic master. The final geometry was exported as an <strong>SVG</strong> file, preserving vector linework for fabrication.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/laser-engraving-map.webp" class="img-fluid figure-img"></p>
+<figcaption>Large plywood Tennessee tornado map being engraved in the laser cutter.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/fresh-from-laser.webp" class="img-fluid figure-img"></p>
+<figcaption>Freshly laser-engraved plywood tornado map before color, nails, and string were added. Note all the burn marks that would require sanding to remove.</figcaption>
+</figure>
+</div>
+<p>For those of us growing up in the 1990’s, our introduction to the world of tornadoes and storm chasers was through Bill Paxton in Twister. We added a small engraving in his honor to the marginalia of the map. The small flying cow is a nod to the movie’s memorable scene where a cow is lifted into the air by a tornado.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/flying-cow-easter-egg.webp" class="img-fluid figure-img"></p>
+<figcaption>Small engraved flying cow Easter egg included in the map marginalia.</figcaption>
+</figure>
+</div>
+</section>
+<section id="building-the-frequency-symbology-by-hand" class="level2">
+<h2 class="anchored" data-anchor-id="building-the-frequency-symbology-by-hand">Building the frequency symbology by hand</h2>
+<p>The hexagon classes were applied manually using archival inks. Tracy fabricated a custom <strong>hexagon-donut stamp</strong> and clear registration jig so each stamp could be centered consistently.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/creating-the-stamping-guide.gif" class="img-fluid figure-img"></p>
+<figcaption>Using the CO₂ laser to cut out the stamp application guide out of acrylic.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/laser-cutting-the-stamp.webp" class="img-fluid figure-img"></p>
+<figcaption>Tracy used the fiber laser to cut out the custom hexagon donut stamp.</figcaption>
+</figure>
+</div>
+<p>Tracy stamped all <strong>155 hexagons</strong> individually plus the hexagons in the map legend.</p>
+</section>
+<section id="turning-extreme-tornado-tracks-into-string" class="level2">
+<h2 class="anchored" data-anchor-id="turning-extreme-tornado-tracks-into-string">Turning extreme tornado tracks into string</h2>
+<p>We drilled pilot holes at track endpoints, installed nails, and added red embroidery floss between them. We used two red values with different thicknesses to distinguish <strong>F/EF4</strong> from <strong>F/EF5</strong> tornadoes.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/pilot-holes-and-nails.webp" class="img-fluid figure-img"></p>
+<figcaption>Pilot holes and small nails marking the endpoints of extreme tornado tracks.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/stringing-tracks.gif" class="img-fluid figure-img"></p>
+<figcaption>Red embroidery floss being stretched between nails to create physical tornado tracks.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/extreme-tracks-detail.webp" class="img-fluid figure-img"></p>
+<figcaption>Close-up of completed red string tracks showing two shades for F/EF4 and F/EF5 tornadoes. The brighter, thicker red embroidery floss is on the lower left. All the other tracks are thinner, darker embroidery floss.</figcaption>
+</figure>
+</div>
+</section>
+<section id="when-the-legend-needed-a-second-pass" class="level2">
+<h2 class="anchored" data-anchor-id="when-the-legend-needed-a-second-pass">When the legend needed a second pass</h2>
+<p>The first engraved legend revealed two late-stage problems - the class-break numbers were visibly misaligned and they were too wide to work with the custom hexagon donut stamp Tracy created. Rather than re-engraving the entire map, we created a revised legend showing just the upper class limits. The revised legend was engraved and cut from <strong>1/4-inch plywood</strong>, finished, stamped, and glued over the original.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/original-legend-problem.webp" class="img-fluid figure-img"></p>
+<figcaption>Original engraved legend showing misaligned class-break numbers.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/replacement-legend-fabrication.webp" class="img-fluid figure-img"></p>
+<figcaption>Replacement plywood legend being engraved, finished, or stamped before installation.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/replacement-legend-installed.webp" class="img-fluid figure-img"></p>
+<figcaption>Completed replacement legend installed over the original engraved legend.</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p><strong>Design challenge:</strong> Fabrication errors do not always require restarting a project. Sometimes the best solution is to redesign the problem into a new physical layer.</p>
+</blockquote>
+</section>
+<section id="explore-the-tornado-data" class="level2">
+<h2 class="anchored" data-anchor-id="explore-the-tornado-data">Explore the tornado data</h2>
+<p>The physical map deliberately reduces a complex tornado dataset into tangible symbols. The interactive web map provides access to the underlying geography and additional detail. Give it a minute to load, then pan and zoom to explore the tornado tracks and frequency surface.</p>
+<div class="map-embed">
+<iframe title="Tornadoes in Tennessee Supplement to Physical Map" src="https://myutk.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&amp;webmap=69af2b0977fd4239a47c9da4a8708189&amp;theme=light&amp;scroll=false&amp;center=-85.69934398467406,34.73015386670354&amp;scale=4622324.434309" allow="local-network-access; geolocation" loading="lazy">
+</iframe>
+</div>
+<p><a href="https://arcg.is/11ryO97" target="_blank">Open the interactive map in a new window</a></p>
+</section>
+<section id="what-the-physical-map-changed" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-physical-map-changed">What the physical map changed</h2>
+<p>The most important lesson from the project was that <strong>a map stops behaving like a GIS layout once every symbol has to become a physical object</strong>.</p>
+<p>The transition from digital cartography to fabrication required decisions about minimum feature size, material behavior, registration, tolerances, repair strategies, and how much geographic detail could survive translation into a tactile object.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/tornado-map-finished-detail.webp" class="img-fluid figure-img"></p>
+<figcaption>Oblique close-up of the finished tornado map showing engraving, stamped hexagons, string tracks, and the raised legend.</figcaption>
+</figure>
+</div>
+</section>
+<section id="final-result" class="level2">
+<h2 class="anchored" data-anchor-id="final-result">Final result</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../assets/images/projects/tornado-map/tornado-map-final-context.webp" class="img-fluid figure-img"></p>
+<figcaption>Finished Tennessee tornado map displayed for viewing.</figcaption>
+</figure>
+</div>
+<p>The completed project combines GIS analysis and cartographic design with laser fabrication, custom tooling, hand-applied color, and string art. The digital companion map preserves access to the underlying tornado data, while the physical version emphasizes the material decisions required to turn geographic information into an object.</p>
+</section>
+<section id="tools-and-materials" class="level2">
+<h2 class="anchored" data-anchor-id="tools-and-materials">Tools and materials</h2>
+<p><strong>GIS and design</strong></p>
+<ul>
+<li>ArcGIS Pro</li>
+<li>ArcGIS Online / Map Viewer</li>
+<li>SVG vector workflow</li>
+</ul>
+<p><strong>Fabrication</strong></p>
+<ul>
+<li>18 × 36 inch plywood map surface</li>
+<li>CO₂ laser cutter/engraver</li>
+<li>Fiber laser cutter/engraver</li>
+<li>Custom hexagon-donut stamp</li>
+<li>Clear registration jig</li>
+<li>Archival inks</li>
+<li>Pilot holes and 4D nails</li>
+<li>Red embroidery floss</li>
+<li>1/4-inch plywood replacement legend</li>
+</ul>
+</section>
+<section id="data-and-credits" class="level2">
+<h2 class="anchored" data-anchor-id="data-and-credits">Data and credits</h2>
+<p><strong>Tornado data:</strong> National Weather Service / Storm Prediction Center tornado-track data.<br>
+<strong>Boundary data:</strong> NHGIS.<br>
+<strong>GIS and cartographic design:</strong> Michael Campanovo.<br>
+<strong>Fabrication and fabrication problem-solving:</strong> Michael Camp0novo and Tracy Homer.</p>
 
 
 </section>

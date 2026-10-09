@@ -145,5 +145,8 @@
   },
   "projects/geospatial/tennessee-tornado-map.qmd": {
     "tennessee-tornado-map.html": "04b94d06"
+  },
+  "projects/geospatial/tennessee-tornado-map-backup.qmd": {
+    "tennessee-tornado-map-backup.html": "e36d3499"
   }
 }

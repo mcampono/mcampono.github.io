@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -14,10 +14,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -41,10 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-445b8638c3d06994fee0907d791121c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -155,7 +158,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#generalizing-the-shortest-tracks" id="toc-generalizing-the-shortest-tracks" class="nav-link" data-scroll-target="#generalizing-the-shortest-tracks">Generalizing the shortest tracks</a></li>
   </ul></li>
   <li><a href="#moving-from-gis-to-the-laser-cutter" id="toc-moving-from-gis-to-the-laser-cutter" class="nav-link" data-scroll-target="#moving-from-gis-to-the-laser-cutter">Moving from GIS to the laser cutter</a></li>
-  <li><a href="#building-the-frequency-symbology-by-hand" id="toc-building-the-frequency-symbology-by-hand" class="nav-link" data-scroll-target="#building-the-frequency-symbology-by-hand">Building the frequency symbology by hand</a></li>
+  <li><a href="#building-the-frequency-symbology-by-hand" id="toc-building-the-frequency-symbology-by-hand" class="nav-link" data-scroll-target="#building-the-frequency-symbology-by-hand">Building the frequency symbology by hand</a>
+  <ul class="collapse">
+  <li><a href="#translating-a-digital-color-ramp-into-physical-ink" id="toc-translating-a-digital-color-ramp-into-physical-ink" class="nav-link" data-scroll-target="#translating-a-digital-color-ramp-into-physical-ink">Translating a digital color ramp into physical ink</a></li>
+  </ul></li>
   <li><a href="#turning-extreme-tornado-tracks-into-string" id="toc-turning-extreme-tornado-tracks-into-string" class="nav-link" data-scroll-target="#turning-extreme-tornado-tracks-into-string">Turning extreme tornado tracks into string</a></li>
   <li><a href="#when-the-legend-needed-a-second-pass" id="toc-when-the-legend-needed-a-second-pass" class="nav-link" data-scroll-target="#when-the-legend-needed-a-second-pass">When the legend needed a second pass</a></li>
   <li><a href="#explore-the-tornado-data" id="toc-explore-the-tornado-data" class="nav-link" data-scroll-target="#explore-the-tornado-data">Explore the tornado data</a></li>
@@ -233,8 +239,10 @@ ul.task-list li input[type="checkbox"] {
 }
 
 @media (max-width: 700px) {
-  .map-embed arcgis-embedded-map {
-    height: 520px !important;
+  .map-embed,
+  .map-embed iframe {
+    min-height: 520px;
+    height: 520px;
   }
 }
 
@@ -248,9 +256,9 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Finished Tennessee tornado map showing stamped hexagons and red string tornado tracks.</figcaption>
 </figure>
 </div>
-<p>This project began with a question: <strong>what happens when a GIS map has to become a physical object?</strong></p>
-<p>The finished map shows the frequency of recorded tornado tracks across Tennessee using stamped hexagons, while the strongest tornadoes—F/EF4 and F/EF5 events—are represented with nails and red string. What began as a digital cartographic design became an experiment in translating GIS geometry, classification, and symbology into wood, ink, metal, and thread.</p>
-<p>The project was developed collaboratively by <strong>Michael Campanovo</strong> and <strong>Tracy Homer</strong>, combining GIS/cartographic design with fabrication expertise.</p>
+<p>After watching my former student and Maker Extraordinaire Tracy Homer dominate the mapping contest at various TNGIC conferences over the last few years, I knew I’d never be able to match her expertise and creativity in creating physical map objects. So I did the obvious thing and asked if she’d like to work on a project together for the Fall 2026 TNGIC East Fall Forum with me. Combining Tracy’s expertise in laser engraving and my middle-school memories of making string art, this project combines both concepts to map tornado data for Tennessee as a physical mapping product. As a novice in making physical maps, there were plenty of challenges that I did not initially anticipate, but thankfully Tracy was always there with her no-fear attitude and confidence that we would find a solution.</p>
+<p>The finished map shows the frequency of recorded tornado tracks across Tennessee using stamped hexagons, while the strongest tornadoes, F/EF4 and F/EF5 events, are represented with nails and red string. I am indebted to Tracy for helping me translate what began as a digital cartographic design through an iterative experimentation process converting GIS geometry, classification, and symbology into wood, ink, metal, and thread.</p>
+<p>The project was developed collaboratively by <strong>Michael Camponovo</strong> and <strong>Tracy Homer</strong>, combining GIS/cartographic design with fabrication expertise.</p>
 <section id="the-cartographic-idea" class="level2">
 <h2 class="anchored" data-anchor-id="the-cartographic-idea">The cartographic idea</h2>
 <p>The physical map communicates two aspects of Tennessee tornado history:</p>
@@ -269,7 +277,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/digital-map-design.webp" class="img-fluid figure-img"></p>
-<figcaption>ArcGIS Pro map design showing the Tennessee hexagon frequency surface and extreme tornado tracks before fabrication.</figcaption>
+<figcaption>ArcGIS Pro map design showing the Tennessee hexagon frequency surface and extreme tornado tracks before fabrication. Note that some ideas from the digital version did not make it to the final, physical map.</figcaption>
 </figure>
 </div>
 </section>
@@ -278,7 +286,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Designing for fabrication changed decisions that would normally be trivial in a digital map. A line on a screen can be arbitrarily short. A physical tornado track represented by two nails and string cannot.</p>
 <section id="generalizing-the-shortest-tracks" class="level3">
 <h3 class="anchored" data-anchor-id="generalizing-the-shortest-tracks">Generalizing the shortest tracks</h3>
-<p>Several very short tornado tracks did not provide enough physical distance for two pilot holes, nails, and string. Those tracks were selectively lengthened for fabrication while preserving their general location and orientation.</p>
+<p>Several very short tornado tracks did not provide enough physical distance for two pilot holes, nails, and string. Those tracks were selectively lengthened for fabrication while preserving their general location and orientation. In addition, the starting and ending points of some tornado tracks were moved slightly to avoid overlapping with the labels inside each hexagon. The final map is a compromise between geographic accuracy and physical feasibility.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/short-track-generalization.webp" class="img-fluid figure-img"></p>
@@ -292,7 +300,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="moving-from-gis-to-the-laser-cutter" class="level2">
 <h2 class="anchored" data-anchor-id="moving-from-gis-to-the-laser-cutter">Moving from GIS to the laser cutter</h2>
-<p>ArcGIS Pro remained the geographic and cartographic master. The final geometry was exported as <strong>SVG</strong>, preserving vector linework for fabrication.</p>
+<p>ArcGIS Pro remained the geographic and cartographic master. The final geometry was exported as an <strong>SVG</strong> file, preserving vector linework for fabrication.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/laser-engraving-map.webp" class="img-fluid figure-img"></p>
@@ -302,10 +310,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/fresh-from-laser.webp" class="img-fluid figure-img"></p>
-<figcaption>Freshly laser-engraved plywood tornado map before color, nails, and string were added.</figcaption>
+<figcaption>Freshly laser-engraved plywood tornado map before color, nails, and string were added. Note all the burn marks that would require sanding to remove.</figcaption>
 </figure>
 </div>
-<p>A small flying-cow reference was engraved into the marginalia as an Easter egg.</p>
+<p>For those of us growing up in the 1990s, our introduction to the world of tornadoes and storm chasers was through Bill Paxton in Twister. We added a small engraving in his honor to the marginalia of the map. The small flying cow is a nod to the movie’s memorable scene where a cow is lifted into the air by a tornado.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/flying-cow-easter-egg.webp" class="img-fluid figure-img"></p>
@@ -319,20 +327,29 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/creating-the-stamping-guide.gif" class="img-fluid figure-img"></p>
-<figcaption>Custom hexagon stamp and clear registration jig used to apply frequency classes to the map.</figcaption>
+<figcaption>Using the CO₂ laser to cut the stamp application guide from acrylic.</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../../assets/images/projects/tornado-map/stamping-in-progress.webp" class="img-fluid figure-img"></p>
-<figcaption>Hand stamping colored tornado-frequency hexagons onto the engraved plywood map.</figcaption>
+<p><img src="../../assets/images/projects/tornado-map/laser-cutting-the-stamp.webp" class="img-fluid figure-img"></p>
+<figcaption>Tracy used the fiber laser to cut out the custom hexagon donut stamp.</figcaption>
 </figure>
 </div>
-<p>Approximately <strong>155 hexagons</strong> were stamped individually.</p>
+<p>Tracy stamped all <strong>155 hexagons</strong> individually plus the hexagons in the map legend.</p>
+<section id="translating-a-digital-color-ramp-into-physical-ink" class="level3">
+<h3 class="anchored" data-anchor-id="translating-a-digital-color-ramp-into-physical-ink">Translating a digital color ramp into physical ink</h3>
+<p>One of the less obvious initial challenges was translating a digital color ramp into physical colors. In a GIS, trying a new color ramp is almost effortless. You can swap palettes, reverse the order, adjust individual colors, change transparency, or test an entirely different scheme in seconds. The same is true when preparing a conventional printed map - if the colors do not work, you can revise the design and print another copy.</p>
+<p>Working with ink on wood is much less flexible. We were limited to the colors we physically had available, and those colors did not necessarily look on plywood the way they appeared on a screen or ink pad. The wood grain, engraved surface, ink saturation, and overlap between colors all affected the result. Once dozens of hexagons had been stamped, changing the palette was no longer a simple cartographic edit; it would have meant physically reworking the map.</p>
+<p>Our original goal was a clean sequential progression from yellow through orange, red, magenta, and violet. In practice, the middle classes were less visually ordered than they appeared in the digital design. Rather than trying to repaint or replace more than a hundred stamped symbols, we accepted some of that variation as part of the handmade character of the map and relied on the labeled legend to make the classes explicit.</p>
+<blockquote class="blockquote">
+<p><strong>Design challenge:</strong> Digital color ramps are easy to revise. Physical color ramps depend on the materials you actually have, how those materials behave on the surface, and how much of the map has already been fabricated.</p>
+</blockquote>
+</section>
 </section>
 <section id="turning-extreme-tornado-tracks-into-string" class="level2">
 <h2 class="anchored" data-anchor-id="turning-extreme-tornado-tracks-into-string">Turning extreme tornado tracks into string</h2>
-<p>Pilot holes were drilled at track endpoints, nails were installed, and red embroidery floss was stretched between them. Two red values distinguish <strong>F/EF4</strong> from <strong>F/EF5</strong> tornadoes.</p>
+<p>We drilled pilot holes at track endpoints, installed nails, and added red embroidery floss between them. We used two red values with different thicknesses to distinguish <strong>F/EF4</strong> from <strong>F/EF5</strong> tornadoes.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/pilot-holes-and-nails.webp" class="img-fluid figure-img"></p>
@@ -348,13 +365,13 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/extreme-tracks-detail.webp" class="img-fluid figure-img"></p>
-<figcaption>Close-up of completed red string tracks showing two shades for F/EF4 and F/EF5 tornadoes.</figcaption>
+<figcaption>Close-up of completed red string tracks showing two shades for F/EF4 and F/EF5 tornadoes. The brighter, thicker red embroidery floss is on the lower left. All the other tracks are thinner, darker embroidery floss.</figcaption>
 </figure>
 </div>
 </section>
 <section id="when-the-legend-needed-a-second-pass" class="level2">
 <h2 class="anchored" data-anchor-id="when-the-legend-needed-a-second-pass">When the legend needed a second pass</h2>
-<p>The first engraved legend revealed a late-stage problem: the class-break numbers were visibly misaligned. Rather than re-engraving the entire map, a revised legend was engraved and cut from <strong>1/4-inch plywood</strong>, finished, stamped, and glued over the original.</p>
+<p>The first engraved legend revealed two late-stage problems: the class-break numbers were visibly misaligned, and they were too wide to work with the custom hexagon-donut stamp Tracy created. Rather than re-engraving the entire map, we created a revised legend showing just the upper class limits. The revised legend was engraved and cut from <strong>1/4-inch plywood</strong>, finished, stamped, and glued over the original.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../../assets/images/projects/tornado-map/original-legend-problem.webp" class="img-fluid figure-img"></p>
@@ -379,7 +396,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="explore-the-tornado-data" class="level2">
 <h2 class="anchored" data-anchor-id="explore-the-tornado-data">Explore the tornado data</h2>
-<p>The physical map deliberately reduces a complex tornado dataset into tangible symbols. The interactive web map provides access to the underlying geography and additional detail.</p>
+<p>The physical map deliberately reduces a complex tornado dataset into tangible symbols. The interactive web map provides access to the underlying geography and additional detail. Give it a minute to load, then pan and zoom to explore the tornado tracks and frequency surface.</p>
 <div class="map-embed">
 <iframe title="Tornadoes in Tennessee Supplement to Physical Map" src="https://myutk.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&amp;webmap=69af2b0977fd4239a47c9da4a8708189&amp;theme=light&amp;scroll=false&amp;center=-85.69934398467406,34.73015386670354&amp;scale=4622324.434309" allow="local-network-access; geolocation" loading="lazy">
 </iframe>
@@ -419,6 +436,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>18 × 36 inch plywood map surface</li>
 <li>CO₂ laser cutter/engraver</li>
+<li>Fiber laser cutter/engraver</li>
 <li>Custom hexagon-donut stamp</li>
 <li>Clear registration jig</li>
 <li>Archival inks</li>
@@ -431,8 +449,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="data-and-credits">Data and credits</h2>
 <p><strong>Tornado data:</strong> National Weather Service / Storm Prediction Center tornado-track data.<br>
 <strong>Boundary data:</strong> NHGIS.<br>
-<strong>GIS and cartographic design:</strong> Michael Campanovo.<br>
-<strong>Fabrication and fabrication problem-solving:</strong> Michael Campanovo and Tracy Homer.</p>
+<strong>GIS and cartographic design:</strong> Michael Camponovo.<br>
+<strong>Fabrication and fabrication problem-solving:</strong> Michael Camponovo and Tracy Homer.</p>
 
 
 </section>

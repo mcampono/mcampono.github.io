@@ -42,10 +42,8 @@ page-layout: article
 }
 
 @media (max-width: 700px) {
-  .map-embed,
-  .map-embed iframe {
-    min-height: 520px;
-    height: 520px;
+  .map-embed arcgis-embedded-map {
+    height: 520px !important;
   }
 }
 
@@ -56,11 +54,11 @@ page-layout: article
 
 ![Finished Tennessee tornado map showing stamped hexagons and red string tornado tracks.](../../assets/images/projects/tornado-map/tornado-map-hero.webp)
 
-After watching my former student and Maker Extraordinaire Tracy Homer dominate the mapping contest at various TNGIC conferences over the last few years, I knew I'd never be able to match her expertise and creativity in creating physical map objects. So I did the obvious thing and asked if she'd like to work on a project together for the Fall 2026 TNGIC East Fall Forum with me. Combining Tracy's expertise in laser engraving and my middle-school memories of making string art, this project combines both concepts to map tornado data for Tennessee as a physical mapping product. As a novice in making physical maps, there were plenty of challenges that I did not initially anticipate, but thankfully Tracy was always there with her no-fear attitude and confidence that we would find a solution. 
+After watching my former student and Maker Extradoirare Tracy Homer dominate the mapping contest at various TNGIC conferences over the last few years, I knew I'd never be able to match her expertise and creativity in creating physical map objects. So I did the obvious thing and asked if she'd like to work on a project together for the Fall 2026 TNGIC East Fall Forum with me. Combining Tracy's expertise in laser engraving and middle-school memories of making sgtring art, this project combines both concepts to map tornado data for Tennessee as a physical mapping product. As a novice in making physical maps, there were plenty of challenges that I did not initially anticipate, but thankfully Tracy was always there with her no-fear attitude and confidence that we would find a solution. 
 
-The finished map shows the frequency of recorded tornado tracks across Tennessee using stamped hexagons, while the strongest tornadoes, F/EF4 and F/EF5 events, are represented with nails and red string. I am indebted to Tracy for helping me translate what began as a digital cartographic design through an iterative experimentation process converting GIS geometry, classification, and symbology into wood, ink, metal, and thread.
+The finished map shows the frequency of recorded tornado tracks across Tennessee using stamped hexagons, while the strongest tornadoes, F/EF4 and F/EF5 events, are represented with nails and red string. I am indebted to Tracy for helping me translate what began as a digital cartographic design through an iterative experimentatino process converting GIS geometry, classification, and symbology into wood, ink, metal, and thread.
 
-The project was developed collaboratively by **Michael Camponovo** and **Tracy Homer**, combining GIS/cartographic design with fabrication expertise.
+The project was developed collaboratively by **Michael Campanovo** and **Tracy Homer**, combining GIS/cartographic design with fabrication expertise.
 
 ## The cartographic idea
 
@@ -99,7 +97,7 @@ ArcGIS Pro remained the geographic and cartographic master. The final geometry w
 
 ![Freshly laser-engraved plywood tornado map before color, nails, and string were added. Note all the burn marks that would require sanding to remove.](../../assets/images/projects/tornado-map/fresh-from-laser.webp){fig-cap="The engraved map before the hand-applied frequency colors and extreme-track string layer were added."}
 
-For those of us growing up in the 1990s, our introduction to the world of tornadoes and storm chasers was through Bill Paxton in Twister. We added a small engraving in his honor to the marginalia of the map. The small flying cow is a nod to the movie's memorable scene where a cow is lifted into the air by a tornado.
+For those of us growing up in the 1990's, our introduction to the world of tornadoes and storm chasers was through Bill Paxton in Twister. We added a small engraving in his honor to the marginalia of the map. The small flying cow is a nod to the movie's memorable scene where a cow is lifted into the air by a tornado.
 
 ![Small engraved flying cow Easter egg included in the map marginalia.](../../assets/images/projects/tornado-map/flying-cow-easter-egg.webp){fig-cap="A small flying-cow Easter egg was engraved into the marginalia."}
 
@@ -107,21 +105,11 @@ For those of us growing up in the 1990s, our introduction to the world of tornad
 
 The hexagon classes were applied manually using archival inks. Tracy fabricated a custom **hexagon-donut stamp** and clear registration jig so each stamp could be centered consistently.
 
-![Using the CO₂ laser to cut the stamp application guide from acrylic.](../../assets/images/projects/tornado-map/creating-the-stamping-guide.gif){fig-cap="The custom hexagon-donut stamp and clear registration jig used to align the hand-stamped frequency classes."}
+![Using the CO₂ laser to cut out the stamp application guide out of acrylic.](../../assets/images/projects/tornado-map/creating-the-stamping-guide.gif){fig-cap="The custom hexagon-donut stamp and clear registration jig used to align the hand-stamped frequency classes."}
 
 ![Tracy used the fiber laser to cut out the custom hexagon donut stamp.](../../assets/images/projects/tornado-map/laser-cutting-the-stamp.webp){fig-cap="Approximately 155 hexagons were stamped individually using archival inks."}
 
 Tracy stamped all **155 hexagons** individually plus the hexagons in the map legend.
-
-### Translating a digital color ramp into physical ink
-
-One of the less obvious initial challenges was translating a digital color ramp into physical colors. In a GIS, trying a new color ramp is almost effortless. You can swap palettes, reverse the order, adjust individual colors, change transparency, or test an entirely different scheme in seconds. The same is true when preparing a conventional printed map - if the colors do not work, you can revise the design and print another copy.
-
-Working with ink on wood is much less flexible. We were limited to the colors we physically had available, and those colors did not necessarily look on plywood the way they appeared on a screen or ink pad. The wood grain, engraved surface, ink saturation, and overlap between colors all affected the result. Once dozens of hexagons had been stamped, changing the palette was no longer a simple cartographic edit; it would have meant physically reworking the map.
-
-Our original goal was a clean sequential progression from yellow through orange, red, magenta, and violet. In practice, the middle classes were less visually ordered than they appeared in the digital design. Rather than trying to repaint or replace more than a hundred stamped symbols, we accepted some of that variation as part of the handmade character of the map and relied on the labeled legend to make the classes explicit.
-
-> **Design challenge:** Digital color ramps are easy to revise. Physical color ramps depend on the materials you actually have, how those materials behave on the surface, and how much of the map has already been fabricated.
 
 ## Turning extreme tornado tracks into string
 
@@ -135,7 +123,7 @@ We drilled pilot holes at track endpoints, installed nails, and added red embroi
 
 ## When the legend needed a second pass
 
-The first engraved legend revealed two late-stage problems: the class-break numbers were visibly misaligned, and they were too wide to work with the custom hexagon-donut stamp Tracy created. Rather than re-engraving the entire map, we created a revised legend showing just the upper class limits. The revised legend was engraved and cut from **1/4-inch plywood**, finished, stamped, and glued over the original.
+The first engraved legend revealed two late-stage problems - the class-break numbers were visibly misaligned and they were too wide to work with the custom hexagon donut stamp Tracy created. Rather than re-engraving the entire map, we created a revised legend showing just the upper class limits. The revised legend was engraved and cut from **1/4-inch plywood**, finished, stamped, and glued over the original.
 
 ![Original engraved legend showing misaligned class-break numbers.](../../assets/images/projects/tornado-map/original-legend-problem.webp){fig-cap="The original legend revealed a late-stage alignment problem with the class-break labels."}
 
@@ -198,5 +186,5 @@ The completed project combines GIS analysis and cartographic design with laser f
 
 **Tornado data:** National Weather Service / Storm Prediction Center tornado-track data.  
 **Boundary data:** NHGIS.  
-**GIS and cartographic design:** Michael Camponovo.  
-**Fabrication and fabrication problem-solving:** Michael Camponovo and Tracy Homer.
+**GIS and cartographic design:** Michael Campanovo.  
+**Fabrication and fabrication problem-solving:** Michael Camp0novo and Tracy Homer.
