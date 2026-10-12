@@ -119,6 +119,8 @@ One of the less obvious initial challenges was translating a digital color ramp 
 
 Working with ink on wood is much less flexible. We were limited to the colors we physically had available, and those colors did not necessarily look on plywood the way they appeared on a screen or ink pad. The wood grain, engraved surface, ink saturation, and overlap between colors all affected the result. Once dozens of hexagons had been stamped, changing the palette was no longer a simple cartographic edit; it would have meant physically reworking the map.
 
+![Tracy used the laser-cut guide to hand stamp every hexagon on the map.](../../assets/images/projects/tornado-map/stamping-guide.webp){fig-cap="Approximately 155 hexagons were stamped individually using archival inks."}
+
 Our original goal was a clean sequential progression from yellow through orange, red, magenta, and violet. In practice, the middle classes were less visually ordered than they appeared in the digital design. Rather than trying to repaint or replace more than a hundred stamped symbols, we accepted some of that variation as part of the handmade character of the map and relied on the labeled legend to make the classes explicit.
 
 > **Design challenge:** Digital color ramps are easy to revise. Physical color ramps depend on the materials you actually have, how those materials behave on the surface, and how much of the map has already been fabricated.
@@ -138,8 +140,6 @@ We drilled pilot holes at track endpoints, installed nails, and added red embroi
 The first engraved legend revealed two late-stage problems: the class-break numbers were visibly misaligned, and they were too wide to work with the custom hexagon-donut stamp Tracy created. Rather than re-engraving the entire map, we created a revised legend showing just the upper class limits. The revised legend was engraved and cut from **1/4-inch plywood**, finished, stamped, and glued over the original.
 
 ![Original engraved legend showing misaligned class-break numbers.](../../assets/images/projects/tornado-map/original-legend-problem.webp){fig-cap="The original legend revealed a late-stage alignment problem with the class-break labels."}
-
-![Replacement plywood legend being engraved, finished, or stamped before installation.](../../assets/images/projects/tornado-map/replacement-legend-fabrication.webp){fig-cap="A revised legend was fabricated separately on 1/4-inch plywood rather than re-engraving the entire map."}
 
 ![Completed replacement legend installed over the original engraved legend.](../../assets/images/projects/tornado-map/replacement-legend-installed.webp){fig-cap="The finished replacement legend became an intentional raised element of the final map."}
 
