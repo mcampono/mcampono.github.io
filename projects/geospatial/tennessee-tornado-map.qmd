@@ -62,6 +62,9 @@ The finished map shows the frequency of recorded tornado tracks across Tennessee
 
 The project was developed collaboratively by **Michael Camponovo** and **Tracy Homer**, combining GIS/cartographic design with fabrication expertise.
 
+## Recognition
+The map received the Viewer's Choice Award in the map gallery at the 2026 TNGIC East Fall Forum in Knoxville, Tennessee.
+
 ## The cartographic idea
 
 The physical map communicates two aspects of Tennessee tornado history:
